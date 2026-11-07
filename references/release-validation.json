@@ -1,0 +1,40 @@
+{
+  "version": "0.1.0",
+  "validated_utc": "2026-11-07T10:42:21.173069+00:00",
+  "doctor": {
+    "success": true,
+    "checked_modules": 23,
+    "pages": 86,
+    "errors": [],
+    "historical_new_content_playback_verified": true,
+    "new_output_playback_verified": false
+  },
+  "font_checks_passed": 23,
+  "functional_checks": [
+    {
+      "check": "call_from_unrelated_working_directory",
+      "success": true,
+      "module": "vid-0299-rhythmic-timeline",
+      "slides": 6,
+      "bound_objects": 6,
+      "timing_preserved": true
+    },
+    {
+      "check": "existing_output_protected",
+      "success": true
+    },
+    {
+      "check": "continuous_chain_slicing_rejected",
+      "success": true
+    },
+    {
+      "check": "percentage_geometry_contract_preserved",
+      "success": true,
+      "contract": "semicircle_progress"
+    }
+  ],
+  "relative_runtime_paths": true,
+  "source_routes": 21,
+  "new_composition_playback_verified": false,
+  "historical_checks": "Imported summaries of scoped WPS runs; not newly re-recorded during packaging."
+}

@@ -1,0 +1,65 @@
+{
+  "module_id": "vid-0369-five-step-cards",
+  "native_package_sha256": "d0321cbfcb6159ae159f046985e74db18a9b06e4493a8a83f7c443c326de0699",
+  "software": "WPS Presentation",
+  "source_verification": {
+    "native_package_extracted": false,
+    "native_component_constructed": true,
+    "source_full_reviewed": true,
+    "package_integrity_checked": true,
+    "font_and_content_bindings_checked": true,
+    "native_component_playback_verified": true,
+    "whole_composition_playback_verified": false,
+    "new_content_playback_verified": true,
+    "user_accepted_revision": false,
+    "scope": "五组双层圆角卡与侧签，六页逐卡左抽；正文独立0.50秒淡化; new-content invocation preserves native mechanism; cross-module interfaces not accepted",
+    "target_software": "WPS Presentation",
+    "playback_evidence": "[local evidence path omitted]",
+    "boundaries_captured": 5,
+    "static_visual_review": "All source states inspected through rendered views and stable-state contact sheets; original video assets and unknown fields are not asserted as reconstructed.",
+    "source_timing_unknowns_retained": true,
+    "source_full_video_reproduced": false,
+    "new_content_call_evidence": "[local evidence path omitted]",
+    "new_content_playback_evidence": "[local evidence path omitted]"
+  },
+  "new_content_call": {
+    "index": 369,
+    "file": "[local evidence path omitted]",
+    "pptx_sha256": "ca6ebb3b323b86b36f5ba05b723abd992033a6a986df70004bd94648f02c8a4a",
+    "recording": "[local evidence path omitted]",
+    "recording_sha256": "432bb0d631c04663a3da5d970d4a7a91e212eaf547e93c5c5377a857e52de9aa",
+    "page_order": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "all_encoded_frames_decoded": true,
+    "encoded_frames": 1280,
+    "duration_s": 21.333333,
+    "events_s": [
+      0.09530806541442871,
+      3.638936996459961,
+      7.171643972396851,
+      10.679808139801025,
+      14.182516098022461,
+      17.714030027389526
+    ],
+    "viewport_crop": [
+      0,
+      40,
+      1280,
+      720
+    ],
+    "capture_scope": "WindowsGraphicsCapture_exact_verified_owned_HWND_client",
+    "native_visual_metrics": {},
+    "manual_visual_review_complete": false,
+    "user_accepted": false,
+    "review_method": "All stable states and dense temporal sheets of every boundary; complete file decoded. These artifacts are not an independent full real-time human watch."
+  },
+  "source_receipt_sha256": "ce77b21510686fe66fca910214e157087162a4294ab2fba03ac1047666097987",
+  "scope": "历史实播记录摘要；不包含原录像或截图。新稿须另行实播。",
+  "user_acceptance_inherited": false
+}

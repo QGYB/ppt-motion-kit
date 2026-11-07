@@ -1,0 +1,69 @@
+{
+  "module_id": "tpl-b1c103bde32f-p001-005",
+  "native_package_sha256": "309807065f785a0b4033061cc82ac8a678b7f1e50c772935c41cac9569a63cf0",
+  "software": "WPS Presentation",
+  "source_verification": {
+    "native_package_extracted": true,
+    "source_first_pass_reviewed": true,
+    "content_bindings_extracted": true,
+    "source_timing_preserved": true,
+    "package_integrity_checked": true,
+    "whole_composition_playback_verified": false,
+    "new_content_playback_verified": true,
+    "user_accepted_revision": false,
+    "scope": "Original animation and content slots physically extracted. Source study previews and prior compiled-source static renders are separate from new-content application verification.",
+    "font_and_content_bindings_checked": true,
+    "validation_status": "passed",
+    "validation_receipt": "[local evidence path omitted]",
+    "source_study_preview_available": true,
+    "native_component_playback_verified": true,
+    "new_content_playback_evidence": "[local evidence path omitted]",
+    "new_content_scope": "61处源对象文本绑定，全部5页和相邻边；原几何、切换和计时逐项一致。"
+  },
+  "new_content_call": {
+    "index": 400,
+    "file": "[local evidence path omitted]",
+    "pptx_sha256": "2a0b827eb1cf82fb23906424bb108011bcbbb2de8b9e3f60b9c155e73b8f0dd4",
+    "recording": "[local evidence path omitted]",
+    "recording_sha256": "912e1ca44dd96fa2e777bc4fe7eac497c61800cdfe295c90f93bd16aefe97ef2",
+    "page_order": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "all_encoded_frames_decoded": true,
+    "encoded_frames": 1225,
+    "duration_s": 20.416667,
+    "events_s": [
+      0.14309906959533691,
+      4.193008899688721,
+      8.245637893676758,
+      12.299675941467285,
+      16.343154907226562
+    ],
+    "viewport_crop": [
+      0,
+      40,
+      1280,
+      720
+    ],
+    "capture_scope": "WindowsGraphicsCapture_exact_verified_owned_HWND_client",
+    "native_visual_metrics": {},
+    "manual_visual_review_complete": false,
+    "user_accepted": false,
+    "review_method": "All stable states and dense temporal sheets of every boundary; complete file decoded. These artifacts are not an independent full real-time human watch.",
+    "core_mechanism_visual_reviewed": true,
+    "core_mechanism_visual_passed": true,
+    "content_bindings_visually_reviewed": true,
+    "review_scope": "当前完整源模块的全部稳定状态与每条相邻边中段均已对照实际录像；逐字、段落和双语副本已按实体同步。不是整套成稿或任意外部接口验收。",
+    "compatibility_notes": [
+      "WPS实际启动相对事件时间可能有等待；录像编码帧率不等同独立原生帧率。",
+      "模板原始字号、照片与密度保留；新主题美化与事实仍须整稿复核。"
+    ]
+  },
+  "source_receipt_sha256": "81a18c84e603ce1f021366602f2cd16308bc27292ef075c761149cbe74b778cf",
+  "scope": "历史实播记录摘要；不包含原录像或截图。新稿须另行实播。",
+  "user_acceptance_inherited": false
+}

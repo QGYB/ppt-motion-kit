@@ -1,0 +1,63 @@
+{
+  "module_id": "tpl-108615410217-p001",
+  "native_package_sha256": "dbc05f552bd237dd5a09129e3958188f7de437b1cd7ecce0db4e00004b1b9f0f",
+  "software": "WPS Presentation",
+  "source_verification": {
+    "native_package_extracted": true,
+    "source_first_pass_reviewed": true,
+    "content_bindings_extracted": true,
+    "source_timing_preserved": true,
+    "package_integrity_checked": true,
+    "whole_composition_playback_verified": false,
+    "new_content_playback_verified": true,
+    "user_accepted_revision": false,
+    "scope": "Original animation and content slots physically extracted. Source study previews and prior compiled-source static renders are separate from new-content application verification.",
+    "font_and_content_bindings_checked": true,
+    "validation_status": "passed",
+    "validation_receipt": "[local evidence path omitted]",
+    "source_study_preview_available": false,
+    "native_component_playback_verified": true,
+    "new_content_playback_evidence": "[local evidence path omitted]",
+    "new_content_scope": "三个文本绑定且原生时序逐字节保持；不是整稿美化或任意外部接页已验收。"
+  },
+  "new_content_call": {
+    "index": 347,
+    "file": "[local evidence path omitted]",
+    "pptx_sha256": "cb7ee6aa698c1ad7aad689ff8285f5e432361d5572f1bb96eee8afe98d99aaa1",
+    "recording": "[local evidence path omitted]",
+    "recording_sha256": "ae7702c410081d211f3b32f86743053367d66f97a23405b157e8c7047be660ca",
+    "page_order": [
+      1
+    ],
+    "all_encoded_frames_decoded": true,
+    "encoded_frames": 1078,
+    "duration_s": 17.966667,
+    "events_s": [
+      1.4066109657287598
+    ],
+    "viewport_crop": [
+      0,
+      40,
+      1280,
+      720
+    ],
+    "capture_scope": "WindowsGraphicsCapture_exact_verified_owned_HWND_client",
+    "native_visual_metrics": {
+      "duration_field_s": 5,
+      "outbound_vs_endpoint_mae": 67.2834596949891,
+      "nominal_return_mae": 72.2184880174292,
+      "nominal_next_cycle_mae": 66.30395206971677,
+      "cycle_scope": "The XML duration is a source field; MAE at nominal times is diagnostic only. Use observed flow reversals to confirm the actual target-software return and next-cycle start. Arbitrary leave/reentry and endless runtime are unverified."
+    },
+    "manual_visual_review_complete": false,
+    "user_accepted": false,
+    "review_method": "All stable states and dense temporal sheets of every boundary; complete file decoded. These artifacts are not an independent full real-time human watch.",
+    "core_mechanism_visual_reviewed": true,
+    "core_mechanism_visual_passed": true,
+    "visual_review_scope": "原模板两列各5图反向运动、返程及后续一程，三个文本绑定；完整录像已解码并对照时序图。字体主标题很浅，为原模板样式，整页美化与整稿接口未签收。",
+    "flow_limitations": "固定ROI跨过斜列边界时会混合两列方向；KLT数值仅诊断，未用作精确周期秒表。"
+  },
+  "source_receipt_sha256": "c84b4aad503e9ca5befb7029305c2ce2a17a7e5e2646ecc3bf172073dc6b1f09",
+  "scope": "历史实播记录摘要；不包含原录像或截图。新稿须另行实播。",
+  "user_acceptance_inherited": false
+}

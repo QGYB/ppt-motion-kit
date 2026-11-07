@@ -1,0 +1,615 @@
+{
+  "module_id": "vid-0115-poster-focus",
+  "slide_size_emu": [
+    12192000,
+    6858000
+  ],
+  "text_slots": [
+    {
+      "page": 1,
+      "object_id": "1007",
+      "object_name": "!!body-0-title",
+      "expected_text": "从沙丘出发",
+      "runs": [
+        "从沙丘出发"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 762000,
+        "y": 2476500,
+        "cx": 4762500,
+        "cy": 876300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1008",
+      "object_name": "!!body-0-copy",
+      "expected_text": "填写这一项的主题与说明配图和文案在这里一一对应保持完整队列及相邻页状态",
+      "runs": [
+        "填写这一项的主题与说明",
+        "配图和文案在这里一一对应",
+        "保持完整队列及相邻页状态"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 781050,
+        "y": 3571875,
+        "cx": 4762500,
+        "cy": 1219200
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1010",
+      "object_name": "!!body-0-play-label",
+      "expected_text": "▶ PLAY",
+      "runs": [
+        "▶ PLAY"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 971550,
+        "y": 5172075,
+        "cx": 1143000,
+        "cy": 381000
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1011",
+      "object_name": "!!body-1-title",
+      "expected_text": "向云海行进",
+      "runs": [
+        "向云海行进"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 762000,
+        "y": 10572750,
+        "cx": 4762500,
+        "cy": 876300
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 1,
+      "object_id": "1012",
+      "object_name": "!!body-1-copy",
+      "expected_text": "填写这一项的主题与说明配图和文案在这里一一对应保持完整队列及相邻页状态",
+      "runs": [
+        "填写这一项的主题与说明",
+        "配图和文案在这里一一对应",
+        "保持完整队列及相邻页状态"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 781050,
+        "y": 11668125,
+        "cx": 4762500,
+        "cy": 1219200
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 1,
+      "object_id": "1014",
+      "object_name": "!!body-1-play-label",
+      "expected_text": "▶ PLAY",
+      "runs": [
+        "▶ PLAY"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 971550,
+        "y": 13268325,
+        "cx": 1143000,
+        "cy": 381000
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 1,
+      "object_id": "1016",
+      "object_name": "!!fixed-brand",
+      "expected_text": "图文展映",
+      "runs": [
+        "图文展映"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 762000,
+        "y": 333375,
+        "cx": 4762500,
+        "cy": 523875
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1017",
+      "object_name": "!!fixed-nav",
+      "expected_text": "INTRODUCTION     MUSIC     MOVIE",
+      "runs": [
+        "INTRODUCTION     MUSIC     MOVIE"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 6572250,
+        "y": 390525,
+        "cx": 4857750,
+        "cy": 438150
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1007",
+      "object_name": "!!body-0-title",
+      "expected_text": "从沙丘出发",
+      "runs": [
+        "从沙丘出发"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 762000,
+        "y": -5619750,
+        "cx": 4762500,
+        "cy": 876300
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 2,
+      "object_id": "1008",
+      "object_name": "!!body-0-copy",
+      "expected_text": "填写这一项的主题与说明配图和文案在这里一一对应保持完整队列及相邻页状态",
+      "runs": [
+        "填写这一项的主题与说明",
+        "配图和文案在这里一一对应",
+        "保持完整队列及相邻页状态"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 781050,
+        "y": -4524375,
+        "cx": 4762500,
+        "cy": 1219200
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 2,
+      "object_id": "1010",
+      "object_name": "!!body-0-play-label",
+      "expected_text": "▶ PLAY",
+      "runs": [
+        "▶ PLAY"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 971550,
+        "y": -2924175,
+        "cx": 1143000,
+        "cy": 381000
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 2,
+      "object_id": "1011",
+      "object_name": "!!body-1-title",
+      "expected_text": "向云海行进",
+      "runs": [
+        "向云海行进"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 762000,
+        "y": 2476500,
+        "cx": 4762500,
+        "cy": 876300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1012",
+      "object_name": "!!body-1-copy",
+      "expected_text": "填写这一项的主题与说明配图和文案在这里一一对应保持完整队列及相邻页状态",
+      "runs": [
+        "填写这一项的主题与说明",
+        "配图和文案在这里一一对应",
+        "保持完整队列及相邻页状态"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 781050,
+        "y": 3571875,
+        "cx": 4762500,
+        "cy": 1219200
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1014",
+      "object_name": "!!body-1-play-label",
+      "expected_text": "▶ PLAY",
+      "runs": [
+        "▶ PLAY"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 971550,
+        "y": 5172075,
+        "cx": 1143000,
+        "cy": 381000
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1016",
+      "object_name": "!!fixed-brand",
+      "expected_text": "图文展映",
+      "runs": [
+        "图文展映"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 762000,
+        "y": 333375,
+        "cx": 4762500,
+        "cy": 523875
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1017",
+      "object_name": "!!fixed-nav",
+      "expected_text": "INTRODUCTION     MUSIC     MOVIE",
+      "runs": [
+        "INTRODUCTION     MUSIC     MOVIE"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 6572250,
+        "y": 390525,
+        "cx": 4857750,
+        "cy": 438150
+      },
+      "fully_off_canvas": false
+    }
+  ],
+  "table_cell_slots": [],
+  "media_parts": [
+    {
+      "part": "ppt/media/image.jpeg",
+      "bytes": 121310,
+      "sha256": "57d55010e7f7d3854cbea74731a042de393d4610c8878488aacaf2652cbe83f2",
+      "use": "background or photo, replace all same-entity states together"
+    },
+    {
+      "part": "ppt/media/image2.jpeg",
+      "bytes": 2576183,
+      "sha256": "1447abc0c1ba1f7390a26523f3a268ba71d1f92b2118b5e40b563f9704502cfc",
+      "use": "background or photo, replace all same-entity states together"
+    },
+    {
+      "part": "ppt/media/image4.jpeg",
+      "bytes": 3060376,
+      "sha256": "1a20bde815d17845ed23d66731d85a0978938ec5b9085ca61276fb76d54f0a30",
+      "use": "background or photo, replace all same-entity states together"
+    },
+    {
+      "part": "ppt/media/image5.jpeg",
+      "bytes": 4529707,
+      "sha256": "d85e7ba1afb069b8579f17a9a020aeb1cc9a589f9da0d5b8d82b64fd6d9867d3",
+      "use": "background or photo, replace all same-entity states together"
+    },
+    {
+      "part": "ppt/media/image6.jpeg",
+      "bytes": 880578,
+      "sha256": "6f5452ee1cb4dd00bc575288639a77c8fb49267da5f9af0f1fecd65125dc8c70",
+      "use": "background or photo, replace all same-entity states together"
+    },
+    {
+      "part": "ppt/media/prepared-web-background.png",
+      "bytes": 487798,
+      "sha256": "25d3eb46f4af5932cc1e3903e10024e9ae5b1c4e12b4601ec263d26f94670fd8",
+      "use": "background or photo, replace all same-entity states together"
+    }
+  ],
+  "image_usage": [
+    {
+      "page": 1,
+      "object_id": null,
+      "object_name": "__slide_background__",
+      "scope": "slide_background",
+      "media_part": "ppt/media/prepared-web-background.png"
+    },
+    {
+      "page": 1,
+      "object_id": "1001",
+      "object_name": "!!poster-0",
+      "scope": "native_object",
+      "media_part": "ppt/media/image2.jpeg"
+    },
+    {
+      "page": 1,
+      "object_id": "1002",
+      "object_name": "!!poster-1",
+      "scope": "native_object",
+      "media_part": "ppt/media/image.jpeg"
+    },
+    {
+      "page": 1,
+      "object_id": "1003",
+      "object_name": "!!poster-2",
+      "scope": "native_object",
+      "media_part": "ppt/media/image4.jpeg"
+    },
+    {
+      "page": 1,
+      "object_id": "1004",
+      "object_name": "!!poster-3",
+      "scope": "native_object",
+      "media_part": "ppt/media/image5.jpeg"
+    },
+    {
+      "page": 1,
+      "object_id": "1005",
+      "object_name": "!!poster-4",
+      "scope": "native_object",
+      "media_part": "ppt/media/image6.jpeg"
+    },
+    {
+      "page": 1,
+      "object_id": "1006",
+      "object_name": "!!left-mask",
+      "scope": "same_slide_background_fill",
+      "media_part": "ppt/media/prepared-web-background.png"
+    },
+    {
+      "page": 1,
+      "object_id": "1015",
+      "object_name": "!!top-mask",
+      "scope": "same_slide_background_fill",
+      "media_part": "ppt/media/prepared-web-background.png"
+    },
+    {
+      "page": 2,
+      "object_id": null,
+      "object_name": "__slide_background__",
+      "scope": "slide_background",
+      "media_part": "ppt/media/prepared-web-background.png"
+    },
+    {
+      "page": 2,
+      "object_id": "1001",
+      "object_name": "!!poster-0",
+      "scope": "native_object",
+      "media_part": "ppt/media/image2.jpeg"
+    },
+    {
+      "page": 2,
+      "object_id": "1002",
+      "object_name": "!!poster-1",
+      "scope": "native_object",
+      "media_part": "ppt/media/image.jpeg"
+    },
+    {
+      "page": 2,
+      "object_id": "1003",
+      "object_name": "!!poster-2",
+      "scope": "native_object",
+      "media_part": "ppt/media/image4.jpeg"
+    },
+    {
+      "page": 2,
+      "object_id": "1004",
+      "object_name": "!!poster-3",
+      "scope": "native_object",
+      "media_part": "ppt/media/image5.jpeg"
+    },
+    {
+      "page": 2,
+      "object_id": "1005",
+      "object_name": "!!poster-4",
+      "scope": "native_object",
+      "media_part": "ppt/media/image6.jpeg"
+    },
+    {
+      "page": 2,
+      "object_id": "1006",
+      "object_name": "!!left-mask",
+      "scope": "same_slide_background_fill",
+      "media_part": "ppt/media/prepared-web-background.png"
+    },
+    {
+      "page": 2,
+      "object_id": "1015",
+      "object_name": "!!top-mask",
+      "scope": "same_slide_background_fill",
+      "media_part": "ppt/media/prepared-web-background.png"
+    }
+  ],
+  "repeat_bindings": [
+    {
+      "entity_name": "!!body-0-title",
+      "table_cell": null,
+      "expected_text": "从沙丘出发",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1007",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1007",
+          "fully_off_canvas": true
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!body-0-copy",
+      "table_cell": null,
+      "expected_text": "填写这一项的主题与说明配图和文案在这里一一对应保持完整队列及相邻页状态",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1008",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1008",
+          "fully_off_canvas": true
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!body-0-play-label",
+      "table_cell": null,
+      "expected_text": "▶ PLAY",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1010",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1010",
+          "fully_off_canvas": true
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!body-1-title",
+      "table_cell": null,
+      "expected_text": "向云海行进",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1011",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 2,
+          "object_id": "1011",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!body-1-copy",
+      "table_cell": null,
+      "expected_text": "填写这一项的主题与说明配图和文案在这里一一对应保持完整队列及相邻页状态",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1012",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 2,
+          "object_id": "1012",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!body-1-play-label",
+      "table_cell": null,
+      "expected_text": "▶ PLAY",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1014",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 2,
+          "object_id": "1014",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!fixed-brand",
+      "table_cell": null,
+      "expected_text": "图文展映",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1016",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1016",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!fixed-nav",
+      "table_cell": null,
+      "expected_text": "INTRODUCTION     MUSIC     MOVIE",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1017",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1017",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    }
+  ],
+  "state_contracts": [
+    {
+      "page": 1,
+      "state_index": 1,
+      "name": "海报队列换焦点与说明接力：状态1",
+      "requires_previous_state": false,
+      "state_sequence_locked": true
+    },
+    {
+      "page": 2,
+      "state_index": 2,
+      "name": "海报队列换焦点与说明接力：状态2",
+      "requires_previous_state": true,
+      "state_sequence_locked": true
+    }
+  ],
+  "native_timing_fingerprints": [
+    {
+      "part": "ppt/slides/slide1.xml",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "part": "ppt/slides/slide2.xml",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  ],
+  "binding_rule": "Keep object identity, run count and complete ordered state chain; table_cell uses zero-based [row,column]. Result labels and native spin angles must be changed together through a geometry-aware recipe, not by text-only replacement."
+}

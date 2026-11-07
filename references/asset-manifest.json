@@ -1,0 +1,145 @@
+{
+  "version": "0.1.0",
+  "files": [
+    {
+      "path": "assets/modules/tpl-b834efe53d2b-p001.pptx",
+      "sha256": "364d93c84f3acd81c642a7db1047f02d9f03dca11b43f63b0b29d6c1d9c2dd47",
+      "bytes": 34783842,
+      "module_id": "tpl-b834efe53d2b-p001"
+    },
+    {
+      "path": "assets/modules/tpl-82ba298a698f-p001-004.pptx",
+      "sha256": "c3732384d6aef03f6009072dee83022b56652bcfcd6123b8d46f8a30c68f361b",
+      "bytes": 59948,
+      "module_id": "tpl-82ba298a698f-p001-004"
+    },
+    {
+      "path": "assets/modules/tpl-b1c103bde32f-p001-005.pptx",
+      "sha256": "309807065f785a0b4033061cc82ac8a678b7f1e50c772935c41cac9569a63cf0",
+      "bytes": 1872832,
+      "module_id": "tpl-b1c103bde32f-p001-005"
+    },
+    {
+      "path": "assets/modules/tpl-3aa8b6a56a39-p001-006.pptx",
+      "sha256": "fb1ef5cddbb21d62d8fe58eec2177ffc7fde06034a3adedf436820b898034d7a",
+      "bytes": 13744544,
+      "module_id": "tpl-3aa8b6a56a39-p001-006"
+    },
+    {
+      "path": "assets/modules/tpl-81c0a22de0d9-p001-002.pptx",
+      "sha256": "946c34cd8289521067f1eb714000985efbc1c3999708ff5759df284b80347ece",
+      "bytes": 40239,
+      "module_id": "tpl-81c0a22de0d9-p001-002"
+    },
+    {
+      "path": "assets/modules/tpl-b536fd39b8bf-p001-006.pptx",
+      "sha256": "2270053e081b0e598156c959be473b878638996d9ddd198dcaf1fd7578d7d981",
+      "bytes": 9633783,
+      "module_id": "tpl-b536fd39b8bf-p001-006"
+    },
+    {
+      "path": "assets/modules/tpl-c8d8436f2f39-p001-005.pptx",
+      "sha256": "87141d449245533cecb82118ec6cbfd76c049a8eec335d4558fe997f8af45817",
+      "bytes": 29994257,
+      "module_id": "tpl-c8d8436f2f39-p001-005"
+    },
+    {
+      "path": "assets/modules/tpl-108615410217-p001.pptx",
+      "sha256": "dbc05f552bd237dd5a09129e3958188f7de437b1cd7ecce0db4e00004b1b9f0f",
+      "bytes": 24009585,
+      "module_id": "tpl-108615410217-p001"
+    },
+    {
+      "path": "assets/modules/vid-0083-curved-topbar.pptx",
+      "sha256": "5019d94b652ea01bb2311ee278f3e7af00fff3ed548deba02e9109d96bea0213",
+      "bytes": 38213,
+      "module_id": "vid-0083-curved-topbar"
+    },
+    {
+      "path": "assets/modules/vid-0271-fold-sidebar.pptx",
+      "sha256": "1d2877336062e0ec02b3b45276344cce872b33bcd1584e81a91319dd2efce026",
+      "bytes": 55857,
+      "module_id": "vid-0271-fold-sidebar"
+    },
+    {
+      "path": "assets/modules/vid-0259-row-focus.pptx",
+      "sha256": "c889a76e41ed8712c678f112707b597bf0209e3176e8e44ec419f45776010ea4",
+      "bytes": 41501,
+      "module_id": "vid-0259-row-focus"
+    },
+    {
+      "path": "assets/modules/vid-0299-rhythmic-timeline.pptx",
+      "sha256": "980fe41051920ce4e16d3775c6846486e51e1f12839acaa2f62ac22444c6892f",
+      "bytes": 54764,
+      "module_id": "vid-0299-rhythmic-timeline"
+    },
+    {
+      "path": "assets/modules/vid-0314-semicircle-spin.pptx",
+      "sha256": "2ab9ccd443e70ff510e5b91d2230356976f6bdeea2df9b8f04d5490d37fcac45",
+      "bytes": 23267,
+      "module_id": "vid-0314-semicircle-spin"
+    },
+    {
+      "path": "assets/modules/vid-0188-thanks-split.pptx",
+      "sha256": "e12ced827b2bf46bfd85692ab054a4d9d7696e410b9aa0e5c98436a06db298ff",
+      "bytes": 9343510,
+      "module_id": "vid-0188-thanks-split"
+    },
+    {
+      "path": "assets/modules/vid-0041-pullout-chapters.pptx",
+      "sha256": "1b4908a4b14f3e9f79107fe7cd9e46ace9d791d64846c3cd03a2f20dcf57bb61",
+      "bytes": 10317312,
+      "module_id": "vid-0041-pullout-chapters"
+    },
+    {
+      "path": "assets/modules/vid-0115-poster-focus.pptx",
+      "sha256": "86fa5d3b1db8bc981aba135b70c6e4d5f7fbb07f3ba40ed530123c259159548f",
+      "bytes": 11619678,
+      "module_id": "vid-0115-poster-focus"
+    },
+    {
+      "path": "assets/modules/vid-0182-colored-card-pull.pptx",
+      "sha256": "d31d30b71b34a80d92b4f06476736e5d0bf6825195428cc7d6ad5393122258b2",
+      "bytes": 53089,
+      "module_id": "vid-0182-colored-card-pull"
+    },
+    {
+      "path": "assets/modules/vid-0369-five-step-cards.pptx",
+      "sha256": "d0321cbfcb6159ae159f046985e74db18a9b06e4493a8a83f7c443c326de0699",
+      "bytes": 65272,
+      "module_id": "vid-0369-five-step-cards"
+    },
+    {
+      "path": "assets/modules/vid-0134-clock-panorama.pptx",
+      "sha256": "ef120e505068c1950ed61280ba42140132f7df6d5c15046a61ce99bb99afc6e6",
+      "bytes": 4572528,
+      "module_id": "vid-0134-clock-panorama"
+    },
+    {
+      "path": "assets/modules/vid-0394-sixty-tick-clock.pptx",
+      "sha256": "209f31af3312e003e3d613b9e787e5eb17055ed14324964515fa39445da15081",
+      "bytes": 11203175,
+      "module_id": "vid-0394-sixty-tick-clock"
+    },
+    {
+      "path": "assets/modules/vid-0087-five-row-photo-wall.pptx",
+      "sha256": "bf8856716fe190b3342c87445765a0d7c8e54be06740af7c15435a063d3fe464",
+      "bytes": 11131129,
+      "module_id": "vid-0087-five-row-photo-wall"
+    },
+    {
+      "path": "assets/modules/vid-0347-two-column-shuttle.pptx",
+      "sha256": "f95b6ea81ad8bc6fec9b30aad19b46803115254de2eaed6adfe179b1ab162393",
+      "bytes": 11127449,
+      "module_id": "vid-0347-two-column-shuttle"
+    },
+    {
+      "path": "assets/modules/tpl-b834efe53d2b-p001-brush-eight-glyphs.pptx",
+      "sha256": "5e4096144e7003c467ea03535fb84c4be017c2cc7603391a82a9ae1bc7c5fc4b",
+      "bytes": 34784693,
+      "module_id": "tpl-b834efe53d2b-p001-brush-eight-glyphs"
+    }
+  ],
+  "total_bytes": 218570467,
+  "asset_distribution": "Private release for the material owner; source rights retained."
+}

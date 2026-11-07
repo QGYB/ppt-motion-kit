@@ -1,0 +1,1124 @@
+{
+  "version": "0.1.0",
+  "modules": [
+    {
+      "module_id": "tpl-b834efe53d2b-p001",
+      "name": "SS14 PPT不规则大气高级动态封面开场-乘风破浪踏浪前行.pptx · 第1页",
+      "role": "开场",
+      "status": "ready_for_content_binding",
+      "source_id": "b834efe53d2b",
+      "source_name": "SS14 PPT不规则大气高级动态封面开场-乘风破浪踏浪前行.pptx",
+      "source_pages": [
+        1
+      ],
+      "source_package_sha256": "af956ef983b5aff26ca18fa170292ea5ec482c4e82663fc326f4e756e0dcf3bd",
+      "source_total_pages": 6,
+      "source_type": "通用开场组件",
+      "source_category": "开场",
+      "source_material_type": "animated_template",
+      "source_limitations": "六层左右错开路径、背景放大和延迟主标题；6个开场变体",
+      "dependency_reason": [],
+      "info_relations": [
+        "开场"
+      ],
+      "page_count": 1,
+      "invocation_unit": "Complete original page",
+      "entry_requires_shared_window": false,
+      "exit_contract": "source-state:b834efe53d2b:1",
+      "material_kind": "native_animation",
+      "native_package": "assets/modules/tpl-b834efe53d2b-p001.pptx",
+      "package_sha256": "364d93c84f3acd81c642a7db1047f02d9f03dca11b43f63b0b29d6c1d9c2dd47",
+      "bindings_path": "references/bindings/tpl-b834efe53d2b-p001.json",
+      "verification": {
+        "new_content_playback_verified": true,
+        "native_mechanism_playback_verified": true,
+        "new_content_scope": "9处源对象文本绑定，全部1页和相邻边；原几何、切换和计时逐项一致。八字标题另用已选粗书体，需调用粗书体变体。",
+        "whole_new_deck_verified": false,
+        "user_accepted": false,
+        "evidence": "references/verification/tpl-b834efe53d2b-p001.json"
+      },
+      "asset_license": "Third-party/source rights retained; not relicensed under AGPL-3.0-only."
+    },
+    {
+      "module_id": "tpl-82ba298a698f-p001-004",
+      "name": "SS33 PPT旋转目录 4点平滑目录页.pptx · 第1页 → SS33 PPT旋转目录 4点平滑目录页.pptx · 第4页",
+      "role": "目录与章节衔接",
+      "status": "ready_for_content_binding",
+      "source_id": "82ba298a698f",
+      "source_name": "SS33 PPT旋转目录 4点平滑目录页.pptx",
+      "source_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "source_package_sha256": "c3732384d6aef03f6009072dee83022b56652bcfcd6123b8d46f8a30c68f361b",
+      "source_total_pages": 4,
+      "source_type": "通用衔接组件",
+      "source_category": "导航衔接",
+      "source_material_type": "animated_template",
+      "source_limitations": "指示尖角转向；四组编号和标题逐次从右侧进入，旧项保留",
+      "dependency_reason": [
+        {
+          "from": 1,
+          "to": 2,
+          "reason": "Source Morph requires preceding state; conservative contiguous dependency"
+        },
+        {
+          "from": 2,
+          "to": 3,
+          "reason": "Source Morph requires preceding state; conservative contiguous dependency"
+        },
+        {
+          "from": 3,
+          "to": 4,
+          "reason": "Source Morph requires preceding state; conservative contiguous dependency"
+        }
+      ],
+      "info_relations": [
+        "导航衔接"
+      ],
+      "page_count": 4,
+      "invocation_unit": "Entire original continuous state range; order and adjacency locked",
+      "entry_requires_shared_window": false,
+      "exit_contract": "source-state:82ba298a698f:4",
+      "material_kind": "native_animation",
+      "native_package": "assets/modules/tpl-82ba298a698f-p001-004.pptx",
+      "package_sha256": "c3732384d6aef03f6009072dee83022b56652bcfcd6123b8d46f8a30c68f361b",
+      "bindings_path": "references/bindings/tpl-82ba298a698f-p001-004.json",
+      "verification": {
+        "new_content_playback_verified": true,
+        "native_mechanism_playback_verified": true,
+        "new_content_scope": "36处源对象文本绑定，全部4页和相邻边；原几何、切换和计时逐项一致。",
+        "whole_new_deck_verified": false,
+        "user_accepted": false,
+        "evidence": "references/verification/tpl-82ba298a698f-p001-004.json"
+      },
+      "asset_license": "Third-party/source rights retained; not relicensed under AGPL-3.0-only."
+    },
+    {
+      "module_id": "tpl-b1c103bde32f-p001-005",
+      "name": "SS28 时间轴平滑移动.pptx · 第1页 → SS28 时间轴平滑移动.pptx · 第5页",
+      "role": "目录与章节衔接",
+      "status": "ready_for_content_binding",
+      "source_id": "b1c103bde32f",
+      "source_name": "SS28 时间轴平滑移动.pptx",
+      "source_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "source_package_sha256": "309807065f785a0b4033061cc82ac8a678b7f1e50c772935c41cac9569a63cf0",
+      "source_total_pages": 5,
+      "source_type": "通用衔接组件",
+      "source_category": "导航衔接",
+      "source_material_type": "animated_template",
+      "source_limitations": "左外圆心的圆弧节点组轮转，当前阶段保持同一读位，文字独立保持正立并强调",
+      "dependency_reason": [
+        {
+          "from": 1,
+          "to": 2,
+          "reason": "Source Morph requires preceding state; conservative contiguous dependency"
+        },
+        {
+          "from": 2,
+          "to": 3,
+          "reason": "Source Morph requires preceding state; conservative contiguous dependency"
+        },
+        {
+          "from": 3,
+          "to": 4,
+          "reason": "Source Morph requires preceding state; conservative contiguous dependency"
+        },
+        {
+          "from": 4,
+          "to": 5,
+          "reason": "Source Morph requires preceding state; conservative contiguous dependency"
+        }
+      ],
+      "info_relations": [
+        "导航衔接"
+      ],
+      "page_count": 5,
+      "invocation_unit": "Entire original continuous state range; order and adjacency locked",
+      "entry_requires_shared_window": false,
+      "exit_contract": "source-state:b1c103bde32f:5",
+      "material_kind": "native_animation",
+      "native_package": "assets/modules/tpl-b1c103bde32f-p001-005.pptx",
+      "package_sha256": "309807065f785a0b4033061cc82ac8a678b7f1e50c772935c41cac9569a63cf0",
+      "bindings_path": "references/bindings/tpl-b1c103bde32f-p001-005.json",
+      "verification": {
+        "new_content_playback_verified": true,
+        "native_mechanism_playback_verified": true,
+        "new_content_scope": "61处源对象文本绑定，全部5页和相邻边；原几何、切换和计时逐项一致。",
+        "whole_new_deck_verified": false,
+        "user_accepted": false,
+        "evidence": "references/verification/tpl-b1c103bde32f-p001-005.json"
+      },
+      "asset_license": "Third-party/source rights retained; not relicensed under AGPL-3.0-only."
+    },
+    {
+      "module_id": "tpl-3aa8b6a56a39-p001-006",
+      "name": "五条图窗总览 → 五条图窗聚焦·雪山之巅",
+      "role": "正文图文与重点",
+      "status": "ready_for_content_binding",
+      "source_id": "3aa8b6a56a39",
+      "source_name": "SS17 PPT动态多图片放大展示模板 作品效果5张图.pptx",
+      "source_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "source_package_sha256": "fb1ef5cddbb21d62d8fe58eec2177ffc7fde06034a3adedf436820b898034d7a",
+      "source_total_pages": 6,
+      "source_type": "通用图文展示组件",
+      "source_category": "同级项聚焦",
+      "source_material_type": "animated_template",
+      "source_limitations": "五个纵向图窗等宽建立总览，源件本页也有Morph声明；初始短暂暗场保留为实际表现，不视作独立开场设计已验收。；保持全部五图及相对顺序，仅把碧海蓝天扩成当前主读区，其他四图压窄；源顺序海、云、日出、沙漠、雪山。底部短题随焦点更替，没有原生相机或真实点击导航。；保持全部五图及相对顺序，仅把紫霞烟云扩成当前主读区，其他四图压窄；源顺序海、云、日出、沙漠、雪山。底部短题随焦点更替，没有原生相机或真实点击导航。；保持全部五图及相对顺序，仅把日出东方扩成当前主读区，其他四图压窄；源顺序海、云、日出、沙漠、雪山。底部短题随焦点更替，没有原生相机或真实点击导航。；保持全部五图及相对顺序，仅把沙漠孤岛扩成当前主读区，其他四图压窄；源顺序海、云、日出、沙漠、雪山。底部短题随焦点更替，没有原生相机或真实点击导航。；保持全部五图及相对顺序，仅把雪山之巅扩成当前主读区，其他四图压窄；源顺序海、云、日出、沙漠、雪山。底部短题随焦点更替，没有原生相机或真实点击导航。",
+      "dependency_reason": [
+        {
+          "from": 1,
+          "to": 2,
+          "reason": "Source Morph requires preceding state; conservative contiguous dependency"
+        },
+        {
+          "from": 2,
+          "to": 3,
+          "reason": "Source Morph requires preceding state; conservative contiguous dependency"
+        },
+        {
+          "from": 3,
+          "to": 4,
+          "reason": "Source Morph requires preceding state; conservative contiguous dependency"
+        },
+        {
+          "from": 4,
+          "to": 5,
+          "reason": "Source Morph requires preceding state; conservative contiguous dependency"
+        },
+        {
+          "from": 5,
+          "to": 6,
+          "reason": "Source Morph requires preceding state; conservative contiguous dependency"
+        }
+      ],
+      "info_relations": [
+        "同级项聚焦"
+      ],
+      "page_count": 6,
+      "invocation_unit": "Entire original continuous state range; order and adjacency locked",
+      "entry_requires_shared_window": false,
+      "exit_contract": "source-state:3aa8b6a56a39:6",
+      "material_kind": "native_animation",
+      "native_package": "assets/modules/tpl-3aa8b6a56a39-p001-006.pptx",
+      "package_sha256": "fb1ef5cddbb21d62d8fe58eec2177ffc7fde06034a3adedf436820b898034d7a",
+      "bindings_path": "references/bindings/tpl-3aa8b6a56a39-p001-006.json",
+      "verification": {
+        "new_content_playback_verified": true,
+        "native_mechanism_playback_verified": true,
+        "new_content_scope": "10处源对象文本绑定，全部6页和相邻边；原几何、切换和计时逐项一致。",
+        "whole_new_deck_verified": false,
+        "user_accepted": false,
+        "evidence": "references/verification/tpl-3aa8b6a56a39-p001-006.json"
+      },
+      "asset_license": "Third-party/source rights retained; not relicensed under AGPL-3.0-only."
+    },
+    {
+      "module_id": "tpl-81c0a22de0d9-p001-002",
+      "name": "五片花瓣合拢为单一主题 → 合瓣展开五方面总览",
+      "role": "正文图文与重点",
+      "status": "ready_for_content_binding",
+      "source_id": "81c0a22de0d9",
+      "source_name": "20 花瓣展开动态PPT.pptx",
+      "source_pages": [
+        1,
+        2
+      ],
+      "source_package_sha256": "946c34cd8289521067f1eb714000985efbc1c3999708ff5759df284b80347ece",
+      "source_total_pages": 2,
+      "source_type": "通用图文展示组件",
+      "source_category": "信息组织",
+      "source_material_type": "animated_template",
+      "source_limitations": "五瓣从合拢主题展开总分总览；原生平滑并非五等份数据或点击菜单",
+      "dependency_reason": [
+        {
+          "from": 1,
+          "to": 2,
+          "reason": "Source Morph requires preceding state; conservative contiguous dependency"
+        }
+      ],
+      "info_relations": [
+        "信息组织"
+      ],
+      "page_count": 2,
+      "invocation_unit": "Entire original continuous state range; order and adjacency locked",
+      "entry_requires_shared_window": false,
+      "exit_contract": "source-state:81c0a22de0d9:2",
+      "material_kind": "native_animation",
+      "native_package": "assets/modules/tpl-81c0a22de0d9-p001-002.pptx",
+      "package_sha256": "946c34cd8289521067f1eb714000985efbc1c3999708ff5759df284b80347ece",
+      "bindings_path": "references/bindings/tpl-81c0a22de0d9-p001-002.json",
+      "verification": {
+        "new_content_playback_verified": true,
+        "native_mechanism_playback_verified": true,
+        "new_content_scope": "19处源对象文本绑定，全部2页和相邻边；原几何、切换和计时逐项一致。",
+        "whole_new_deck_verified": false,
+        "user_accepted": false,
+        "evidence": "references/verification/tpl-81c0a22de0d9-p001-002.json"
+      },
+      "asset_license": "Third-party/source rights retained; not relicensed under AGPL-3.0-only."
+    },
+    {
+      "module_id": "tpl-b536fd39b8bf-p001-006",
+      "name": "SS9 多文字分点展示.pptx · 第1页 → SS9 多文字分点展示.pptx · 第6页",
+      "role": "正文图文与重点",
+      "status": "ready_for_content_binding",
+      "source_id": "b536fd39b8bf",
+      "source_name": "SS9 多文字分点展示.pptx",
+      "source_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "source_package_sha256": "2270053e081b0e598156c959be473b878638996d9ddd198dcaf1fd7578d7d981",
+      "source_total_pages": 6,
+      "source_type": "通用正文组件",
+      "source_category": "信息组织",
+      "source_material_type": "animated_template",
+      "source_limitations": "同类说明进入同一左侧读区，右侧超大背景窗口旋转提示换项",
+      "dependency_reason": [
+        {
+          "from": 1,
+          "to": 6,
+          "reason": "同一背景窗口转动，正文在固定读位换项"
+        },
+        {
+          "from": 1,
+          "to": 2,
+          "reason": "Source Morph requires preceding state; conservative contiguous dependency"
+        },
+        {
+          "from": 2,
+          "to": 3,
+          "reason": "Source Morph requires preceding state; conservative contiguous dependency"
+        },
+        {
+          "from": 3,
+          "to": 4,
+          "reason": "Source Morph requires preceding state; conservative contiguous dependency"
+        },
+        {
+          "from": 4,
+          "to": 5,
+          "reason": "Source Morph requires preceding state; conservative contiguous dependency"
+        },
+        {
+          "from": 5,
+          "to": 6,
+          "reason": "Source Morph requires preceding state; conservative contiguous dependency"
+        }
+      ],
+      "info_relations": [
+        "信息组织"
+      ],
+      "page_count": 6,
+      "invocation_unit": "Entire original continuous state range; order and adjacency locked",
+      "entry_requires_shared_window": false,
+      "exit_contract": "source-state:b536fd39b8bf:6",
+      "material_kind": "native_animation",
+      "native_package": "assets/modules/tpl-b536fd39b8bf-p001-006.pptx",
+      "package_sha256": "2270053e081b0e598156c959be473b878638996d9ddd198dcaf1fd7578d7d981",
+      "bindings_path": "references/bindings/tpl-b536fd39b8bf-p001-006.json",
+      "verification": {
+        "new_content_playback_verified": true,
+        "native_mechanism_playback_verified": true,
+        "new_content_scope": "64处源对象文本绑定，全部6页和相邻边；原几何、切换和计时逐项一致。",
+        "whole_new_deck_verified": false,
+        "user_accepted": false,
+        "evidence": "references/verification/tpl-b536fd39b8bf-p001-006.json"
+      },
+      "asset_license": "Third-party/source rights retained; not relicensed under AGPL-3.0-only."
+    },
+    {
+      "module_id": "tpl-c8d8436f2f39-p001-005",
+      "name": "胶囊图窗换景·湖泊 → 胶囊图窗换景·草原",
+      "role": "正文图文与重点",
+      "status": "ready_for_content_binding",
+      "source_id": "c8d8436f2f39",
+      "source_name": "37. PPT图片轮播圆角矩形图文创意动态PPT模板.pptx",
+      "source_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "source_package_sha256": "87141d449245533cecb82118ec6cbfd76c049a8eec335d4558fe997f8af45817",
+      "source_total_pages": 5,
+      "source_type": "通用图文展示组件",
+      "source_category": "同级换景/固定读区",
+      "source_material_type": "animated_template",
+      "source_limitations": "左侧五个长圆角图窗随页改变高低位置，使用背景填充关联当前全幅风景，右侧暗区容纳短题正文；跨页不只是换照片，仍须维护图窗身份。源标题和实际风景并非可靠对应，湖泊、群山、草原等类别及说明应重核，不能当作新稿事实。；左侧五个长圆角图窗随页改变高低位置，使用背景填充关联当前全幅风景，右侧暗区容纳短题正文；跨页不只是换照片，仍须维护图窗身份。源标题和实际风景并非可靠对应，湖泊、群山、草原等类别及说明应重核，不能当作新稿事实。；左侧五个长圆角图窗随页改变高低位置，使用背景填充关联当前全幅风景，右侧暗区容纳短题正文；跨页不只是换照片，仍须维护图窗身份。源标题和实际风景并非可靠对应，湖泊、群山、草原等类别及说明应重核，不能当作新稿事实。；左侧五个长圆角图窗随页改变高低位置，使用背景填充关联当前全幅风景，右侧暗区容纳短题正文；跨页不只是换照片，仍须维护图窗身份。本页的下一项草原文本还有1秒从右侧进入动作，与相邻页Morph共同影响时序。源标题和实际风景并非可靠对应，湖泊、群山、草原等类别及说明应重核，不能当作新稿事实。；左侧五个长圆角图窗随页改变高低位置，使用背景填充关联当前全幅风景，右侧暗区容纳短题正文；跨页不只是换照片，仍须维护图窗身份。源标题和实际风景并非可靠对应，湖泊、群山、草原等类别及说明应重核，不能当作新稿事实。",
+      "dependency_reason": [
+        {
+          "from": 1,
+          "to": 2,
+          "reason": "Source Morph requires preceding state; conservative contiguous dependency"
+        },
+        {
+          "from": 2,
+          "to": 3,
+          "reason": "Source Morph requires preceding state; conservative contiguous dependency"
+        },
+        {
+          "from": 3,
+          "to": 4,
+          "reason": "Source Morph requires preceding state; conservative contiguous dependency"
+        },
+        {
+          "from": 4,
+          "to": 5,
+          "reason": "Source Morph requires preceding state; conservative contiguous dependency"
+        }
+      ],
+      "info_relations": [
+        "同级换景/固定读区"
+      ],
+      "page_count": 5,
+      "invocation_unit": "Entire original continuous state range; order and adjacency locked",
+      "entry_requires_shared_window": false,
+      "exit_contract": "source-state:c8d8436f2f39:5",
+      "material_kind": "native_animation",
+      "native_package": "assets/modules/tpl-c8d8436f2f39-p001-005.pptx",
+      "package_sha256": "87141d449245533cecb82118ec6cbfd76c049a8eec335d4558fe997f8af45817",
+      "bindings_path": "references/bindings/tpl-c8d8436f2f39-p001-005.json",
+      "verification": {
+        "new_content_playback_verified": true,
+        "native_mechanism_playback_verified": true,
+        "new_content_scope": "9处源对象文本绑定，全部5页和相邻边；原几何、切换和计时逐项一致。",
+        "whole_new_deck_verified": false,
+        "user_accepted": false,
+        "evidence": "references/verification/tpl-c8d8436f2f39-p001-005.json"
+      },
+      "asset_license": "Third-party/source rights retained; not relicensed under AGPL-3.0-only."
+    },
+    {
+      "module_id": "tpl-108615410217-p001",
+      "name": "两列斜图组反向往返",
+      "role": "正文图文与重点",
+      "status": "ready_for_content_binding",
+      "source_id": "108615410217",
+      "source_name": "SS8 多图片循环轮播.pptx",
+      "source_pages": [
+        1
+      ],
+      "source_package_sha256": "dbc05f552bd237dd5a09129e3958188f7de437b1cd7ecce0db4e00004b1b9f0f",
+      "source_total_pages": 1,
+      "source_type": "通用图文展示组件",
+      "source_category": "图片展示/固定读区",
+      "source_material_type": "animated_template",
+      "source_limitations": "10张图片分两组，分别约向左下0.179W/0.895H、右上0.149W/0.753H；单程5秒、往返10秒后重复，左侧说明固定。源署名文墨社，不改称本账号原创。",
+      "dependency_reason": [],
+      "info_relations": [
+        "图片展示/固定读区"
+      ],
+      "page_count": 1,
+      "invocation_unit": "Complete original page",
+      "entry_requires_shared_window": false,
+      "exit_contract": "source-state:108615410217:1",
+      "material_kind": "native_animation",
+      "native_package": "assets/modules/tpl-108615410217-p001.pptx",
+      "package_sha256": "dbc05f552bd237dd5a09129e3958188f7de437b1cd7ecce0db4e00004b1b9f0f",
+      "bindings_path": "references/bindings/tpl-108615410217-p001.json",
+      "verification": {
+        "new_content_playback_verified": true,
+        "native_mechanism_playback_verified": true,
+        "new_content_scope": "三个文本绑定且原生时序逐字节保持；不是整稿美化或任意外部接页已验收。",
+        "whole_new_deck_verified": false,
+        "user_accepted": false,
+        "evidence": "references/verification/tpl-108615410217-p001.json"
+      },
+      "asset_license": "Third-party/source rights retained; not relicensed under AGPL-3.0-only."
+    },
+    {
+      "module_id": "vid-0083-curved-topbar",
+      "name": "固定顶栏弧边导航",
+      "role": "导航衔接",
+      "status": "ready_for_content_binding",
+      "source_id": "7568120946175806735",
+      "source_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "source_limitations": [
+        "示例数据表/问题/规划不证明真实事实，独立原创署名未可靠确认。",
+        "无源文件/跨版本和实作验证，导航交互与编辑性未审计。"
+      ],
+      "page_count": 4,
+      "invocation_unit": "Entire continuous native state chain; order and adjacency locked",
+      "exit_contract": {
+        "state": 4,
+        "next_module_interface_verified": false
+      },
+      "material_kind": "native_animation",
+      "video_source_index": 83,
+      "content_constraints": [
+        "Same entity copies across the chain must be edited together",
+        "Result values and encoded geometry must agree",
+        "Internal core component only where source_scope says so"
+      ],
+      "native_package": "assets/modules/vid-0083-curved-topbar.pptx",
+      "package_sha256": "5019d94b652ea01bb2311ee278f3e7af00fff3ed548deba02e9109d96bea0213",
+      "bindings_path": "references/bindings/vid-0083-curved-topbar.json",
+      "verification": {
+        "new_content_playback_verified": true,
+        "native_mechanism_playback_verified": true,
+        "new_content_scope": "All stable states and dense temporal sheets of every boundary; complete file decoded. These artifacts are not an independent full real-time human watch.",
+        "whole_new_deck_verified": false,
+        "user_accepted": false,
+        "evidence": "references/verification/vid-0083-curved-topbar.json"
+      },
+      "asset_license": "Third-party/source rights retained; not relicensed under AGPL-3.0-only."
+    },
+    {
+      "module_id": "vid-0271-fold-sidebar",
+      "name": "折角侧栏与正文连续上推",
+      "role": "导航衔接",
+      "status": "ready_for_content_binding",
+      "source_id": "7389988956156316991",
+      "source_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "source_limitations": [
+        "精确RGB、各渐变另一色标/全部停点、背景改78输入过程未全展示。",
+        "2秒处于选择/预览节点，“无”和“平滑”双浅红可能包含悬停；无结束后逐页复开，不能确认四页最终提交完全相同。任意跳页/返回/循环与目标机兼容未验证。",
+        "本代理未构造或实播，示例市场与职业泛述不当作用户事实。"
+      ],
+      "page_count": 4,
+      "invocation_unit": "Entire continuous native state chain; order and adjacency locked",
+      "exit_contract": {
+        "state": 4,
+        "next_module_interface_verified": false
+      },
+      "material_kind": "native_animation",
+      "video_source_index": 271,
+      "content_constraints": [
+        "Same entity copies across the chain must be edited together",
+        "Result values and encoded geometry must agree",
+        "Internal core component only where source_scope says so"
+      ],
+      "native_package": "assets/modules/vid-0271-fold-sidebar.pptx",
+      "package_sha256": "1d2877336062e0ec02b3b45276344cce872b33bcd1584e81a91319dd2efce026",
+      "bindings_path": "references/bindings/vid-0271-fold-sidebar.json",
+      "verification": {
+        "new_content_playback_verified": true,
+        "native_mechanism_playback_verified": true,
+        "new_content_scope": "All stable states and dense temporal sheets of every boundary; complete file decoded. These artifacts are not an independent full real-time human watch.",
+        "whole_new_deck_verified": false,
+        "user_accepted": false,
+        "evidence": "references/verification/vid-0271-fold-sidebar.json"
+      },
+      "asset_license": "Third-party/source rights retained; not relicensed under AGPL-3.0-only."
+    },
+    {
+      "module_id": "vid-0259-row-focus",
+      "name": "比较表逐行聚焦",
+      "role": "重点突出",
+      "status": "ready_for_content_binding",
+      "source_id": "7398156103357418802",
+      "source_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "source_limitations": [
+        "数据AI生成，统计时间/方法/费用币种和周期未知；平台评价无引证。",
+        "背景/罩层其余渐变色标RGB和终值、底板半径与图标许可未知。",
+        "源可见三种行高亮态、实际选17/18短预览，完整六行、返回游标、任意点击和下页承接未知。",
+        "本代理未构造或实播，reproduction_verified=false。"
+      ],
+      "page_count": 6,
+      "invocation_unit": "Entire continuous native state chain; order and adjacency locked",
+      "exit_contract": {
+        "state": 6,
+        "next_module_interface_verified": false
+      },
+      "material_kind": "native_animation",
+      "video_source_index": 259,
+      "content_constraints": [
+        "Same entity copies across the chain must be edited together",
+        "Result values and encoded geometry must agree",
+        "Internal core component only where source_scope says so"
+      ],
+      "native_package": "assets/modules/vid-0259-row-focus.pptx",
+      "package_sha256": "c889a76e41ed8712c678f112707b597bf0209e3176e8e44ec419f45776010ea4",
+      "bindings_path": "references/bindings/vid-0259-row-focus.json",
+      "verification": {
+        "new_content_playback_verified": true,
+        "native_mechanism_playback_verified": true,
+        "new_content_scope": "All stable states and dense temporal sheets of every boundary; complete file decoded. These artifacts are not an independent full real-time human watch.",
+        "whole_new_deck_verified": false,
+        "user_accepted": false,
+        "evidence": "references/verification/vid-0259-row-focus.json"
+      },
+      "asset_license": "Third-party/source rights retained; not relicensed under AGPL-3.0-only."
+    },
+    {
+      "module_id": "vid-0299-rhythmic-timeline",
+      "name": "六栏累计律动时间轴",
+      "role": "信息组织",
+      "status": "ready_for_content_binding",
+      "source_id": "7371843121799286057",
+      "source_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "source_limitations": [
+        "第三页平滑2秒/无声/手动已核；其余页全部终字段、飞入延迟/重复与完整返回链未知。",
+        "左端渐变最终透明字段未单独核见，仅保留口述两端100。",
+        "源19年与29年冲突未解释；真实企业和史实出处未知。",
+        "未新构造/实播，图片许可/实际投影可读性未知。"
+      ],
+      "page_count": 6,
+      "invocation_unit": "Entire continuous native state chain; order and adjacency locked",
+      "exit_contract": {
+        "state": 6,
+        "next_module_interface_verified": false
+      },
+      "material_kind": "native_animation",
+      "video_source_index": 299,
+      "content_constraints": [
+        "Same entity copies across the chain must be edited together",
+        "Result values and encoded geometry must agree",
+        "Internal core component only where source_scope says so"
+      ],
+      "native_package": "assets/modules/vid-0299-rhythmic-timeline.pptx",
+      "package_sha256": "980fe41051920ce4e16d3775c6846486e51e1f12839acaa2f62ac22444c6892f",
+      "bindings_path": "references/bindings/vid-0299-rhythmic-timeline.json",
+      "verification": {
+        "new_content_playback_verified": true,
+        "native_mechanism_playback_verified": true,
+        "new_content_scope": "All stable states and dense temporal sheets of every boundary; complete file decoded. These artifacts are not an independent full real-time human watch.",
+        "whole_new_deck_verified": false,
+        "user_accepted": false,
+        "evidence": "references/verification/vid-0299-rhythmic-timeline.json"
+      },
+      "asset_license": "Third-party/source rights retained; not relicensed under AGPL-3.0-only."
+    },
+    {
+      "module_id": "vid-0314-semicircle-spin",
+      "name": "遮罩半环旋转进度",
+      "role": "重点突出",
+      "status": "ready_for_content_binding",
+      "source_id": "7360688798746938650",
+      "source_pages": [
+        1
+      ],
+      "source_limitations": [
+        "本代理未构造/实播，第三已输入144但当前勾360，菜单闭合规范角度未证；全部项逐一终值和正文方向未独立复开。",
+        "第一Spin口述/中间1秒与后GUI2秒不一致，不能承诺绝对总秒表；视频循环、跨页停止、点击竞争与前后衔接未知。",
+        "源示例进度分母/真实项目数据、媒体许可及源版权声明真实性未验证。"
+      ],
+      "page_count": 1,
+      "invocation_unit": "Complete native component page",
+      "exit_contract": {
+        "state": 1,
+        "next_module_interface_verified": false
+      },
+      "material_kind": "native_animation",
+      "video_source_index": 314,
+      "parameter_contract": {
+        "kind": "semicircle_progress",
+        "parameter": "progress_percentages",
+        "type": "three percentages0..100",
+        "result_label_and_arc_must_be_linked": true,
+        "angle_formula": "180 degrees * percentage /100, clockwise",
+        "source_timing_preserved": true,
+        "arbitrary_new_value_playback_verified": true,
+        "checked_values": [
+          35,
+          65,
+          90
+        ],
+        "evidence": "[local evidence path omitted]"
+      },
+      "content_constraints": [
+        "Same entity copies across the chain must be edited together",
+        "Result values and encoded geometry must agree",
+        "Internal core component only where source_scope says so"
+      ],
+      "native_package": "assets/modules/vid-0314-semicircle-spin.pptx",
+      "package_sha256": "2ab9ccd443e70ff510e5b91d2230356976f6bdeea2df9b8f04d5490d37fcac45",
+      "bindings_path": "references/bindings/vid-0314-semicircle-spin.json",
+      "verification": {
+        "new_content_playback_verified": true,
+        "native_mechanism_playback_verified": true,
+        "new_content_scope": "All stable states and dense temporal sheets of every boundary; complete file decoded. These artifacts are not an independent full real-time human watch.",
+        "whole_new_deck_verified": false,
+        "user_accepted": false,
+        "evidence": "references/verification/vid-0314-semicircle-spin.json"
+      },
+      "asset_license": "Third-party/source rights retained; not relicensed under AGPL-3.0-only."
+    },
+    {
+      "module_id": "vid-0188-thanks-split",
+      "name": "双半THANKS字孔揭幕结尾",
+      "role": "结尾",
+      "status": "ready_for_content_binding",
+      "source_id": "7446006546380623142",
+      "source_pages": [
+        1,
+        2
+      ],
+      "source_limitations": [
+        "未制作可编辑PPT或实播全部相邻页。",
+        "源终态存在THANKS碎边，未认定为完全干净的全图终态。",
+        "遮罩移出距离、底图缩小比例未给固定数值。",
+        "图片/字体授权和跨平台兼容未核。"
+      ],
+      "page_count": 2,
+      "invocation_unit": "Entire continuous native state chain; order and adjacency locked",
+      "exit_contract": {
+        "state": 2,
+        "next_module_interface_verified": false
+      },
+      "material_kind": "native_animation",
+      "video_source_index": 188,
+      "locked_bindings": [
+        {
+          "object_name": "!!outline-source",
+          "expected_text": "THANKS",
+          "reason": "Outlined holes require contour rebuild; changing this off-canvas text does not change the masks"
+        }
+      ],
+      "content_constraints": [
+        "Same entity copies across the chain must be edited together",
+        "Result values and encoded geometry must agree",
+        "Internal core component only where source_scope says so"
+      ],
+      "native_package": "assets/modules/vid-0188-thanks-split.pptx",
+      "package_sha256": "e12ced827b2bf46bfd85692ab054a4d9d7696e410b9aa0e5c98436a06db298ff",
+      "bindings_path": "references/bindings/vid-0188-thanks-split.json",
+      "verification": {
+        "new_content_playback_verified": true,
+        "native_mechanism_playback_verified": true,
+        "new_content_scope": "All stable states and dense temporal sheets of every boundary; complete file decoded. These artifacts are not an independent full real-time human watch.",
+        "whole_new_deck_verified": false,
+        "user_accepted": false,
+        "evidence": "references/verification/vid-0188-thanks-split.json"
+      },
+      "asset_license": "Third-party/source rights retained; not relicensed under AGPL-3.0-only."
+    },
+    {
+      "module_id": "vid-0041-pullout-chapters",
+      "name": "背景纸条横抽与文图纵向交接",
+      "role": "导航衔接",
+      "status": "ready_for_content_binding",
+      "source_id": "7647541202811669794",
+      "source_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "source_limitations": [
+        "单击推进非点条跳章，叠字为过程；移动的是相邻组副本。",
+        "示例非用户事实，素材许可、源文件和版本实作未验。"
+      ],
+      "page_count": 4,
+      "invocation_unit": "Entire continuous native state chain; order and adjacency locked",
+      "exit_contract": {
+        "state": 4,
+        "next_module_interface_verified": false
+      },
+      "material_kind": "native_animation",
+      "video_source_index": 41,
+      "content_constraints": [
+        "Same entity copies across the chain must be edited together",
+        "Result values and encoded geometry must agree",
+        "Internal core component only where source_scope says so"
+      ],
+      "native_package": "assets/modules/vid-0041-pullout-chapters.pptx",
+      "package_sha256": "1b4908a4b14f3e9f79107fe7cd9e46ace9d791d64846c3cd03a2f20dcf57bb61",
+      "bindings_path": "references/bindings/vid-0041-pullout-chapters.json",
+      "verification": {
+        "new_content_playback_verified": true,
+        "native_mechanism_playback_verified": true,
+        "new_content_scope": "All stable states and dense temporal sheets of every boundary; complete file decoded. These artifacts are not an independent full real-time human watch.",
+        "whole_new_deck_verified": false,
+        "user_accepted": false,
+        "evidence": "references/verification/vid-0041-pullout-chapters.json"
+      },
+      "asset_license": "Third-party/source rights retained; not relicensed under AGPL-3.0-only."
+    },
+    {
+      "module_id": "vid-0115-poster-focus",
+      "name": "海报队列换焦点与说明接力",
+      "role": "正文图文与重点",
+      "status": "ready_for_content_binding",
+      "source_id": "7528051070212263220",
+      "source_pages": [
+        1,
+        2
+      ],
+      "source_limitations": [
+        "电影海报/剧情/标识来源许可未核，不作内容事实或使用许可承诺。",
+        "无源PPT、可编辑练习或实际打开动态播放验证；不宣称真实网页/按钮已生效。"
+      ],
+      "page_count": 2,
+      "invocation_unit": "Entire continuous native state chain; order and adjacency locked",
+      "exit_contract": {
+        "state": 2,
+        "next_module_interface_verified": false
+      },
+      "material_kind": "native_animation",
+      "video_source_index": 115,
+      "content_constraints": [
+        "Same entity copies across the chain must be edited together",
+        "Result values and encoded geometry must agree",
+        "Internal core component only where source_scope says so"
+      ],
+      "native_package": "assets/modules/vid-0115-poster-focus.pptx",
+      "package_sha256": "86fa5d3b1db8bc981aba135b70c6e4d5f7fbb07f3ba40ed530123c259159548f",
+      "bindings_path": "references/bindings/vid-0115-poster-focus.json",
+      "verification": {
+        "new_content_playback_verified": true,
+        "native_mechanism_playback_verified": true,
+        "new_content_scope": "All stable states and dense temporal sheets of every boundary; complete file decoded. These artifacts are not an independent full real-time human watch.",
+        "whole_new_deck_verified": false,
+        "user_accepted": false,
+        "evidence": "references/verification/vid-0115-poster-focus.json"
+      },
+      "asset_license": "Third-party/source rights retained; not relicensed under AGPL-3.0-only."
+    },
+    {
+      "module_id": "vid-0182-colored-card-pull",
+      "name": "五彩叠卡逐项向右抽拉",
+      "role": "重点突出",
+      "status": "ready_for_content_binding",
+      "source_id": "7449377151364631818",
+      "source_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "source_limitations": [
+        "精确各卡尺寸、错位距离、RGB和字形值未核",
+        "没有实际点击链接配置或所有状态页逐对播放验证",
+        "素材字体许可与目标软件兼容性未知，未制作复现"
+      ],
+      "page_count": 6,
+      "invocation_unit": "Entire continuous native state chain; order and adjacency locked",
+      "exit_contract": {
+        "state": 6,
+        "next_module_interface_verified": false
+      },
+      "material_kind": "native_animation",
+      "video_source_index": 182,
+      "content_constraints": [
+        "Same entity copies across the chain must be edited together",
+        "Result values and encoded geometry must agree",
+        "Internal core component only where source_scope says so"
+      ],
+      "native_package": "assets/modules/vid-0182-colored-card-pull.pptx",
+      "package_sha256": "d31d30b71b34a80d92b4f06476736e5d0bf6825195428cc7d6ad5393122258b2",
+      "bindings_path": "references/bindings/vid-0182-colored-card-pull.json",
+      "verification": {
+        "new_content_playback_verified": true,
+        "native_mechanism_playback_verified": true,
+        "new_content_scope": "All stable states and dense temporal sheets of every boundary; complete file decoded. These artifacts are not an independent full real-time human watch.",
+        "whole_new_deck_verified": false,
+        "user_accepted": false,
+        "evidence": "references/verification/vid-0182-colored-card-pull.json"
+      },
+      "asset_license": "Third-party/source rights retained; not relicensed under AGPL-3.0-only."
+    },
+    {
+      "module_id": "vid-0369-five-step-cards",
+      "name": "五步骤圆角卡从右候场逐页左抽",
+      "role": "信息组织",
+      "status": "ready_for_content_binding",
+      "source_id": "7320647582039018788",
+      "source_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "source_limitations": [
+        "平滑持续时间/声音/自动手动终值、所有Fade逐项延迟与时序未完整复开，不借2秒默认。",
+        "第五编辑正确版与成片重复第四版并存，最终源文件版本不可知。",
+        "侧签/胶囊无交互教学，返回游标/末到首/外部链未知；未新构造实播。"
+      ],
+      "page_count": 6,
+      "invocation_unit": "Entire continuous native state chain; order and adjacency locked",
+      "exit_contract": {
+        "state": 6,
+        "next_module_interface_verified": false
+      },
+      "material_kind": "native_animation",
+      "video_source_index": 369,
+      "content_constraints": [
+        "Same entity copies across the chain must be edited together",
+        "Result values and encoded geometry must agree",
+        "Internal core component only where source_scope says so"
+      ],
+      "native_package": "assets/modules/vid-0369-five-step-cards.pptx",
+      "package_sha256": "d0321cbfcb6159ae159f046985e74db18a9b06e4493a8a83f7c443c326de0699",
+      "bindings_path": "references/bindings/vid-0369-five-step-cards.json",
+      "verification": {
+        "new_content_playback_verified": true,
+        "native_mechanism_playback_verified": true,
+        "new_content_scope": "All stable states and dense temporal sheets of every boundary; complete file decoded. These artifacts are not an independent full real-time human watch.",
+        "whole_new_deck_verified": false,
+        "user_accepted": false,
+        "evidence": "references/verification/vid-0369-five-step-cards.json"
+      },
+      "asset_license": "Third-party/source rights retained; not relicensed under AGPL-3.0-only."
+    },
+    {
+      "module_id": "vid-0134-clock-panorama",
+      "name": "六年钟面逆转与宽景左移",
+      "role": "数据与过程",
+      "status": "ready_for_content_binding",
+      "source_id": "7498748737401933071",
+      "source_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "source_limitations": [
+        "企业成立/研发联合实验室/并购等仅未核示例；字体图像许可和最终特定MiSans字重未知。",
+        "Mac界面快捷键仅作者原话，未实测跨平台；无源PPT、实际制作或打开动态播放，不证插件/交互/无限循环。"
+      ],
+      "page_count": 6,
+      "invocation_unit": "Entire continuous native state chain; order and adjacency locked",
+      "exit_contract": {
+        "state": 6,
+        "next_module_interface_verified": false
+      },
+      "material_kind": "native_animation",
+      "video_source_index": 134,
+      "content_constraints": [
+        "Same entity copies across the chain must be edited together",
+        "Result values and encoded geometry must agree",
+        "Internal core component only where source_scope says so"
+      ],
+      "native_package": "assets/modules/vid-0134-clock-panorama.pptx",
+      "package_sha256": "ef120e505068c1950ed61280ba42140132f7df6d5c15046a61ce99bb99afc6e6",
+      "bindings_path": "references/bindings/vid-0134-clock-panorama.json",
+      "verification": {
+        "new_content_playback_verified": true,
+        "native_mechanism_playback_verified": true,
+        "new_content_scope": "All stable states and dense temporal sheets of every boundary; complete file decoded. These artifacts are not an independent full real-time human watch.",
+        "whole_new_deck_verified": false,
+        "user_accepted": false,
+        "evidence": "references/verification/vid-0134-clock-panorama.json"
+      },
+      "asset_license": "Third-party/source rights retained; not relicensed under AGPL-3.0-only."
+    },
+    {
+      "module_id": "vid-0394-sixty-tick-clock",
+      "name": "六十刻度钟盘顺转与图文接力",
+      "role": "数据与过程",
+      "status": "ready_for_content_binding",
+      "source_id": "7300946674732502281",
+      "source_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "source_limitations": [
+        "平滑仅口述，切换类型GUI、持续时间/声音/触发、全部旋角字段未知。；指针与盘面分组/组内处理的完整操作链未清楚展开，固定针只按实见状态记录。",
+        "企业/事件/配图来源及真实性未知，泛化示例不认公司历史。",
+        "末回首循环、任意年份点击、外部前后页和新稿构造实播未知。"
+      ],
+      "page_count": 6,
+      "invocation_unit": "Entire continuous native state chain; order and adjacency locked",
+      "exit_contract": {
+        "state": 6,
+        "next_module_interface_verified": false
+      },
+      "material_kind": "native_animation",
+      "video_source_index": 394,
+      "content_constraints": [
+        "Same entity copies across the chain must be edited together",
+        "Result values and encoded geometry must agree",
+        "Internal core component only where source_scope says so"
+      ],
+      "native_package": "assets/modules/vid-0394-sixty-tick-clock.pptx",
+      "package_sha256": "209f31af3312e003e3d613b9e787e5eb17055ed14324964515fa39445da15081",
+      "bindings_path": "references/bindings/vid-0394-sixty-tick-clock.json",
+      "verification": {
+        "new_content_playback_verified": true,
+        "native_mechanism_playback_verified": true,
+        "new_content_scope": "All stable states and dense temporal sheets of every boundary; complete file decoded. These artifacts are not an independent full real-time human watch.",
+        "whole_new_deck_verified": false,
+        "user_accepted": false,
+        "evidence": "references/verification/vid-0394-sixty-tick-clock.json"
+      },
+      "asset_license": "Third-party/source rights retained; not relicensed under AGPL-3.0-only."
+    },
+    {
+      "module_id": "vid-0087-five-row-photo-wall",
+      "name": "五行交错照片墙与固定KPI读区",
+      "role": "正文图文与重点",
+      "status": "ready_for_content_binding",
+      "source_id": "7565155038780345640",
+      "source_pages": [
+        1
+      ],
+      "source_limitations": [
+        "前页4905人与110秒4905万冲突，1088/96%也仅样例；不传播业务统计。",
+        "a002完整/a001加载失败未合并；插件当前能力、源文件/放映兼容及实作未验，40补核源时点不增原生帧。"
+      ],
+      "page_count": 1,
+      "invocation_unit": "Complete native component page",
+      "exit_contract": {
+        "state": 1,
+        "next_module_interface_verified": false
+      },
+      "material_kind": "native_animation",
+      "video_source_index": 87,
+      "content_constraints": [
+        "Same entity copies across the chain must be edited together",
+        "Result values and encoded geometry must agree",
+        "Internal core component only where source_scope says so"
+      ],
+      "native_package": "assets/modules/vid-0087-five-row-photo-wall.pptx",
+      "package_sha256": "bf8856716fe190b3342c87445765a0d7c8e54be06740af7c15435a063d3fe464",
+      "bindings_path": "references/bindings/vid-0087-five-row-photo-wall.json",
+      "verification": {
+        "new_content_playback_verified": true,
+        "native_mechanism_playback_verified": true,
+        "new_content_scope": "All stable states and dense temporal sheets of every boundary; complete file decoded. These artifacts are not an independent full real-time human watch.",
+        "whole_new_deck_verified": false,
+        "user_accepted": false,
+        "evidence": "references/verification/vid-0087-five-row-photo-wall.json"
+      },
+      "asset_license": "Third-party/source rights retained; not relicensed under AGPL-3.0-only."
+    },
+    {
+      "module_id": "vid-0347-two-column-shuttle",
+      "name": "双斜列照片反向往返",
+      "role": "正文图文与重点",
+      "status": "ready_for_content_binding",
+      "source_id": "7340656124519042316",
+      "source_pages": [
+        1
+      ],
+      "source_limitations": [
+        "精确倾角/尺寸/行程坐标、逐组复开/完整周期秒表未知。",
+        "任意翻页返回重入/全邻链未知，新构造实播未做；素材许可及版权登记宣称未验证。"
+      ],
+      "page_count": 1,
+      "invocation_unit": "Complete native component page",
+      "exit_contract": {
+        "state": 1,
+        "next_module_interface_verified": false
+      },
+      "material_kind": "native_animation",
+      "video_source_index": 347,
+      "content_constraints": [
+        "Same entity copies across the chain must be edited together",
+        "Result values and encoded geometry must agree",
+        "Internal core component only where source_scope says so"
+      ],
+      "native_package": "assets/modules/vid-0347-two-column-shuttle.pptx",
+      "package_sha256": "f95b6ea81ad8bc6fec9b30aad19b46803115254de2eaed6adfe179b1ab162393",
+      "bindings_path": "references/bindings/vid-0347-two-column-shuttle.json",
+      "verification": {
+        "new_content_playback_verified": true,
+        "native_mechanism_playback_verified": true,
+        "new_content_scope": "All stable states and dense temporal sheets of every boundary; complete file decoded. These artifacts are not an independent full real-time human watch.",
+        "whole_new_deck_verified": false,
+        "user_accepted": false,
+        "evidence": "references/verification/vid-0347-two-column-shuttle.json"
+      },
+      "asset_license": "Third-party/source rights retained; not relicensed under AGPL-3.0-only."
+    },
+    {
+      "module_id": "tpl-b834efe53d2b-p001-brush-eight-glyphs",
+      "name": "六层斜片开场·粗书体八字",
+      "role": "开场",
+      "status": "reviewed_application_variant",
+      "source_id": "b834efe53d2b",
+      "source_name": "SS14 PPT不规则大气高级动态封面开场-乘风破浪踏浪前行.pptx",
+      "source_pages": [
+        1
+      ],
+      "source_package_sha256": "af956ef983b5aff26ca18fa170292ea5ec482c4e82663fc326f4e756e0dcf3bd",
+      "source_total_pages": 6,
+      "source_type": "通用开场组件",
+      "source_category": "开场",
+      "source_material_type": "animated_template",
+      "source_limitations": "六层左右错开路径、背景放大和延迟主标题；6个开场变体",
+      "dependency_reason": [],
+      "info_relations": [
+        "开场"
+      ],
+      "page_count": 1,
+      "invocation_unit": "Complete original page",
+      "entry_requires_shared_window": false,
+      "exit_contract": "source-state:b834efe53d2b:1",
+      "material_kind": "native_animation",
+      "source_scope": "原六片双向路径、背景缩放与标题淡入完整保留；八个原字位换为庞门正道粗书体6.0，未调整原字位或时序。",
+      "content_constraints": [
+        "八个原字位分两行，字位和字号不同；新短题按八个字位逐个绑定，不按等宽整句覆盖。",
+        "同一汉字可出现在两个独立字位；分别绑定，不能把全局汉字替换当作通用标题接口。",
+        "源红印和署名字段单独处理，不能迁移成用户机构或身份。"
+      ],
+      "variant_kind": "commercial_font_adaptation",
+      "source_module_id": "tpl-b834efe53d2b-p001",
+      "native_package": "assets/modules/tpl-b834efe53d2b-p001-brush-eight-glyphs.pptx",
+      "package_sha256": "5e4096144e7003c467ea03535fb84c4be017c2cc7603391a82a9ae1bc7c5fc4b",
+      "bindings_path": "references/bindings/tpl-b834efe53d2b-p001-brush-eight-glyphs.json",
+      "verification": {
+        "new_content_playback_verified": true,
+        "native_mechanism_playback_verified": true,
+        "new_content_scope": "已从正式库按语义字位再次换成「以书为伴／向光而行」并更新副题，9处绑定、原几何与计时不变，实际WPS实播。",
+        "whole_new_deck_verified": false,
+        "user_accepted": false,
+        "evidence": "references/verification/tpl-b834efe53d2b-p001-brush-eight-glyphs.json"
+      },
+      "asset_license": "Third-party/source rights retained; not relicensed under AGPL-3.0-only."
+    }
+  ],
+  "selection_rule": "new_content_playback_verified and no quarantined/reference/prototype status",
+  "counts": {
+    "modules": 23,
+    "pages": 86
+  },
+  "verification_scope": "指定核心机制和换内容实播通过；不代表418条全量复现、任意素材替换、任意跨模块连接或新稿用户验收。"
+}

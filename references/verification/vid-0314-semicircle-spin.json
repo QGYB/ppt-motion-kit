@@ -1,0 +1,136 @@
+{
+  "module_id": "vid-0314-semicircle-spin",
+  "native_package_sha256": "2ab9ccd443e70ff510e5b91d2230356976f6bdeea2df9b8f04d5490d37fcac45",
+  "software": "WPS Presentation",
+  "source_verification": {
+    "native_package_extracted": false,
+    "native_component_constructed": true,
+    "source_full_reviewed": true,
+    "package_integrity_checked": true,
+    "font_and_content_bindings_checked": true,
+    "native_component_playback_verified": true,
+    "whole_composition_playback_verified": false,
+    "new_content_playback_verified": true,
+    "user_accepted_revision": false,
+    "scope": "三组半环Fade与Spin、固定遮罩、静态结果标签; new-content invocation preserves native mechanism; cross-module interfaces not accepted",
+    "target_software": "WPS Presentation",
+    "playback_evidence": "[local evidence path omitted]",
+    "boundaries_captured": 0,
+    "static_visual_review": "All source states inspected through rendered views and stable-state contact sheets; original video assets and unknown fields are not asserted as reconstructed.",
+    "source_timing_unknowns_retained": true,
+    "source_full_video_reproduced": false,
+    "new_content_call_evidence": "[local evidence path omitted]",
+    "new_content_playback_evidence": "[local evidence path omitted]"
+  },
+  "new_content_call": {
+    "index": 314,
+    "file": "[local evidence path omitted]",
+    "pptx_sha256": "dfce008e2bff036af80077a1c3a5e9c6241a52dc85740af6c2ad89a5c8630fb5",
+    "recording": "[local evidence path omitted]",
+    "recording_sha256": "f5cc82f5110c4b6e856efddd7a6e882f66723bdfdb3772657b55e0b9dd48c31f",
+    "page_order": [
+      1
+    ],
+    "all_encoded_frames_decoded": true,
+    "encoded_frames": 520,
+    "duration_s": 8.666667,
+    "events_s": [
+      0.07835197448730469
+    ],
+    "viewport_crop": [
+      0,
+      40,
+      1280,
+      720
+    ],
+    "capture_scope": "WindowsGraphicsCapture_exact_verified_owned_HWND_client",
+    "native_visual_metrics": {
+      "ring-0": [
+        0.005555555555555556,
+        0.005555555555555556,
+        0.005555555555555556
+      ],
+      "ring-0.5": [
+        0.005555555555555556,
+        0.005555555555555556,
+        0.005555555555555556
+      ],
+      "ring-1": [
+        0.005555555555555556,
+        0.005555555555555556,
+        0.005555555555555556
+      ],
+      "ring-1.5": [
+        0.06111111111111111,
+        0.005555555555555556,
+        0.005555555555555556
+      ],
+      "ring-2": [
+        0.10555555555555556,
+        0.016666666666666666,
+        0.005555555555555556
+      ],
+      "ring-2.5": [
+        0.15,
+        0.12777777777777777,
+        0.005555555555555556
+      ],
+      "ring-3": [
+        0.19444444444444445,
+        0.23333333333333334,
+        0.005555555555555556
+      ],
+      "ring-3.5": [
+        0.19444444444444445,
+        0.3388888888888889,
+        0.005555555555555556
+      ],
+      "ring-4": [
+        0.19444444444444445,
+        0.45,
+        0.005555555555555556
+      ],
+      "ring-4.5": [
+        0.19444444444444445,
+        0.49444444444444446,
+        0.1111111111111111
+      ],
+      "ring-5": [
+        0.19444444444444445,
+        0.49444444444444446,
+        0.2833333333333333
+      ],
+      "ring-5.5": [
+        0.19444444444444445,
+        0.49444444444444446,
+        0.45555555555555555
+      ],
+      "ring-6": [
+        0.19444444444444445,
+        0.49444444444444446,
+        0.6277777777777778
+      ],
+      "ring-6.5": [
+        0.19444444444444445,
+        0.49444444444444446,
+        0.7944444444444444
+      ],
+      "ring-7": [
+        0.19444444444444445,
+        0.49444444444444446,
+        0.7944444444444444
+      ],
+      "ring-8": [
+        0.19444444444444445,
+        0.49444444444444446,
+        0.7944444444444444
+      ]
+    },
+    "manual_visual_review_complete": false,
+    "user_accepted": false,
+    "review_method": "All stable states and dense temporal sheets of every boundary; complete file decoded. These artifacts are not an independent full real-time human watch."
+  },
+  "source_receipt_sha256": "96f75bd8c227ccac4fc6bbf29dba7f8f68041ce0be42373912bef4deac0b94cb",
+  "scope": "历史实播记录摘要；不包含原录像或截图。新稿须另行实播。",
+  "user_acceptance_inherited": false
+}

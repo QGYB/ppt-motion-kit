@@ -1,0 +1,61 @@
+{
+  "module_id": "vid-0347-two-column-shuttle",
+  "native_package_sha256": "f95b6ea81ad8bc6fec9b30aad19b46803115254de2eaed6adfe179b1ab162393",
+  "software": "WPS Presentation",
+  "source_verification": {
+    "native_package_extracted": false,
+    "native_component_constructed": true,
+    "source_full_reviewed": true,
+    "package_integrity_checked": true,
+    "font_and_content_bindings_checked": true,
+    "native_component_playback_verified": true,
+    "whole_composition_playback_verified": false,
+    "new_content_playback_verified": true,
+    "user_accepted_revision": false,
+    "scope": "十图槽两列分组、平面倾斜、灰色包围影、反向直线路径5秒自动翻转并重复，前景固定; new-content invocation preserves native mechanism; cross-module interfaces not accepted",
+    "target_software": "WPS Presentation",
+    "playback_evidence": "[local evidence path omitted]",
+    "boundaries_captured": 0,
+    "static_visual_review": "All source states inspected through rendered views and stable-state contact sheets; original video assets and unknown fields are not asserted as reconstructed.",
+    "source_timing_unknowns_retained": true,
+    "source_full_video_reproduced": false,
+    "new_content_call_evidence": "[local evidence path omitted]",
+    "new_content_playback_evidence": "[local evidence path omitted]"
+  },
+  "new_content_call": {
+    "index": 347,
+    "file": "[local evidence path omitted]",
+    "pptx_sha256": "5ac7a4d9fc321b7e140fa04402f2963332c612d59c6f873f4881f90b383ba527",
+    "recording": "[local evidence path omitted]",
+    "recording_sha256": "962f97007490abea7abc10effd649cf435fa549add33ea0c656921972c75887c",
+    "page_order": [
+      1
+    ],
+    "all_encoded_frames_decoded": true,
+    "encoded_frames": 1003,
+    "duration_s": 16.716667,
+    "events_s": [
+      0.1310279369354248
+    ],
+    "viewport_crop": [
+      0,
+      40,
+      1280,
+      720
+    ],
+    "capture_scope": "WindowsGraphicsCapture_exact_verified_owned_HWND_client",
+    "native_visual_metrics": {
+      "duration_field_s": 5,
+      "outbound_vs_endpoint_mae": 58.0677559912854,
+      "nominal_return_mae": 54.79119389978214,
+      "nominal_next_cycle_mae": 51.78962527233116,
+      "cycle_scope": "The XML duration is a source field; MAE at nominal times is diagnostic only. Use observed flow reversals to confirm the actual target-software return and next-cycle start. Arbitrary leave/reentry and endless runtime are unverified."
+    },
+    "manual_visual_review_complete": false,
+    "user_accepted": false,
+    "review_method": "All stable states and dense temporal sheets of every boundary; complete file decoded. These artifacts are not an independent full real-time human watch."
+  },
+  "source_receipt_sha256": "091962bc2d65a45fbb5ce7d1cbabecd651dd71456be066e5fbcede728662a511",
+  "scope": "历史实播记录摘要；不包含原录像或截图。新稿须另行实播。",
+  "user_acceptance_inherited": false
+}

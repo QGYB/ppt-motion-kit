@@ -1,0 +1,61 @@
+{
+  "module_id": "vid-0041-pullout-chapters",
+  "native_package_sha256": "1b4908a4b14f3e9f79107fe7cd9e46ace9d791d64846c3cd03a2f20dcf57bb61",
+  "software": "WPS Presentation",
+  "source_verification": {
+    "native_package_extracted": false,
+    "native_component_constructed": true,
+    "source_full_reviewed": true,
+    "package_integrity_checked": true,
+    "font_and_content_bindings_checked": true,
+    "native_component_playback_verified": true,
+    "whole_composition_playback_verified": false,
+    "new_content_playback_verified": true,
+    "user_accepted_revision": false,
+    "scope": "四条背景填充纸条、固定遮挡竖条、正文图片画外副本与四页平滑; new-content invocation preserves native mechanism; cross-module interfaces not accepted",
+    "target_software": "WPS Presentation",
+    "playback_evidence": "[local evidence path omitted]",
+    "boundaries_captured": 3,
+    "static_visual_review": "All source states inspected through rendered views and stable-state contact sheets; original video assets and unknown fields are not asserted as reconstructed.",
+    "source_timing_unknowns_retained": true,
+    "source_full_video_reproduced": false,
+    "new_content_call_evidence": "[local evidence path omitted]",
+    "new_content_playback_evidence": "[local evidence path omitted]"
+  },
+  "new_content_call": {
+    "index": 41,
+    "file": "[local evidence path omitted]",
+    "pptx_sha256": "b893e0cf25b5a7f57908982a3e06f7e51936dec4c81b16b52561f1a94d301be9",
+    "recording": "[local evidence path omitted]",
+    "recording_sha256": "b87567f6dcb13ac9ee70265ee333bc83603c1dbb0191a81f57dfcdf35bb2728c",
+    "page_order": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "all_encoded_frames_decoded": true,
+    "encoded_frames": 865,
+    "duration_s": 14.416667,
+    "events_s": [
+      0.1514899730682373,
+      3.6843879222869873,
+      7.202440977096558,
+      10.805778980255127
+    ],
+    "viewport_crop": [
+      0,
+      40,
+      1280,
+      720
+    ],
+    "capture_scope": "WindowsGraphicsCapture_exact_verified_owned_HWND_client",
+    "native_visual_metrics": {},
+    "manual_visual_review_complete": false,
+    "user_accepted": false,
+    "review_method": "All stable states and dense temporal sheets of every boundary; complete file decoded. These artifacts are not an independent full real-time human watch."
+  },
+  "source_receipt_sha256": "f5e3f9e1423cff8b472ca157b6a685458ef109a3c91abbf57c9cecbc42af6e50",
+  "scope": "历史实播记录摘要；不包含原录像或截图。新稿须另行实播。",
+  "user_acceptance_inherited": false
+}

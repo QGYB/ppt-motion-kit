@@ -1,0 +1,65 @@
+{
+  "module_id": "vid-0299-rhythmic-timeline",
+  "native_package_sha256": "980fe41051920ce4e16d3775c6846486e51e1f12839acaa2f62ac22444c6892f",
+  "software": "WPS Presentation",
+  "source_verification": {
+    "native_package_extracted": false,
+    "native_component_constructed": true,
+    "source_full_reviewed": true,
+    "package_integrity_checked": true,
+    "font_and_content_bindings_checked": true,
+    "native_component_playback_verified": true,
+    "whole_composition_playback_verified": false,
+    "new_content_playback_verified": true,
+    "user_accepted_revision": false,
+    "scope": "六栏高亮迁移、旧文换位、累计保留及新文0.75秒底部飞入; new-content invocation preserves native mechanism; cross-module interfaces not accepted",
+    "target_software": "WPS Presentation",
+    "playback_evidence": "[local evidence path omitted]",
+    "boundaries_captured": 5,
+    "static_visual_review": "All source states inspected through rendered views and stable-state contact sheets; original video assets and unknown fields are not asserted as reconstructed.",
+    "source_timing_unknowns_retained": true,
+    "source_full_video_reproduced": false,
+    "new_content_call_evidence": "[local evidence path omitted]",
+    "new_content_playback_evidence": "[local evidence path omitted]"
+  },
+  "new_content_call": {
+    "index": 299,
+    "file": "[local evidence path omitted]",
+    "pptx_sha256": "082c4ad5e6a7208c94c62e4a68ec86d1c0e3b4e9b9e963e71573786099444af3",
+    "recording": "[local evidence path omitted]",
+    "recording_sha256": "aa2ae2a5edb9b08c4e73239ed686f7c01bfce02da0a5b19bda354ffe4cd74017",
+    "page_order": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "all_encoded_frames_decoded": true,
+    "encoded_frames": 1578,
+    "duration_s": 26.3,
+    "events_s": [
+      0.06789803504943848,
+      4.452337026596069,
+      8.841824054718018,
+      13.220299005508423,
+      17.60504388809204,
+      21.91886806488037
+    ],
+    "viewport_crop": [
+      0,
+      40,
+      1280,
+      720
+    ],
+    "capture_scope": "WindowsGraphicsCapture_exact_verified_owned_HWND_client",
+    "native_visual_metrics": {},
+    "manual_visual_review_complete": false,
+    "user_accepted": false,
+    "review_method": "All stable states and dense temporal sheets of every boundary; complete file decoded. These artifacts are not an independent full real-time human watch."
+  },
+  "source_receipt_sha256": "9eebce1a916d9ac9446c3c9e00ba0368646d2546bf98a4743391dce526aa6353",
+  "scope": "历史实播记录摘要；不包含原录像或截图。新稿须另行实播。",
+  "user_acceptance_inherited": false
+}

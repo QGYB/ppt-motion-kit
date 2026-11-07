@@ -1,0 +1,61 @@
+{
+  "module_id": "vid-0083-curved-topbar",
+  "native_package_sha256": "5019d94b652ea01bb2311ee278f3e7af00fff3ed548deba02e9109d96bea0213",
+  "software": "WPS Presentation",
+  "source_verification": {
+    "native_package_extracted": false,
+    "native_component_constructed": true,
+    "source_full_reviewed": true,
+    "package_integrity_checked": true,
+    "font_and_content_bindings_checked": true,
+    "native_component_playback_verified": true,
+    "whole_composition_playback_verified": false,
+    "new_content_playback_verified": true,
+    "user_accepted_revision": false,
+    "scope": "完整四章导航机制；示例正文不属于本组件; new-content invocation preserves native mechanism; cross-module interfaces not accepted",
+    "target_software": "WPS Presentation",
+    "playback_evidence": "[local evidence path omitted]",
+    "boundaries_captured": 3,
+    "static_visual_review": "All source states inspected through rendered views and stable-state contact sheets; original video assets and unknown fields are not asserted as reconstructed.",
+    "source_timing_unknowns_retained": true,
+    "source_full_video_reproduced": false,
+    "new_content_call_evidence": "[local evidence path omitted]",
+    "new_content_playback_evidence": "[local evidence path omitted]"
+  },
+  "new_content_call": {
+    "index": 83,
+    "file": "[local evidence path omitted]",
+    "pptx_sha256": "d6c5bb70c7833ee4d835d939bb61973a2081e99d5d18ceac9a119a01aa1a554b",
+    "recording": "[local evidence path omitted]",
+    "recording_sha256": "82b676faafc7a728f70bb0901b52bb6a194ebc9fa355e53e4828ba0ebe0e4583",
+    "page_order": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "all_encoded_frames_decoded": true,
+    "encoded_frames": 859,
+    "duration_s": 14.316667,
+    "events_s": [
+      0.09721708297729492,
+      3.649721145629883,
+      7.179378986358643,
+      10.78960394859314
+    ],
+    "viewport_crop": [
+      0,
+      40,
+      1280,
+      720
+    ],
+    "capture_scope": "WindowsGraphicsCapture_exact_verified_owned_HWND_client",
+    "native_visual_metrics": {},
+    "manual_visual_review_complete": false,
+    "user_accepted": false,
+    "review_method": "All stable states and dense temporal sheets of every boundary; complete file decoded. These artifacts are not an independent full real-time human watch."
+  },
+  "source_receipt_sha256": "f0af616d815fbc9ca293471f1f0ef933901cae9f767602c4efb676a07418b6ad",
+  "scope": "历史实播记录摘要；不包含原录像或截图。新稿须另行实播。",
+  "user_acceptance_inherited": false
+}

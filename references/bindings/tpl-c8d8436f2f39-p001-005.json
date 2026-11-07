@@ -1,0 +1,617 @@
+{
+  "module_id": "tpl-c8d8436f2f39-p001-005",
+  "slide_size_emu": [
+    12192000,
+    6858000
+  ],
+  "text_slots": [
+    {
+      "page": 1,
+      "object_id": "2",
+      "object_name": "文本框 1",
+      "expected_text": "湖泊的眼眸​湖面如镜，映着湛蓝的天。野鸭掠过水面，荡开层层涟漪。岸边的芦苇沙沙作响，守护着这汪清澈，倒映着四季的更迭。​",
+      "runs": [
+        "湖泊的眼眸​",
+        "湖面如镜，映着湛蓝的天。野鸭掠过水面，荡开层层涟漪。岸边的芦苇沙沙作响，守护着这汪清澈，倒映着四季的更迭。​"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 7289542,
+        "y": 1724769,
+        "cx": 3495964,
+        "cy": 3508653
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "3",
+      "object_name": "文本框 2",
+      "expected_text": "群山的剪影​暮色为山峦镀上墨色轮廓，峰峦叠嶂如沉睡的巨兽。月光爬上山脊，勾勒出银亮的线条，山间的松涛是大地的低语。",
+      "runs": [
+        "群山的剪影​",
+        "暮色为山峦镀上墨色轮廓，峰峦叠嶂如沉睡的巨兽。月光爬上山脊，勾勒出银亮的线条，山间的松涛是大地的低语。"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 12424250,
+        "y": 1724769,
+        "cx": 3495964,
+        "cy": 3231654
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 2,
+      "object_id": "4",
+      "object_name": "文本框 3",
+      "expected_text": "群山的剪影​暮色为山峦镀上墨色轮廓，峰峦叠嶂如沉睡的巨兽。月光爬上山脊，勾勒出银亮的线条，山间的松涛是大地的低语。",
+      "runs": [
+        "群山的剪影​",
+        "暮色为山峦镀上墨色轮廓，峰峦叠嶂如沉睡的巨兽。月光爬上山脊，勾勒出银亮的线条，山间的松涛是大地的低语。"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 7359880,
+        "y": 1724769,
+        "cx": 3495964,
+        "cy": 3231654
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "6",
+      "object_name": "文本框 5",
+      "expected_text": "火烧云漫舞​夕阳把云染成炽烈的橘红，像天神打翻了胭脂盒。云朵在天际舒展、变形，时而如奔马，时而似烈焰，将天空烧成温暖的海洋。",
+      "runs": [
+        "火烧云漫舞",
+        "​",
+        "夕阳把云染成炽烈的橘红，像天神打翻了胭脂盒。云朵在天际舒展、变形，时而如奔马，时而似烈焰，将天空烧成温暖的海洋。"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 12358376,
+        "y": 1725920,
+        "cx": 3725686,
+        "cy": 3323987
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 3,
+      "object_id": "21",
+      "object_name": "文本框 20",
+      "expected_text": "火烧云漫舞​夕阳把云染成炽烈的橘红，像天神打翻了胭脂盒。云朵在天际舒展、变形，时而如奔马，时而似烈焰，将天空烧成温暖的海洋。",
+      "runs": [
+        "火烧云漫舞",
+        "​",
+        "夕阳把云染成炽烈的橘红，像天神打翻了胭脂盒。云朵在天际舒展、变形，时而如奔马，时而似烈焰，将天空烧成温暖的海洋。"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 7294006,
+        "y": 1725920,
+        "cx": 3725686,
+        "cy": 3323987
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "22",
+      "object_name": "文本框 21",
+      "expected_text": "海滩的絮语​潮水退去，沙滩留下细碎的贝壳。浪花轻吻脚边，带着咸涩的风。落日把余晖铺在海面，归航的渔船是晃动的剪影。",
+      "runs": [
+        "海滩的絮语",
+        "​",
+        "潮水退去，沙滩留下细碎的贝壳。浪花轻吻脚边，带着咸涩的风。落日把余晖铺在海面，归航的渔船是晃动的剪影。"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 12292686,
+        "y": 1967061,
+        "cx": 3855432,
+        "cy": 2923877
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 4,
+      "object_id": "21",
+      "object_name": "文本框 20",
+      "expected_text": "海滩的絮语​潮水退去，沙滩留下细碎的贝壳。浪花轻吻脚边，带着咸涩的风。落日把余晖铺在海面，归航的渔船是晃动的剪影。",
+      "runs": [
+        "海滩的絮语",
+        "​",
+        "潮水退去，沙滩留下细碎的贝壳。浪花轻吻脚边，带着咸涩的风。落日把余晖铺在海面，归航的渔船是晃动的剪影。"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 7157983,
+        "y": 1967061,
+        "cx": 3855432,
+        "cy": 2923877
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "22",
+      "object_name": "文本框 21",
+      "expected_text": "草原的呼吸​风掠过草甸，掀动绿色波浪。羊群像散落的珍珠，跟着牧人的鞭声移动。远处蒙古包升起炊烟，与天边的云絮轻轻缠绕。",
+      "runs": [
+        "草原的呼吸",
+        "​",
+        "风掠过草甸，掀动绿色波浪。羊群像散落的珍珠，跟着牧人的鞭声移动。远处蒙古包升起炊烟，与天边的云絮轻轻缠绕。"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 12208475,
+        "y": 1752696,
+        "cx": 3495964,
+        "cy": 3693319
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 5,
+      "object_id": "21",
+      "object_name": "文本框 20",
+      "expected_text": "草原的呼吸​风掠过草甸，掀动绿色波浪。羊群像散落的珍珠，跟着牧人的鞭声移动。远处蒙古包升起炊烟，与天边的云絮轻轻缠绕。",
+      "runs": [
+        "草原的呼吸",
+        "​",
+        "风掠过草甸，掀动绿色波浪。羊群像散落的珍珠，跟着牧人的鞭声移动。远处蒙古包升起炊烟，与天边的云絮轻轻缠绕。"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 7613029,
+        "y": 1752696,
+        "cx": 3495964,
+        "cy": 3693319
+      },
+      "fully_off_canvas": false
+    }
+  ],
+  "media_parts": [
+    {
+      "part": "ppt/components_0/media/image1.jpg",
+      "bytes": 13376786,
+      "sha256": "bb2a929a29087c34f7cce255bb2f8e6a61bff1698bb68a5e78c2fa26bec6300e"
+    },
+    {
+      "part": "ppt/components_0/media/image2.jpg",
+      "bytes": 2818436,
+      "sha256": "867dfcd205fffc44973620701c9e30a51f8a10bb0b4d0a0cd0e213c9df61a4c7"
+    },
+    {
+      "part": "ppt/components_0/media/image3.jpg",
+      "bytes": 4560935,
+      "sha256": "dc7fcd8412e1491a6a420b7f2c9a0786602344bbdf9604e963f44ba786dc202f"
+    },
+    {
+      "part": "ppt/components_0/media/image4.jpg",
+      "bytes": 3731258,
+      "sha256": "f82d26b0990c6979a1495aff70e68dacfb5ca7fcf306b235e690adc5ba1bc0e6"
+    },
+    {
+      "part": "ppt/components_0/media/image5.jpg",
+      "bytes": 6285005,
+      "sha256": "61a76529fe3f39bd0c02104e6b4a7303f82c3753d6ecebb6c722a2e2f5dff76f"
+    }
+  ],
+  "repeat_bindings": [
+    {
+      "expected_text": "群山的剪影​暮色为山峦镀上墨色轮廓，峰峦叠嶂如沉睡的巨兽。月光爬上山脊，勾勒出银亮的线条，山间的松涛是大地的低语。",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "3",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 2,
+          "object_id": "4",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Confirm the same entity, then synchronize its visible and off-canvas copies."
+    },
+    {
+      "expected_text": "火烧云漫舞​夕阳把云染成炽烈的橘红，像天神打翻了胭脂盒。云朵在天际舒展、变形，时而如奔马，时而似烈焰，将天空烧成温暖的海洋。",
+      "slots": [
+        {
+          "page": 2,
+          "object_id": "6",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 3,
+          "object_id": "21",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Confirm the same entity, then synchronize its visible and off-canvas copies."
+    },
+    {
+      "expected_text": "海滩的絮语​潮水退去，沙滩留下细碎的贝壳。浪花轻吻脚边，带着咸涩的风。落日把余晖铺在海面，归航的渔船是晃动的剪影。",
+      "slots": [
+        {
+          "page": 3,
+          "object_id": "22",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 4,
+          "object_id": "21",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Confirm the same entity, then synchronize its visible and off-canvas copies."
+    },
+    {
+      "expected_text": "草原的呼吸​风掠过草甸，掀动绿色波浪。羊群像散落的珍珠，跟着牧人的鞭声移动。远处蒙古包升起炊烟，与天边的云絮轻轻缠绕。",
+      "slots": [
+        {
+          "page": 4,
+          "object_id": "22",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 5,
+          "object_id": "21",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Confirm the same entity, then synchronize its visible and off-canvas copies."
+    }
+  ],
+  "state_contracts": [
+    {
+      "page": 1,
+      "source_page": 1,
+      "name": "胶囊图窗换景·湖泊",
+      "information_relation": "同级换景/固定读区",
+      "source_observation": "左侧五个长圆角图窗随页改变高低位置，使用背景填充关联当前全幅风景，右侧暗区容纳短题正文；跨页不只是换照片，仍须维护图窗身份。源标题和实际风景并非可靠对应，湖泊、群山、草原等类别及说明应重核，不能当作新稿事实。",
+      "source_warning": "Source picture/category/body mismatches remain; page4 also animates next-page text, so Morph alone is not the full timeline.",
+      "timing_groups": [],
+      "source_hidden": false,
+      "source_preview_evidence": {
+        "recording": "[local evidence path omitted]",
+        "playback": "[local evidence path omitted]",
+        "inherited_geometry": "[local evidence path omitted]"
+      }
+    },
+    {
+      "page": 2,
+      "source_page": 2,
+      "name": "胶囊图窗换景·群山",
+      "information_relation": "同级换景/固定读区",
+      "source_observation": "左侧五个长圆角图窗随页改变高低位置，使用背景填充关联当前全幅风景，右侧暗区容纳短题正文；跨页不只是换照片，仍须维护图窗身份。源标题和实际风景并非可靠对应，湖泊、群山、草原等类别及说明应重核，不能当作新稿事实。",
+      "source_warning": "Source picture/category/body mismatches remain; page4 also animates next-page text, so Morph alone is not the full timeline.",
+      "timing_groups": [],
+      "source_hidden": false,
+      "source_preview_evidence": {
+        "recording": "[local evidence path omitted]",
+        "playback": "[local evidence path omitted]",
+        "inherited_geometry": "[local evidence path omitted]"
+      }
+    },
+    {
+      "page": 3,
+      "source_page": 3,
+      "name": "胶囊图窗换景·火烧云",
+      "information_relation": "同级换景/固定读区",
+      "source_observation": "左侧五个长圆角图窗随页改变高低位置，使用背景填充关联当前全幅风景，右侧暗区容纳短题正文；跨页不只是换照片，仍须维护图窗身份。源标题和实际风景并非可靠对应，湖泊、群山、草原等类别及说明应重核，不能当作新稿事实。",
+      "source_warning": "Source picture/category/body mismatches remain; page4 also animates next-page text, so Morph alone is not the full timeline.",
+      "timing_groups": [],
+      "source_hidden": false,
+      "source_preview_evidence": {
+        "recording": "[local evidence path omitted]",
+        "playback": "[local evidence path omitted]",
+        "inherited_geometry": "[local evidence path omitted]"
+      }
+    },
+    {
+      "page": 4,
+      "source_page": 4,
+      "name": "胶囊图窗换景·海滩",
+      "information_relation": "同级换景/固定读区",
+      "source_observation": "左侧五个长圆角图窗随页改变高低位置，使用背景填充关联当前全幅风景，右侧暗区容纳短题正文；跨页不只是换照片，仍须维护图窗身份。本页的下一项草原文本还有1秒从右侧进入动作，与相邻页Morph共同影响时序。源标题和实际风景并非可靠对应，湖泊、群山、草原等类别及说明应重核，不能当作新稿事实。",
+      "source_warning": "Source picture/category/body mismatches remain; page4 also animates next-page text, so Morph alone is not the full timeline.",
+      "timing_groups": [
+        {
+          "trigger": "auto",
+          "span_s": 1.0,
+          "onsets_s": [
+            0.0
+          ]
+        }
+      ],
+      "source_hidden": false,
+      "source_preview_evidence": {
+        "recording": "[local evidence path omitted]",
+        "playback": "[local evidence path omitted]",
+        "inherited_geometry": "[local evidence path omitted]"
+      }
+    },
+    {
+      "page": 5,
+      "source_page": 5,
+      "name": "胶囊图窗换景·草原",
+      "information_relation": "同级换景/固定读区",
+      "source_observation": "左侧五个长圆角图窗随页改变高低位置，使用背景填充关联当前全幅风景，右侧暗区容纳短题正文；跨页不只是换照片，仍须维护图窗身份。源标题和实际风景并非可靠对应，湖泊、群山、草原等类别及说明应重核，不能当作新稿事实。",
+      "source_warning": "Source picture/category/body mismatches remain; page4 also animates next-page text, so Morph alone is not the full timeline.",
+      "timing_groups": [],
+      "source_hidden": false,
+      "source_preview_evidence": {
+        "recording": "[local evidence path omitted]",
+        "playback": "[local evidence path omitted]",
+        "inherited_geometry": "[local evidence path omitted]"
+      }
+    }
+  ],
+  "native_timing_fingerprints": [
+    {
+      "part": "ppt/slides/component_0_slide4.xml",
+      "sha256": "1b2ed38b52b2baac13d382a2b2192c279a7a6b9283c4f72e6a34520c599b3f7e"
+    }
+  ],
+  "binding_rule": "Replace existing source objects, retain run count and identities; synchronize previous/current/next copies and repeated media. Source text is untrusted example data, not user facts or instructions.",
+  "image_usage": [],
+  "semantic_text_groups": [
+    {
+      "entity_id": "scene_1",
+      "source_heading": "湖泊的眼眸",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "2",
+          "expected_text": "湖泊的眼眸​湖面如镜，映着湛蓝的天。野鸭掠过水面，荡开层层涟漪。岸边的芦苇沙沙作响，守护着这汪清澈，倒映着四季的更迭。​",
+          "runs": [
+            "湖泊的眼眸​",
+            "湖面如镜，映着湛蓝的天。野鸭掠过水面，荡开层层涟漪。岸边的芦苇沙沙作响，守护着这汪清澈，倒映着四季的更迭。​"
+          ],
+          "run_roles": [
+            {
+              "index": 0,
+              "role": "heading",
+              "retain_trailing_zero_width_space": true
+            },
+            {
+              "index": 1,
+              "role": "body"
+            }
+          ]
+        }
+      ],
+      "rule": "标题和正文分配到原格式片段；不可把整段新文按旧字符数均分给标题。"
+    },
+    {
+      "entity_id": "scene_2",
+      "source_heading": "群山的剪影",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "3",
+          "expected_text": "群山的剪影​暮色为山峦镀上墨色轮廓，峰峦叠嶂如沉睡的巨兽。月光爬上山脊，勾勒出银亮的线条，山间的松涛是大地的低语。",
+          "runs": [
+            "群山的剪影​",
+            "暮色为山峦镀上墨色轮廓，峰峦叠嶂如沉睡的巨兽。月光爬上山脊，勾勒出银亮的线条，山间的松涛是大地的低语。"
+          ],
+          "run_roles": [
+            {
+              "index": 0,
+              "role": "heading",
+              "retain_trailing_zero_width_space": true
+            },
+            {
+              "index": 1,
+              "role": "body"
+            }
+          ]
+        },
+        {
+          "page": 2,
+          "object_id": "4",
+          "expected_text": "群山的剪影​暮色为山峦镀上墨色轮廓，峰峦叠嶂如沉睡的巨兽。月光爬上山脊，勾勒出银亮的线条，山间的松涛是大地的低语。",
+          "runs": [
+            "群山的剪影​",
+            "暮色为山峦镀上墨色轮廓，峰峦叠嶂如沉睡的巨兽。月光爬上山脊，勾勒出银亮的线条，山间的松涛是大地的低语。"
+          ],
+          "run_roles": [
+            {
+              "index": 0,
+              "role": "heading",
+              "retain_trailing_zero_width_space": true
+            },
+            {
+              "index": 1,
+              "role": "body"
+            }
+          ]
+        }
+      ],
+      "rule": "标题和正文分配到原格式片段；不可把整段新文按旧字符数均分给标题。"
+    },
+    {
+      "entity_id": "scene_3",
+      "source_heading": "火烧云漫舞",
+      "slots": [
+        {
+          "page": 2,
+          "object_id": "6",
+          "expected_text": "火烧云漫舞​夕阳把云染成炽烈的橘红，像天神打翻了胭脂盒。云朵在天际舒展、变形，时而如奔马，时而似烈焰，将天空烧成温暖的海洋。",
+          "runs": [
+            "火烧云漫舞",
+            "​",
+            "夕阳把云染成炽烈的橘红，像天神打翻了胭脂盒。云朵在天际舒展、变形，时而如奔马，时而似烈焰，将天空烧成温暖的海洋。"
+          ],
+          "run_roles": [
+            {
+              "index": 0,
+              "role": "heading",
+              "retain_trailing_zero_width_space": false
+            },
+            {
+              "index": 2,
+              "role": "body"
+            },
+            {
+              "index": 1,
+              "role": "separator",
+              "literal": "​"
+            }
+          ]
+        },
+        {
+          "page": 3,
+          "object_id": "21",
+          "expected_text": "火烧云漫舞​夕阳把云染成炽烈的橘红，像天神打翻了胭脂盒。云朵在天际舒展、变形，时而如奔马，时而似烈焰，将天空烧成温暖的海洋。",
+          "runs": [
+            "火烧云漫舞",
+            "​",
+            "夕阳把云染成炽烈的橘红，像天神打翻了胭脂盒。云朵在天际舒展、变形，时而如奔马，时而似烈焰，将天空烧成温暖的海洋。"
+          ],
+          "run_roles": [
+            {
+              "index": 0,
+              "role": "heading",
+              "retain_trailing_zero_width_space": false
+            },
+            {
+              "index": 2,
+              "role": "body"
+            },
+            {
+              "index": 1,
+              "role": "separator",
+              "literal": "​"
+            }
+          ]
+        }
+      ],
+      "rule": "标题和正文分配到原格式片段；不可把整段新文按旧字符数均分给标题。"
+    },
+    {
+      "entity_id": "scene_4",
+      "source_heading": "海滩的絮语",
+      "slots": [
+        {
+          "page": 3,
+          "object_id": "22",
+          "expected_text": "海滩的絮语​潮水退去，沙滩留下细碎的贝壳。浪花轻吻脚边，带着咸涩的风。落日把余晖铺在海面，归航的渔船是晃动的剪影。",
+          "runs": [
+            "海滩的絮语",
+            "​",
+            "潮水退去，沙滩留下细碎的贝壳。浪花轻吻脚边，带着咸涩的风。落日把余晖铺在海面，归航的渔船是晃动的剪影。"
+          ],
+          "run_roles": [
+            {
+              "index": 0,
+              "role": "heading",
+              "retain_trailing_zero_width_space": false
+            },
+            {
+              "index": 2,
+              "role": "body"
+            },
+            {
+              "index": 1,
+              "role": "separator",
+              "literal": "​"
+            }
+          ]
+        },
+        {
+          "page": 4,
+          "object_id": "21",
+          "expected_text": "海滩的絮语​潮水退去，沙滩留下细碎的贝壳。浪花轻吻脚边，带着咸涩的风。落日把余晖铺在海面，归航的渔船是晃动的剪影。",
+          "runs": [
+            "海滩的絮语",
+            "​",
+            "潮水退去，沙滩留下细碎的贝壳。浪花轻吻脚边，带着咸涩的风。落日把余晖铺在海面，归航的渔船是晃动的剪影。"
+          ],
+          "run_roles": [
+            {
+              "index": 0,
+              "role": "heading",
+              "retain_trailing_zero_width_space": false
+            },
+            {
+              "index": 2,
+              "role": "body"
+            },
+            {
+              "index": 1,
+              "role": "separator",
+              "literal": "​"
+            }
+          ]
+        }
+      ],
+      "rule": "标题和正文分配到原格式片段；不可把整段新文按旧字符数均分给标题。"
+    },
+    {
+      "entity_id": "scene_5",
+      "source_heading": "草原的呼吸",
+      "slots": [
+        {
+          "page": 4,
+          "object_id": "22",
+          "expected_text": "草原的呼吸​风掠过草甸，掀动绿色波浪。羊群像散落的珍珠，跟着牧人的鞭声移动。远处蒙古包升起炊烟，与天边的云絮轻轻缠绕。",
+          "runs": [
+            "草原的呼吸",
+            "​",
+            "风掠过草甸，掀动绿色波浪。羊群像散落的珍珠，跟着牧人的鞭声移动。远处蒙古包升起炊烟，与天边的云絮轻轻缠绕。"
+          ],
+          "run_roles": [
+            {
+              "index": 0,
+              "role": "heading",
+              "retain_trailing_zero_width_space": false
+            },
+            {
+              "index": 2,
+              "role": "body"
+            },
+            {
+              "index": 1,
+              "role": "separator",
+              "literal": "​"
+            }
+          ]
+        },
+        {
+          "page": 5,
+          "object_id": "21",
+          "expected_text": "草原的呼吸​风掠过草甸，掀动绿色波浪。羊群像散落的珍珠，跟着牧人的鞭声移动。远处蒙古包升起炊烟，与天边的云絮轻轻缠绕。",
+          "runs": [
+            "草原的呼吸",
+            "​",
+            "风掠过草甸，掀动绿色波浪。羊群像散落的珍珠，跟着牧人的鞭声移动。远处蒙古包升起炊烟，与天边的云絮轻轻缠绕。"
+          ],
+          "run_roles": [
+            {
+              "index": 0,
+              "role": "heading",
+              "retain_trailing_zero_width_space": false
+            },
+            {
+              "index": 2,
+              "role": "body"
+            },
+            {
+              "index": 1,
+              "role": "separator",
+              "literal": "​"
+            }
+          ]
+        }
+      ],
+      "rule": "标题和正文分配到原格式片段；不可把整段新文按旧字符数均分给标题。"
+    }
+  ],
+  "semantic_roles_reviewed_against_native_playback": true
+}

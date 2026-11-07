@@ -1,0 +1,65 @@
+{
+  "module_id": "vid-0134-clock-panorama",
+  "native_package_sha256": "ef120e505068c1950ed61280ba42140132f7df6d5c15046a61ce99bb99afc6e6",
+  "software": "WPS Presentation",
+  "source_verification": {
+    "native_package_extracted": false,
+    "native_component_constructed": true,
+    "source_full_reviewed": true,
+    "package_integrity_checked": true,
+    "font_and_content_bindings_checked": true,
+    "native_component_playback_verified": true,
+    "whole_composition_playback_verified": false,
+    "new_content_playback_verified": true,
+    "user_accepted_revision": false,
+    "scope": "两圆及六年份整组逆时针，固定左向指针、普通宽图左移、六组正文上下画外预放及6页平滑; new-content invocation preserves native mechanism; cross-module interfaces not accepted",
+    "target_software": "WPS Presentation",
+    "playback_evidence": "[local evidence path omitted]",
+    "boundaries_captured": 5,
+    "static_visual_review": "All source states inspected through rendered views and stable-state contact sheets; original video assets and unknown fields are not asserted as reconstructed.",
+    "source_timing_unknowns_retained": true,
+    "source_full_video_reproduced": false,
+    "new_content_call_evidence": "[local evidence path omitted]",
+    "new_content_playback_evidence": "[local evidence path omitted]"
+  },
+  "new_content_call": {
+    "index": 134,
+    "file": "[local evidence path omitted]",
+    "pptx_sha256": "3d74de0befe4e1ce411b8430f19368c7f7ce96c8655bd967a0fe708116685270",
+    "recording": "[local evidence path omitted]",
+    "recording_sha256": "1b7e09fe7cd5830185cef52153d7d1769005ee256e182166a09b3eb6f52c927f",
+    "page_order": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "all_encoded_frames_decoded": true,
+    "encoded_frames": 1292,
+    "duration_s": 21.533333,
+    "events_s": [
+      0.10285091400146484,
+      3.633298873901367,
+      7.177110910415649,
+      10.687479019165039,
+      14.295753955841064,
+      17.904016971588135
+    ],
+    "viewport_crop": [
+      0,
+      40,
+      1280,
+      720
+    ],
+    "capture_scope": "WindowsGraphicsCapture_exact_verified_owned_HWND_client",
+    "native_visual_metrics": {},
+    "manual_visual_review_complete": false,
+    "user_accepted": false,
+    "review_method": "All stable states and dense temporal sheets of every boundary; complete file decoded. These artifacts are not an independent full real-time human watch."
+  },
+  "source_receipt_sha256": "fbf5cc3605a3cd82188799c7b5df89d64674695a2f6fd2691557e6a452ae1865",
+  "scope": "历史实播记录摘要；不包含原录像或截图。新稿须另行实播。",
+  "user_acceptance_inherited": false
+}

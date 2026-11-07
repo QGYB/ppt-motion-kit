@@ -1,0 +1,478 @@
+{
+  "module_id": "vid-0087-five-row-photo-wall",
+  "slide_size_emu": [
+    12192000,
+    6858000
+  ],
+  "text_slots": [
+    {
+      "page": 1,
+      "object_id": "1041",
+      "object_name": "!!title",
+      "expected_text": "凝聚力量",
+      "runs": [
+        "凝聚力量"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 533400,
+        "y": 342900,
+        "cx": 3810000,
+        "cy": 876300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1042",
+      "object_name": "!!summary",
+      "expected_text": "用资料里的关键结论概括本页活动照片提供情境，文字和数据保持稳定",
+      "runs": [
+        "用资料里的关键结论概括本页",
+        "活动照片提供情境，文字和数据保持稳定"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4505325,
+        "y": 400050,
+        "cx": 7143750,
+        "cy": 800100
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1043",
+      "object_name": "!!metric-label-0",
+      "expected_text": "活动数量",
+      "runs": [
+        "活动数量"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 962025,
+        "y": 5381625,
+        "cx": 3238500,
+        "cy": 352425
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1044",
+      "object_name": "!!metric-value-0",
+      "expected_text": "待填",
+      "runs": [
+        "待填"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 933450,
+        "y": 5791200,
+        "cx": 3238500,
+        "cy": 742950
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1045",
+      "object_name": "!!metric-label-1",
+      "expected_text": "参与人数",
+      "runs": [
+        "参与人数"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4876800,
+        "y": 5381625,
+        "cx": 3238500,
+        "cy": 352425
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1046",
+      "object_name": "!!metric-value-1",
+      "expected_text": "待填",
+      "runs": [
+        "待填"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4848225,
+        "y": 5791200,
+        "cx": 3238500,
+        "cy": 742950
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1047",
+      "object_name": "!!metric-label-2",
+      "expected_text": "评价结果",
+      "runs": [
+        "评价结果"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 8791575,
+        "y": 5381625,
+        "cx": 3238500,
+        "cy": 352425
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1048",
+      "object_name": "!!metric-value-2",
+      "expected_text": "待填",
+      "runs": [
+        "待填"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 8763000,
+        "y": 5791200,
+        "cx": 3238500,
+        "cy": 742950
+      },
+      "fully_off_canvas": false
+    }
+  ],
+  "table_cell_slots": [],
+  "media_parts": [
+    {
+      "part": "ppt/media/image.jpeg",
+      "bytes": 2576183,
+      "sha256": "1447abc0c1ba1f7390a26523f3a268ba71d1f92b2118b5e40b563f9704502cfc",
+      "use": "background or photo, replace all same-entity states together"
+    },
+    {
+      "part": "ppt/media/image2.jpeg",
+      "bytes": 121310,
+      "sha256": "57d55010e7f7d3854cbea74731a042de393d4610c8878488aacaf2652cbe83f2",
+      "use": "background or photo, replace all same-entity states together"
+    },
+    {
+      "part": "ppt/media/image3.jpeg",
+      "bytes": 3060376,
+      "sha256": "1a20bde815d17845ed23d66731d85a0978938ec5b9085ca61276fb76d54f0a30",
+      "use": "background or photo, replace all same-entity states together"
+    },
+    {
+      "part": "ppt/media/image4.jpeg",
+      "bytes": 4529707,
+      "sha256": "d85e7ba1afb069b8579f17a9a020aeb1cc9a589f9da0d5b8d82b64fd6d9867d3",
+      "use": "background or photo, replace all same-entity states together"
+    },
+    {
+      "part": "ppt/media/image5.jpeg",
+      "bytes": 880578,
+      "sha256": "6f5452ee1cb4dd00bc575288639a77c8fb49267da5f9af0f1fecd65125dc8c70",
+      "use": "background or photo, replace all same-entity states together"
+    }
+  ],
+  "image_usage": [
+    {
+      "page": 1,
+      "object_id": "1000",
+      "object_name": "!!row-0-photo-0",
+      "scope": "native_object",
+      "media_part": "ppt/media/image.jpeg"
+    },
+    {
+      "page": 1,
+      "object_id": "1001",
+      "object_name": "!!row-0-photo-1",
+      "scope": "native_object",
+      "media_part": "ppt/media/image2.jpeg"
+    },
+    {
+      "page": 1,
+      "object_id": "1002",
+      "object_name": "!!row-0-photo-2",
+      "scope": "native_object",
+      "media_part": "ppt/media/image3.jpeg"
+    },
+    {
+      "page": 1,
+      "object_id": "1003",
+      "object_name": "!!row-0-photo-3",
+      "scope": "native_object",
+      "media_part": "ppt/media/image4.jpeg"
+    },
+    {
+      "page": 1,
+      "object_id": "1004",
+      "object_name": "!!row-0-photo-4",
+      "scope": "native_object",
+      "media_part": "ppt/media/image5.jpeg"
+    },
+    {
+      "page": 1,
+      "object_id": "1005",
+      "object_name": "!!row-0-photo-5",
+      "scope": "native_object",
+      "media_part": "ppt/media/image.jpeg"
+    },
+    {
+      "page": 1,
+      "object_id": "1006",
+      "object_name": "!!row-0-photo-6",
+      "scope": "native_object",
+      "media_part": "ppt/media/image2.jpeg"
+    },
+    {
+      "page": 1,
+      "object_id": "1007",
+      "object_name": "!!row-0-photo-7",
+      "scope": "native_object",
+      "media_part": "ppt/media/image3.jpeg"
+    },
+    {
+      "page": 1,
+      "object_id": "1008",
+      "object_name": "!!row-1-photo-0",
+      "scope": "native_object",
+      "media_part": "ppt/media/image4.jpeg"
+    },
+    {
+      "page": 1,
+      "object_id": "1009",
+      "object_name": "!!row-1-photo-1",
+      "scope": "native_object",
+      "media_part": "ppt/media/image5.jpeg"
+    },
+    {
+      "page": 1,
+      "object_id": "1010",
+      "object_name": "!!row-1-photo-2",
+      "scope": "native_object",
+      "media_part": "ppt/media/image.jpeg"
+    },
+    {
+      "page": 1,
+      "object_id": "1011",
+      "object_name": "!!row-1-photo-3",
+      "scope": "native_object",
+      "media_part": "ppt/media/image2.jpeg"
+    },
+    {
+      "page": 1,
+      "object_id": "1012",
+      "object_name": "!!row-1-photo-4",
+      "scope": "native_object",
+      "media_part": "ppt/media/image3.jpeg"
+    },
+    {
+      "page": 1,
+      "object_id": "1013",
+      "object_name": "!!row-1-photo-5",
+      "scope": "native_object",
+      "media_part": "ppt/media/image4.jpeg"
+    },
+    {
+      "page": 1,
+      "object_id": "1014",
+      "object_name": "!!row-1-photo-6",
+      "scope": "native_object",
+      "media_part": "ppt/media/image5.jpeg"
+    },
+    {
+      "page": 1,
+      "object_id": "1015",
+      "object_name": "!!row-1-photo-7",
+      "scope": "native_object",
+      "media_part": "ppt/media/image.jpeg"
+    },
+    {
+      "page": 1,
+      "object_id": "1016",
+      "object_name": "!!row-2-photo-0",
+      "scope": "native_object",
+      "media_part": "ppt/media/image2.jpeg"
+    },
+    {
+      "page": 1,
+      "object_id": "1017",
+      "object_name": "!!row-2-photo-1",
+      "scope": "native_object",
+      "media_part": "ppt/media/image3.jpeg"
+    },
+    {
+      "page": 1,
+      "object_id": "1018",
+      "object_name": "!!row-2-photo-2",
+      "scope": "native_object",
+      "media_part": "ppt/media/image4.jpeg"
+    },
+    {
+      "page": 1,
+      "object_id": "1019",
+      "object_name": "!!row-2-photo-3",
+      "scope": "native_object",
+      "media_part": "ppt/media/image5.jpeg"
+    },
+    {
+      "page": 1,
+      "object_id": "1020",
+      "object_name": "!!row-2-photo-4",
+      "scope": "native_object",
+      "media_part": "ppt/media/image.jpeg"
+    },
+    {
+      "page": 1,
+      "object_id": "1021",
+      "object_name": "!!row-2-photo-5",
+      "scope": "native_object",
+      "media_part": "ppt/media/image2.jpeg"
+    },
+    {
+      "page": 1,
+      "object_id": "1022",
+      "object_name": "!!row-2-photo-6",
+      "scope": "native_object",
+      "media_part": "ppt/media/image3.jpeg"
+    },
+    {
+      "page": 1,
+      "object_id": "1023",
+      "object_name": "!!row-2-photo-7",
+      "scope": "native_object",
+      "media_part": "ppt/media/image4.jpeg"
+    },
+    {
+      "page": 1,
+      "object_id": "1024",
+      "object_name": "!!row-3-photo-0",
+      "scope": "native_object",
+      "media_part": "ppt/media/image5.jpeg"
+    },
+    {
+      "page": 1,
+      "object_id": "1025",
+      "object_name": "!!row-3-photo-1",
+      "scope": "native_object",
+      "media_part": "ppt/media/image.jpeg"
+    },
+    {
+      "page": 1,
+      "object_id": "1026",
+      "object_name": "!!row-3-photo-2",
+      "scope": "native_object",
+      "media_part": "ppt/media/image2.jpeg"
+    },
+    {
+      "page": 1,
+      "object_id": "1027",
+      "object_name": "!!row-3-photo-3",
+      "scope": "native_object",
+      "media_part": "ppt/media/image3.jpeg"
+    },
+    {
+      "page": 1,
+      "object_id": "1028",
+      "object_name": "!!row-3-photo-4",
+      "scope": "native_object",
+      "media_part": "ppt/media/image4.jpeg"
+    },
+    {
+      "page": 1,
+      "object_id": "1029",
+      "object_name": "!!row-3-photo-5",
+      "scope": "native_object",
+      "media_part": "ppt/media/image5.jpeg"
+    },
+    {
+      "page": 1,
+      "object_id": "1030",
+      "object_name": "!!row-3-photo-6",
+      "scope": "native_object",
+      "media_part": "ppt/media/image.jpeg"
+    },
+    {
+      "page": 1,
+      "object_id": "1031",
+      "object_name": "!!row-3-photo-7",
+      "scope": "native_object",
+      "media_part": "ppt/media/image2.jpeg"
+    },
+    {
+      "page": 1,
+      "object_id": "1032",
+      "object_name": "!!row-4-photo-0",
+      "scope": "native_object",
+      "media_part": "ppt/media/image3.jpeg"
+    },
+    {
+      "page": 1,
+      "object_id": "1033",
+      "object_name": "!!row-4-photo-1",
+      "scope": "native_object",
+      "media_part": "ppt/media/image4.jpeg"
+    },
+    {
+      "page": 1,
+      "object_id": "1034",
+      "object_name": "!!row-4-photo-2",
+      "scope": "native_object",
+      "media_part": "ppt/media/image5.jpeg"
+    },
+    {
+      "page": 1,
+      "object_id": "1035",
+      "object_name": "!!row-4-photo-3",
+      "scope": "native_object",
+      "media_part": "ppt/media/image.jpeg"
+    },
+    {
+      "page": 1,
+      "object_id": "1036",
+      "object_name": "!!row-4-photo-4",
+      "scope": "native_object",
+      "media_part": "ppt/media/image2.jpeg"
+    },
+    {
+      "page": 1,
+      "object_id": "1037",
+      "object_name": "!!row-4-photo-5",
+      "scope": "native_object",
+      "media_part": "ppt/media/image3.jpeg"
+    },
+    {
+      "page": 1,
+      "object_id": "1038",
+      "object_name": "!!row-4-photo-6",
+      "scope": "native_object",
+      "media_part": "ppt/media/image4.jpeg"
+    },
+    {
+      "page": 1,
+      "object_id": "1039",
+      "object_name": "!!row-4-photo-7",
+      "scope": "native_object",
+      "media_part": "ppt/media/image5.jpeg"
+    }
+  ],
+  "repeat_bindings": [],
+  "state_contracts": [
+    {
+      "page": 1,
+      "state_index": 1,
+      "name": "五行交错照片墙与固定KPI读区：状态1",
+      "requires_previous_state": false,
+      "state_sequence_locked": false
+    }
+  ],
+  "native_timing_fingerprints": [
+    {
+      "part": "ppt/slides/slide1.xml",
+      "sha256": "8f8d8587d7b261cbe36386808139a4b39071c93e722805990e40349ff6223686"
+    }
+  ],
+  "binding_rule": "Keep object identity, run count and complete ordered state chain; table_cell uses zero-based [row,column]. Result labels and native spin angles must be changed together through a geometry-aware recipe, not by text-only replacement."
+}

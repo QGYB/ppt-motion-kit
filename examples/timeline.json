@@ -1,0 +1,6 @@
+{
+  "font_fallback": "Noto Sans SC",
+  "components": [
+    {"module_id": "vid-0299-rhythmic-timeline"}
+  ]
+}

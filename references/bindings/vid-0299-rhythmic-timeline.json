@@ -1,0 +1,1758 @@
+{
+  "module_id": "vid-0299-rhythmic-timeline",
+  "slide_size_emu": [
+    12192000,
+    6858000
+  ],
+  "text_slots": [
+    {
+      "page": 1,
+      "object_id": "1001",
+      "object_name": "!!title",
+      "expected_text": "六个阶段的发展历程",
+      "runs": [
+        "六个阶段的发展历程"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 666750,
+        "y": 361950,
+        "cx": 10858500,
+        "cy": 704850
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1009",
+      "object_name": "!!event-0-year",
+      "expected_text": "阶段一",
+      "runs": [
+        "阶段一"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 533400,
+        "y": 2000250,
+        "cx": 1476375,
+        "cy": 457200
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1010",
+      "object_name": "!!event-0-title",
+      "expected_text": "阶段关键成果",
+      "runs": [
+        "阶段关键成果"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 533400,
+        "y": 2533650,
+        "cx": 1476375,
+        "cy": 457200
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1011",
+      "object_name": "!!event-0-body",
+      "expected_text": "填写本阶段的行动与成果并保留依据",
+      "runs": [
+        "填写本阶段",
+        "的行动与成果",
+        "并保留依据"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 533400,
+        "y": 3143250,
+        "cx": 1476375,
+        "cy": 1304925
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1001",
+      "object_name": "!!title",
+      "expected_text": "六个阶段的发展历程",
+      "runs": [
+        "六个阶段的发展历程"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 666750,
+        "y": 361950,
+        "cx": 10858500,
+        "cy": 704850
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1009",
+      "object_name": "!!event-0-year",
+      "expected_text": "阶段一",
+      "runs": [
+        "阶段一"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 533400,
+        "y": 3048000,
+        "cx": 1476375,
+        "cy": 457200
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1010",
+      "object_name": "!!event-0-title",
+      "expected_text": "阶段关键成果",
+      "runs": [
+        "阶段关键成果"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 533400,
+        "y": 3581400,
+        "cx": 1476375,
+        "cy": 457200
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1011",
+      "object_name": "!!event-0-body",
+      "expected_text": "填写本阶段的行动与成果并保留依据",
+      "runs": [
+        "填写本阶段",
+        "的行动与成果",
+        "并保留依据"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 533400,
+        "y": 4191000,
+        "cx": 1476375,
+        "cy": 1304925
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1015",
+      "object_name": "!!event-1-year",
+      "expected_text": "阶段二",
+      "runs": [
+        "阶段二"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 2505075,
+        "y": 2000250,
+        "cx": 1476375,
+        "cy": 457200
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1016",
+      "object_name": "!!event-1-title",
+      "expected_text": "阶段关键成果",
+      "runs": [
+        "阶段关键成果"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 2505075,
+        "y": 2533650,
+        "cx": 1476375,
+        "cy": 457200
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1017",
+      "object_name": "!!event-1-body",
+      "expected_text": "填写本阶段的行动与成果并保留依据",
+      "runs": [
+        "填写本阶段",
+        "的行动与成果",
+        "并保留依据"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 2505075,
+        "y": 3143250,
+        "cx": 1476375,
+        "cy": 1304925
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1001",
+      "object_name": "!!title",
+      "expected_text": "六个阶段的发展历程",
+      "runs": [
+        "六个阶段的发展历程"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 666750,
+        "y": 361950,
+        "cx": 10858500,
+        "cy": 704850
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1009",
+      "object_name": "!!event-0-year",
+      "expected_text": "阶段一",
+      "runs": [
+        "阶段一"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 533400,
+        "y": 3048000,
+        "cx": 1476375,
+        "cy": 457200
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1010",
+      "object_name": "!!event-0-title",
+      "expected_text": "阶段关键成果",
+      "runs": [
+        "阶段关键成果"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 533400,
+        "y": 3581400,
+        "cx": 1476375,
+        "cy": 457200
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1011",
+      "object_name": "!!event-0-body",
+      "expected_text": "填写本阶段的行动与成果并保留依据",
+      "runs": [
+        "填写本阶段",
+        "的行动与成果",
+        "并保留依据"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 533400,
+        "y": 4191000,
+        "cx": 1476375,
+        "cy": 1304925
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1015",
+      "object_name": "!!event-1-year",
+      "expected_text": "阶段二",
+      "runs": [
+        "阶段二"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 2505075,
+        "y": 3048000,
+        "cx": 1476375,
+        "cy": 457200
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1016",
+      "object_name": "!!event-1-title",
+      "expected_text": "阶段关键成果",
+      "runs": [
+        "阶段关键成果"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 2505075,
+        "y": 3581400,
+        "cx": 1476375,
+        "cy": 457200
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1017",
+      "object_name": "!!event-1-body",
+      "expected_text": "填写本阶段的行动与成果并保留依据",
+      "runs": [
+        "填写本阶段",
+        "的行动与成果",
+        "并保留依据"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 2505075,
+        "y": 4191000,
+        "cx": 1476375,
+        "cy": 1304925
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1021",
+      "object_name": "!!event-2-year",
+      "expected_text": "阶段三",
+      "runs": [
+        "阶段三"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4476750,
+        "y": 2000250,
+        "cx": 1476375,
+        "cy": 457200
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1022",
+      "object_name": "!!event-2-title",
+      "expected_text": "阶段关键成果",
+      "runs": [
+        "阶段关键成果"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4476750,
+        "y": 2533650,
+        "cx": 1476375,
+        "cy": 457200
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1023",
+      "object_name": "!!event-2-body",
+      "expected_text": "填写本阶段的行动与成果并保留依据",
+      "runs": [
+        "填写本阶段",
+        "的行动与成果",
+        "并保留依据"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4476750,
+        "y": 3143250,
+        "cx": 1476375,
+        "cy": 1304925
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1001",
+      "object_name": "!!title",
+      "expected_text": "六个阶段的发展历程",
+      "runs": [
+        "六个阶段的发展历程"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 666750,
+        "y": 361950,
+        "cx": 10858500,
+        "cy": 704850
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1009",
+      "object_name": "!!event-0-year",
+      "expected_text": "阶段一",
+      "runs": [
+        "阶段一"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 533400,
+        "y": 3048000,
+        "cx": 1476375,
+        "cy": 457200
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1010",
+      "object_name": "!!event-0-title",
+      "expected_text": "阶段关键成果",
+      "runs": [
+        "阶段关键成果"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 533400,
+        "y": 3581400,
+        "cx": 1476375,
+        "cy": 457200
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1011",
+      "object_name": "!!event-0-body",
+      "expected_text": "填写本阶段的行动与成果并保留依据",
+      "runs": [
+        "填写本阶段",
+        "的行动与成果",
+        "并保留依据"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 533400,
+        "y": 4191000,
+        "cx": 1476375,
+        "cy": 1304925
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1015",
+      "object_name": "!!event-1-year",
+      "expected_text": "阶段二",
+      "runs": [
+        "阶段二"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 2505075,
+        "y": 3048000,
+        "cx": 1476375,
+        "cy": 457200
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1016",
+      "object_name": "!!event-1-title",
+      "expected_text": "阶段关键成果",
+      "runs": [
+        "阶段关键成果"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 2505075,
+        "y": 3581400,
+        "cx": 1476375,
+        "cy": 457200
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1017",
+      "object_name": "!!event-1-body",
+      "expected_text": "填写本阶段的行动与成果并保留依据",
+      "runs": [
+        "填写本阶段",
+        "的行动与成果",
+        "并保留依据"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 2505075,
+        "y": 4191000,
+        "cx": 1476375,
+        "cy": 1304925
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1021",
+      "object_name": "!!event-2-year",
+      "expected_text": "阶段三",
+      "runs": [
+        "阶段三"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4476750,
+        "y": 3048000,
+        "cx": 1476375,
+        "cy": 457200
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1022",
+      "object_name": "!!event-2-title",
+      "expected_text": "阶段关键成果",
+      "runs": [
+        "阶段关键成果"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4476750,
+        "y": 3581400,
+        "cx": 1476375,
+        "cy": 457200
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1023",
+      "object_name": "!!event-2-body",
+      "expected_text": "填写本阶段的行动与成果并保留依据",
+      "runs": [
+        "填写本阶段",
+        "的行动与成果",
+        "并保留依据"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4476750,
+        "y": 4191000,
+        "cx": 1476375,
+        "cy": 1304925
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1027",
+      "object_name": "!!event-3-year",
+      "expected_text": "阶段四",
+      "runs": [
+        "阶段四"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 6448425,
+        "y": 2000250,
+        "cx": 1476375,
+        "cy": 457200
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1028",
+      "object_name": "!!event-3-title",
+      "expected_text": "阶段关键成果",
+      "runs": [
+        "阶段关键成果"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 6448425,
+        "y": 2533650,
+        "cx": 1476375,
+        "cy": 457200
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1029",
+      "object_name": "!!event-3-body",
+      "expected_text": "填写本阶段的行动与成果并保留依据",
+      "runs": [
+        "填写本阶段",
+        "的行动与成果",
+        "并保留依据"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 6448425,
+        "y": 3143250,
+        "cx": 1476375,
+        "cy": 1304925
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1001",
+      "object_name": "!!title",
+      "expected_text": "六个阶段的发展历程",
+      "runs": [
+        "六个阶段的发展历程"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 666750,
+        "y": 361950,
+        "cx": 10858500,
+        "cy": 704850
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1009",
+      "object_name": "!!event-0-year",
+      "expected_text": "阶段一",
+      "runs": [
+        "阶段一"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 533400,
+        "y": 3048000,
+        "cx": 1476375,
+        "cy": 457200
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1010",
+      "object_name": "!!event-0-title",
+      "expected_text": "阶段关键成果",
+      "runs": [
+        "阶段关键成果"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 533400,
+        "y": 3581400,
+        "cx": 1476375,
+        "cy": 457200
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1011",
+      "object_name": "!!event-0-body",
+      "expected_text": "填写本阶段的行动与成果并保留依据",
+      "runs": [
+        "填写本阶段",
+        "的行动与成果",
+        "并保留依据"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 533400,
+        "y": 4191000,
+        "cx": 1476375,
+        "cy": 1304925
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1015",
+      "object_name": "!!event-1-year",
+      "expected_text": "阶段二",
+      "runs": [
+        "阶段二"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 2505075,
+        "y": 3048000,
+        "cx": 1476375,
+        "cy": 457200
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1016",
+      "object_name": "!!event-1-title",
+      "expected_text": "阶段关键成果",
+      "runs": [
+        "阶段关键成果"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 2505075,
+        "y": 3581400,
+        "cx": 1476375,
+        "cy": 457200
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1017",
+      "object_name": "!!event-1-body",
+      "expected_text": "填写本阶段的行动与成果并保留依据",
+      "runs": [
+        "填写本阶段",
+        "的行动与成果",
+        "并保留依据"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 2505075,
+        "y": 4191000,
+        "cx": 1476375,
+        "cy": 1304925
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1021",
+      "object_name": "!!event-2-year",
+      "expected_text": "阶段三",
+      "runs": [
+        "阶段三"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4476750,
+        "y": 3048000,
+        "cx": 1476375,
+        "cy": 457200
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1022",
+      "object_name": "!!event-2-title",
+      "expected_text": "阶段关键成果",
+      "runs": [
+        "阶段关键成果"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4476750,
+        "y": 3581400,
+        "cx": 1476375,
+        "cy": 457200
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1023",
+      "object_name": "!!event-2-body",
+      "expected_text": "填写本阶段的行动与成果并保留依据",
+      "runs": [
+        "填写本阶段",
+        "的行动与成果",
+        "并保留依据"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4476750,
+        "y": 4191000,
+        "cx": 1476375,
+        "cy": 1304925
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1027",
+      "object_name": "!!event-3-year",
+      "expected_text": "阶段四",
+      "runs": [
+        "阶段四"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 6448425,
+        "y": 3048000,
+        "cx": 1476375,
+        "cy": 457200
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1028",
+      "object_name": "!!event-3-title",
+      "expected_text": "阶段关键成果",
+      "runs": [
+        "阶段关键成果"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 6448425,
+        "y": 3581400,
+        "cx": 1476375,
+        "cy": 457200
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1029",
+      "object_name": "!!event-3-body",
+      "expected_text": "填写本阶段的行动与成果并保留依据",
+      "runs": [
+        "填写本阶段",
+        "的行动与成果",
+        "并保留依据"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 6448425,
+        "y": 4191000,
+        "cx": 1476375,
+        "cy": 1304925
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1033",
+      "object_name": "!!event-4-year",
+      "expected_text": "阶段五",
+      "runs": [
+        "阶段五"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 8420100,
+        "y": 2000250,
+        "cx": 1476375,
+        "cy": 457200
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1034",
+      "object_name": "!!event-4-title",
+      "expected_text": "阶段关键成果",
+      "runs": [
+        "阶段关键成果"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 8420100,
+        "y": 2533650,
+        "cx": 1476375,
+        "cy": 457200
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1035",
+      "object_name": "!!event-4-body",
+      "expected_text": "填写本阶段的行动与成果并保留依据",
+      "runs": [
+        "填写本阶段",
+        "的行动与成果",
+        "并保留依据"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 8420100,
+        "y": 3143250,
+        "cx": 1476375,
+        "cy": 1304925
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1001",
+      "object_name": "!!title",
+      "expected_text": "六个阶段的发展历程",
+      "runs": [
+        "六个阶段的发展历程"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 666750,
+        "y": 361950,
+        "cx": 10858500,
+        "cy": 704850
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1009",
+      "object_name": "!!event-0-year",
+      "expected_text": "阶段一",
+      "runs": [
+        "阶段一"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 533400,
+        "y": 3048000,
+        "cx": 1476375,
+        "cy": 457200
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1010",
+      "object_name": "!!event-0-title",
+      "expected_text": "阶段关键成果",
+      "runs": [
+        "阶段关键成果"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 533400,
+        "y": 3581400,
+        "cx": 1476375,
+        "cy": 457200
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1011",
+      "object_name": "!!event-0-body",
+      "expected_text": "填写本阶段的行动与成果并保留依据",
+      "runs": [
+        "填写本阶段",
+        "的行动与成果",
+        "并保留依据"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 533400,
+        "y": 4191000,
+        "cx": 1476375,
+        "cy": 1304925
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1015",
+      "object_name": "!!event-1-year",
+      "expected_text": "阶段二",
+      "runs": [
+        "阶段二"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 2505075,
+        "y": 3048000,
+        "cx": 1476375,
+        "cy": 457200
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1016",
+      "object_name": "!!event-1-title",
+      "expected_text": "阶段关键成果",
+      "runs": [
+        "阶段关键成果"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 2505075,
+        "y": 3581400,
+        "cx": 1476375,
+        "cy": 457200
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1017",
+      "object_name": "!!event-1-body",
+      "expected_text": "填写本阶段的行动与成果并保留依据",
+      "runs": [
+        "填写本阶段",
+        "的行动与成果",
+        "并保留依据"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 2505075,
+        "y": 4191000,
+        "cx": 1476375,
+        "cy": 1304925
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1021",
+      "object_name": "!!event-2-year",
+      "expected_text": "阶段三",
+      "runs": [
+        "阶段三"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4476750,
+        "y": 3048000,
+        "cx": 1476375,
+        "cy": 457200
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1022",
+      "object_name": "!!event-2-title",
+      "expected_text": "阶段关键成果",
+      "runs": [
+        "阶段关键成果"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4476750,
+        "y": 3581400,
+        "cx": 1476375,
+        "cy": 457200
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1023",
+      "object_name": "!!event-2-body",
+      "expected_text": "填写本阶段的行动与成果并保留依据",
+      "runs": [
+        "填写本阶段",
+        "的行动与成果",
+        "并保留依据"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4476750,
+        "y": 4191000,
+        "cx": 1476375,
+        "cy": 1304925
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1027",
+      "object_name": "!!event-3-year",
+      "expected_text": "阶段四",
+      "runs": [
+        "阶段四"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 6448425,
+        "y": 3048000,
+        "cx": 1476375,
+        "cy": 457200
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1028",
+      "object_name": "!!event-3-title",
+      "expected_text": "阶段关键成果",
+      "runs": [
+        "阶段关键成果"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 6448425,
+        "y": 3581400,
+        "cx": 1476375,
+        "cy": 457200
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1029",
+      "object_name": "!!event-3-body",
+      "expected_text": "填写本阶段的行动与成果并保留依据",
+      "runs": [
+        "填写本阶段",
+        "的行动与成果",
+        "并保留依据"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 6448425,
+        "y": 4191000,
+        "cx": 1476375,
+        "cy": 1304925
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1033",
+      "object_name": "!!event-4-year",
+      "expected_text": "阶段五",
+      "runs": [
+        "阶段五"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 8420100,
+        "y": 3048000,
+        "cx": 1476375,
+        "cy": 457200
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1034",
+      "object_name": "!!event-4-title",
+      "expected_text": "阶段关键成果",
+      "runs": [
+        "阶段关键成果"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 8420100,
+        "y": 3581400,
+        "cx": 1476375,
+        "cy": 457200
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1035",
+      "object_name": "!!event-4-body",
+      "expected_text": "填写本阶段的行动与成果并保留依据",
+      "runs": [
+        "填写本阶段",
+        "的行动与成果",
+        "并保留依据"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 8420100,
+        "y": 4191000,
+        "cx": 1476375,
+        "cy": 1304925
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1039",
+      "object_name": "!!event-5-year",
+      "expected_text": "阶段六",
+      "runs": [
+        "阶段六"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 10391775,
+        "y": 2000250,
+        "cx": 1476375,
+        "cy": 457200
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1040",
+      "object_name": "!!event-5-title",
+      "expected_text": "阶段关键成果",
+      "runs": [
+        "阶段关键成果"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 10391775,
+        "y": 2533650,
+        "cx": 1476375,
+        "cy": 457200
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1041",
+      "object_name": "!!event-5-body",
+      "expected_text": "填写本阶段的行动与成果并保留依据",
+      "runs": [
+        "填写本阶段",
+        "的行动与成果",
+        "并保留依据"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 10391775,
+        "y": 3143250,
+        "cx": 1476375,
+        "cy": 1304925
+      },
+      "fully_off_canvas": false
+    }
+  ],
+  "table_cell_slots": [],
+  "media_parts": [],
+  "image_usage": [],
+  "repeat_bindings": [
+    {
+      "entity_name": "!!title",
+      "table_cell": null,
+      "expected_text": "六个阶段的发展历程",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1001",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1001",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1001",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1001",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 5,
+          "object_id": "1001",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 6,
+          "object_id": "1001",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!event-0-year",
+      "table_cell": null,
+      "expected_text": "阶段一",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1009",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1009",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1009",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1009",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 5,
+          "object_id": "1009",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 6,
+          "object_id": "1009",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!event-0-title",
+      "table_cell": null,
+      "expected_text": "阶段关键成果",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1010",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1010",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1010",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1010",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 5,
+          "object_id": "1010",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 6,
+          "object_id": "1010",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!event-0-body",
+      "table_cell": null,
+      "expected_text": "填写本阶段的行动与成果并保留依据",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1011",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1011",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1011",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1011",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 5,
+          "object_id": "1011",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 6,
+          "object_id": "1011",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!event-1-year",
+      "table_cell": null,
+      "expected_text": "阶段二",
+      "slots": [
+        {
+          "page": 2,
+          "object_id": "1015",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1015",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1015",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 5,
+          "object_id": "1015",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 6,
+          "object_id": "1015",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!event-1-title",
+      "table_cell": null,
+      "expected_text": "阶段关键成果",
+      "slots": [
+        {
+          "page": 2,
+          "object_id": "1016",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1016",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1016",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 5,
+          "object_id": "1016",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 6,
+          "object_id": "1016",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!event-1-body",
+      "table_cell": null,
+      "expected_text": "填写本阶段的行动与成果并保留依据",
+      "slots": [
+        {
+          "page": 2,
+          "object_id": "1017",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1017",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1017",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 5,
+          "object_id": "1017",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 6,
+          "object_id": "1017",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!event-2-year",
+      "table_cell": null,
+      "expected_text": "阶段三",
+      "slots": [
+        {
+          "page": 3,
+          "object_id": "1021",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1021",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 5,
+          "object_id": "1021",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 6,
+          "object_id": "1021",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!event-2-title",
+      "table_cell": null,
+      "expected_text": "阶段关键成果",
+      "slots": [
+        {
+          "page": 3,
+          "object_id": "1022",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1022",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 5,
+          "object_id": "1022",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 6,
+          "object_id": "1022",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!event-2-body",
+      "table_cell": null,
+      "expected_text": "填写本阶段的行动与成果并保留依据",
+      "slots": [
+        {
+          "page": 3,
+          "object_id": "1023",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1023",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 5,
+          "object_id": "1023",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 6,
+          "object_id": "1023",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!event-3-year",
+      "table_cell": null,
+      "expected_text": "阶段四",
+      "slots": [
+        {
+          "page": 4,
+          "object_id": "1027",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 5,
+          "object_id": "1027",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 6,
+          "object_id": "1027",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!event-3-title",
+      "table_cell": null,
+      "expected_text": "阶段关键成果",
+      "slots": [
+        {
+          "page": 4,
+          "object_id": "1028",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 5,
+          "object_id": "1028",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 6,
+          "object_id": "1028",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!event-3-body",
+      "table_cell": null,
+      "expected_text": "填写本阶段的行动与成果并保留依据",
+      "slots": [
+        {
+          "page": 4,
+          "object_id": "1029",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 5,
+          "object_id": "1029",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 6,
+          "object_id": "1029",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!event-4-year",
+      "table_cell": null,
+      "expected_text": "阶段五",
+      "slots": [
+        {
+          "page": 5,
+          "object_id": "1033",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 6,
+          "object_id": "1033",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!event-4-title",
+      "table_cell": null,
+      "expected_text": "阶段关键成果",
+      "slots": [
+        {
+          "page": 5,
+          "object_id": "1034",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 6,
+          "object_id": "1034",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!event-4-body",
+      "table_cell": null,
+      "expected_text": "填写本阶段的行动与成果并保留依据",
+      "slots": [
+        {
+          "page": 5,
+          "object_id": "1035",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 6,
+          "object_id": "1035",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    }
+  ],
+  "state_contracts": [
+    {
+      "page": 1,
+      "state_index": 1,
+      "name": "六栏累计律动时间轴：状态1",
+      "requires_previous_state": false,
+      "state_sequence_locked": true
+    },
+    {
+      "page": 2,
+      "state_index": 2,
+      "name": "六栏累计律动时间轴：状态2",
+      "requires_previous_state": true,
+      "state_sequence_locked": true
+    },
+    {
+      "page": 3,
+      "state_index": 3,
+      "name": "六栏累计律动时间轴：状态3",
+      "requires_previous_state": true,
+      "state_sequence_locked": true
+    },
+    {
+      "page": 4,
+      "state_index": 4,
+      "name": "六栏累计律动时间轴：状态4",
+      "requires_previous_state": true,
+      "state_sequence_locked": true
+    },
+    {
+      "page": 5,
+      "state_index": 5,
+      "name": "六栏累计律动时间轴：状态5",
+      "requires_previous_state": true,
+      "state_sequence_locked": true
+    },
+    {
+      "page": 6,
+      "state_index": 6,
+      "name": "六栏累计律动时间轴：状态6",
+      "requires_previous_state": true,
+      "state_sequence_locked": true
+    }
+  ],
+  "native_timing_fingerprints": [
+    {
+      "part": "ppt/slides/slide1.xml",
+      "sha256": "dc4eb029da2e2507dbf8b3ee076aa77b6a12270ad33c7440979a5c9f8bb8062f"
+    },
+    {
+      "part": "ppt/slides/slide2.xml",
+      "sha256": "98aa3c6bd2cb2cc914578f25ebe901bde681fc3fdc514bac2b98d049321f72c0"
+    },
+    {
+      "part": "ppt/slides/slide3.xml",
+      "sha256": "495dab9e49f9a07f5d3a386c3fbb14b2b9441d8d0c7a73c75258ba85c1c348c6"
+    },
+    {
+      "part": "ppt/slides/slide4.xml",
+      "sha256": "abfb50f3851fb5b97ff7511cc43a93bfff245a687dc8310af4107da36aa764ad"
+    },
+    {
+      "part": "ppt/slides/slide5.xml",
+      "sha256": "046fd50d6355c70754233e8c8e008fde17e2ddca7f1792ea0cd0a393a8e9e64a"
+    },
+    {
+      "part": "ppt/slides/slide6.xml",
+      "sha256": "a13645aca0599351619ba407defb0e8bcaf0f111a42bdd837b696f94f9cb7078"
+    }
+  ],
+  "binding_rule": "Keep object identity, run count and complete ordered state chain; table_cell uses zero-based [row,column]. Result labels and native spin angles must be changed together through a geometry-aware recipe, not by text-only replacement."
+}

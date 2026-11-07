@@ -1,0 +1,3680 @@
+{
+  "module_id": "vid-0182-colored-card-pull",
+  "slide_size_emu": [
+    12192000,
+    6858000
+  ],
+  "text_slots": [
+    {
+      "page": 1,
+      "object_id": "1001",
+      "object_name": "!!number-0",
+      "expected_text": "01",
+      "runs": [
+        "01"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 9372600,
+        "y": 238125,
+        "cx": 533400,
+        "cy": 523875
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1015",
+      "object_name": "!!label-0-char-0",
+      "expected_text": "战",
+      "runs": [
+        "战"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 9486900,
+        "y": 2266950,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1016",
+      "object_name": "!!label-0-char-1",
+      "expected_text": "略",
+      "runs": [
+        "略"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 9486900,
+        "y": 2686050,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1017",
+      "object_name": "!!label-0-char-2",
+      "expected_text": "规",
+      "runs": [
+        "规"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 9486900,
+        "y": 3105150,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1018",
+      "object_name": "!!label-0-char-3",
+      "expected_text": "划",
+      "runs": [
+        "划"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 9486900,
+        "y": 3524250,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1004",
+      "object_name": "!!number-1",
+      "expected_text": "02",
+      "runs": [
+        "02"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 8705850,
+        "y": 238125,
+        "cx": 533400,
+        "cy": 523875
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1019",
+      "object_name": "!!label-1-char-0",
+      "expected_text": "招",
+      "runs": [
+        "招"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 8820150,
+        "y": 2266950,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1020",
+      "object_name": "!!label-1-char-1",
+      "expected_text": "聘",
+      "runs": [
+        "聘"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 8820150,
+        "y": 2686050,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1021",
+      "object_name": "!!label-1-char-2",
+      "expected_text": "入",
+      "runs": [
+        "入"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 8820150,
+        "y": 3105150,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1022",
+      "object_name": "!!label-1-char-3",
+      "expected_text": "职",
+      "runs": [
+        "职"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 8820150,
+        "y": 3524250,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1007",
+      "object_name": "!!number-2",
+      "expected_text": "03",
+      "runs": [
+        "03"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 8039100,
+        "y": 238125,
+        "cx": 533400,
+        "cy": 523875
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1023",
+      "object_name": "!!label-2-char-0",
+      "expected_text": "绩",
+      "runs": [
+        "绩"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 8153400,
+        "y": 2266950,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1024",
+      "object_name": "!!label-2-char-1",
+      "expected_text": "效",
+      "runs": [
+        "效"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 8153400,
+        "y": 2686050,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1025",
+      "object_name": "!!label-2-char-2",
+      "expected_text": "激",
+      "runs": [
+        "激"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 8153400,
+        "y": 3105150,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1026",
+      "object_name": "!!label-2-char-3",
+      "expected_text": "励",
+      "runs": [
+        "励"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 8153400,
+        "y": 3524250,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1010",
+      "object_name": "!!number-3",
+      "expected_text": "04",
+      "runs": [
+        "04"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 7372350,
+        "y": 238125,
+        "cx": 533400,
+        "cy": 523875
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1027",
+      "object_name": "!!label-3-char-0",
+      "expected_text": "员",
+      "runs": [
+        "员"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 7486650,
+        "y": 2266950,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1028",
+      "object_name": "!!label-3-char-1",
+      "expected_text": "工",
+      "runs": [
+        "工"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 7486650,
+        "y": 2686050,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1029",
+      "object_name": "!!label-3-char-2",
+      "expected_text": "培",
+      "runs": [
+        "培"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 7486650,
+        "y": 3105150,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1030",
+      "object_name": "!!label-3-char-3",
+      "expected_text": "训",
+      "runs": [
+        "训"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 7486650,
+        "y": 3524250,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1013",
+      "object_name": "!!number-4",
+      "expected_text": "05",
+      "runs": [
+        "05"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 6705600,
+        "y": 238125,
+        "cx": 533400,
+        "cy": 523875
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1031",
+      "object_name": "!!label-4-char-0",
+      "expected_text": "企",
+      "runs": [
+        "企"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 6819900,
+        "y": 2266950,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1032",
+      "object_name": "!!label-4-char-1",
+      "expected_text": "业",
+      "runs": [
+        "业"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 6819900,
+        "y": 2686050,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1033",
+      "object_name": "!!label-4-char-2",
+      "expected_text": "文",
+      "runs": [
+        "文"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 6819900,
+        "y": 3105150,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1034",
+      "object_name": "!!label-4-char-3",
+      "expected_text": "化",
+      "runs": [
+        "化"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 6819900,
+        "y": 3524250,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1001",
+      "object_name": "!!number-0",
+      "expected_text": "01",
+      "runs": [
+        "01"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 11563350,
+        "y": 238125,
+        "cx": 533400,
+        "cy": 523875
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1015",
+      "object_name": "!!label-0-char-0",
+      "expected_text": "战",
+      "runs": [
+        "战"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 9563100,
+        "y": 1990725,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1016",
+      "object_name": "!!label-0-char-1",
+      "expected_text": "略",
+      "runs": [
+        "略"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 9886950,
+        "y": 1990725,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1017",
+      "object_name": "!!label-0-char-2",
+      "expected_text": "规",
+      "runs": [
+        "规"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 10210800,
+        "y": 1990725,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1018",
+      "object_name": "!!label-0-char-3",
+      "expected_text": "划",
+      "runs": [
+        "划"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 10534650,
+        "y": 1990725,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1035",
+      "object_name": "!!body-0-text",
+      "expected_text": "提炼本项的结论保留事实与依据说明后续的行动",
+      "runs": [
+        "提炼本项的结论",
+        "保留事实与依据",
+        "说明后续的行动"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 9563100,
+        "y": 3133725,
+        "cx": 2400300,
+        "cy": 2276475
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1004",
+      "object_name": "!!number-1",
+      "expected_text": "02",
+      "runs": [
+        "02"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 8705850,
+        "y": 238125,
+        "cx": 533400,
+        "cy": 523875
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1019",
+      "object_name": "!!label-1-char-0",
+      "expected_text": "招",
+      "runs": [
+        "招"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 8820150,
+        "y": 2266950,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1020",
+      "object_name": "!!label-1-char-1",
+      "expected_text": "聘",
+      "runs": [
+        "聘"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 8820150,
+        "y": 2686050,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1021",
+      "object_name": "!!label-1-char-2",
+      "expected_text": "入",
+      "runs": [
+        "入"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 8820150,
+        "y": 3105150,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1022",
+      "object_name": "!!label-1-char-3",
+      "expected_text": "职",
+      "runs": [
+        "职"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 8820150,
+        "y": 3524250,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1007",
+      "object_name": "!!number-2",
+      "expected_text": "03",
+      "runs": [
+        "03"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 8039100,
+        "y": 238125,
+        "cx": 533400,
+        "cy": 523875
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1023",
+      "object_name": "!!label-2-char-0",
+      "expected_text": "绩",
+      "runs": [
+        "绩"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 8153400,
+        "y": 2266950,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1024",
+      "object_name": "!!label-2-char-1",
+      "expected_text": "效",
+      "runs": [
+        "效"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 8153400,
+        "y": 2686050,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1025",
+      "object_name": "!!label-2-char-2",
+      "expected_text": "激",
+      "runs": [
+        "激"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 8153400,
+        "y": 3105150,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1026",
+      "object_name": "!!label-2-char-3",
+      "expected_text": "励",
+      "runs": [
+        "励"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 8153400,
+        "y": 3524250,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1010",
+      "object_name": "!!number-3",
+      "expected_text": "04",
+      "runs": [
+        "04"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 7372350,
+        "y": 238125,
+        "cx": 533400,
+        "cy": 523875
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1027",
+      "object_name": "!!label-3-char-0",
+      "expected_text": "员",
+      "runs": [
+        "员"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 7486650,
+        "y": 2266950,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1028",
+      "object_name": "!!label-3-char-1",
+      "expected_text": "工",
+      "runs": [
+        "工"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 7486650,
+        "y": 2686050,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1029",
+      "object_name": "!!label-3-char-2",
+      "expected_text": "培",
+      "runs": [
+        "培"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 7486650,
+        "y": 3105150,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1030",
+      "object_name": "!!label-3-char-3",
+      "expected_text": "训",
+      "runs": [
+        "训"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 7486650,
+        "y": 3524250,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1013",
+      "object_name": "!!number-4",
+      "expected_text": "05",
+      "runs": [
+        "05"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 6705600,
+        "y": 238125,
+        "cx": 533400,
+        "cy": 523875
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1031",
+      "object_name": "!!label-4-char-0",
+      "expected_text": "企",
+      "runs": [
+        "企"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 6819900,
+        "y": 2266950,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1032",
+      "object_name": "!!label-4-char-1",
+      "expected_text": "业",
+      "runs": [
+        "业"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 6819900,
+        "y": 2686050,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1033",
+      "object_name": "!!label-4-char-2",
+      "expected_text": "文",
+      "runs": [
+        "文"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 6819900,
+        "y": 3105150,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1034",
+      "object_name": "!!label-4-char-3",
+      "expected_text": "化",
+      "runs": [
+        "化"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 6819900,
+        "y": 3524250,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1001",
+      "object_name": "!!number-0",
+      "expected_text": "01",
+      "runs": [
+        "01"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 11563350,
+        "y": 238125,
+        "cx": 533400,
+        "cy": 523875
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1015",
+      "object_name": "!!label-0-char-0",
+      "expected_text": "战",
+      "runs": [
+        "战"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 11677650,
+        "y": 2266950,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1016",
+      "object_name": "!!label-0-char-1",
+      "expected_text": "略",
+      "runs": [
+        "略"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 11677650,
+        "y": 2686050,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1017",
+      "object_name": "!!label-0-char-2",
+      "expected_text": "规",
+      "runs": [
+        "规"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 11677650,
+        "y": 3105150,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1018",
+      "object_name": "!!label-0-char-3",
+      "expected_text": "划",
+      "runs": [
+        "划"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 11677650,
+        "y": 3524250,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1004",
+      "object_name": "!!number-1",
+      "expected_text": "02",
+      "runs": [
+        "02"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 10896600,
+        "y": 238125,
+        "cx": 533400,
+        "cy": 523875
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1019",
+      "object_name": "!!label-1-char-0",
+      "expected_text": "招",
+      "runs": [
+        "招"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 8896350,
+        "y": 1990725,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1020",
+      "object_name": "!!label-1-char-1",
+      "expected_text": "聘",
+      "runs": [
+        "聘"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 9220200,
+        "y": 1990725,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1021",
+      "object_name": "!!label-1-char-2",
+      "expected_text": "入",
+      "runs": [
+        "入"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 9544050,
+        "y": 1990725,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1022",
+      "object_name": "!!label-1-char-3",
+      "expected_text": "职",
+      "runs": [
+        "职"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 9867900,
+        "y": 1990725,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1036",
+      "object_name": "!!body-1-text",
+      "expected_text": "提炼本项的结论保留事实与依据说明后续的行动",
+      "runs": [
+        "提炼本项的结论",
+        "保留事实与依据",
+        "说明后续的行动"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 8896350,
+        "y": 3133725,
+        "cx": 2400300,
+        "cy": 2276475
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1007",
+      "object_name": "!!number-2",
+      "expected_text": "03",
+      "runs": [
+        "03"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 8039100,
+        "y": 238125,
+        "cx": 533400,
+        "cy": 523875
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1023",
+      "object_name": "!!label-2-char-0",
+      "expected_text": "绩",
+      "runs": [
+        "绩"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 8153400,
+        "y": 2266950,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1024",
+      "object_name": "!!label-2-char-1",
+      "expected_text": "效",
+      "runs": [
+        "效"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 8153400,
+        "y": 2686050,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1025",
+      "object_name": "!!label-2-char-2",
+      "expected_text": "激",
+      "runs": [
+        "激"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 8153400,
+        "y": 3105150,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1026",
+      "object_name": "!!label-2-char-3",
+      "expected_text": "励",
+      "runs": [
+        "励"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 8153400,
+        "y": 3524250,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1010",
+      "object_name": "!!number-3",
+      "expected_text": "04",
+      "runs": [
+        "04"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 7372350,
+        "y": 238125,
+        "cx": 533400,
+        "cy": 523875
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1027",
+      "object_name": "!!label-3-char-0",
+      "expected_text": "员",
+      "runs": [
+        "员"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 7486650,
+        "y": 2266950,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1028",
+      "object_name": "!!label-3-char-1",
+      "expected_text": "工",
+      "runs": [
+        "工"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 7486650,
+        "y": 2686050,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1029",
+      "object_name": "!!label-3-char-2",
+      "expected_text": "培",
+      "runs": [
+        "培"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 7486650,
+        "y": 3105150,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1030",
+      "object_name": "!!label-3-char-3",
+      "expected_text": "训",
+      "runs": [
+        "训"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 7486650,
+        "y": 3524250,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1013",
+      "object_name": "!!number-4",
+      "expected_text": "05",
+      "runs": [
+        "05"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 6705600,
+        "y": 238125,
+        "cx": 533400,
+        "cy": 523875
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1031",
+      "object_name": "!!label-4-char-0",
+      "expected_text": "企",
+      "runs": [
+        "企"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 6819900,
+        "y": 2266950,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1032",
+      "object_name": "!!label-4-char-1",
+      "expected_text": "业",
+      "runs": [
+        "业"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 6819900,
+        "y": 2686050,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1033",
+      "object_name": "!!label-4-char-2",
+      "expected_text": "文",
+      "runs": [
+        "文"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 6819900,
+        "y": 3105150,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1034",
+      "object_name": "!!label-4-char-3",
+      "expected_text": "化",
+      "runs": [
+        "化"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 6819900,
+        "y": 3524250,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1001",
+      "object_name": "!!number-0",
+      "expected_text": "01",
+      "runs": [
+        "01"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 11563350,
+        "y": 238125,
+        "cx": 533400,
+        "cy": 523875
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1015",
+      "object_name": "!!label-0-char-0",
+      "expected_text": "战",
+      "runs": [
+        "战"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 11677650,
+        "y": 2266950,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1016",
+      "object_name": "!!label-0-char-1",
+      "expected_text": "略",
+      "runs": [
+        "略"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 11677650,
+        "y": 2686050,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1017",
+      "object_name": "!!label-0-char-2",
+      "expected_text": "规",
+      "runs": [
+        "规"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 11677650,
+        "y": 3105150,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1018",
+      "object_name": "!!label-0-char-3",
+      "expected_text": "划",
+      "runs": [
+        "划"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 11677650,
+        "y": 3524250,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1004",
+      "object_name": "!!number-1",
+      "expected_text": "02",
+      "runs": [
+        "02"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 10896600,
+        "y": 238125,
+        "cx": 533400,
+        "cy": 523875
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1019",
+      "object_name": "!!label-1-char-0",
+      "expected_text": "招",
+      "runs": [
+        "招"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 11010900,
+        "y": 2266950,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1020",
+      "object_name": "!!label-1-char-1",
+      "expected_text": "聘",
+      "runs": [
+        "聘"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 11010900,
+        "y": 2686050,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1021",
+      "object_name": "!!label-1-char-2",
+      "expected_text": "入",
+      "runs": [
+        "入"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 11010900,
+        "y": 3105150,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1022",
+      "object_name": "!!label-1-char-3",
+      "expected_text": "职",
+      "runs": [
+        "职"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 11010900,
+        "y": 3524250,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1007",
+      "object_name": "!!number-2",
+      "expected_text": "03",
+      "runs": [
+        "03"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 10229850,
+        "y": 238125,
+        "cx": 533400,
+        "cy": 523875
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1023",
+      "object_name": "!!label-2-char-0",
+      "expected_text": "绩",
+      "runs": [
+        "绩"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 8229600,
+        "y": 1990725,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1024",
+      "object_name": "!!label-2-char-1",
+      "expected_text": "效",
+      "runs": [
+        "效"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 8553450,
+        "y": 1990725,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1025",
+      "object_name": "!!label-2-char-2",
+      "expected_text": "激",
+      "runs": [
+        "激"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 8877300,
+        "y": 1990725,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1026",
+      "object_name": "!!label-2-char-3",
+      "expected_text": "励",
+      "runs": [
+        "励"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 9201150,
+        "y": 1990725,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1037",
+      "object_name": "!!body-2-text",
+      "expected_text": "提炼本项的结论保留事实与依据说明后续的行动",
+      "runs": [
+        "提炼本项的结论",
+        "保留事实与依据",
+        "说明后续的行动"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 8229600,
+        "y": 3133725,
+        "cx": 2400300,
+        "cy": 2276475
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1010",
+      "object_name": "!!number-3",
+      "expected_text": "04",
+      "runs": [
+        "04"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 7372350,
+        "y": 238125,
+        "cx": 533400,
+        "cy": 523875
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1027",
+      "object_name": "!!label-3-char-0",
+      "expected_text": "员",
+      "runs": [
+        "员"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 7486650,
+        "y": 2266950,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1028",
+      "object_name": "!!label-3-char-1",
+      "expected_text": "工",
+      "runs": [
+        "工"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 7486650,
+        "y": 2686050,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1029",
+      "object_name": "!!label-3-char-2",
+      "expected_text": "培",
+      "runs": [
+        "培"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 7486650,
+        "y": 3105150,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1030",
+      "object_name": "!!label-3-char-3",
+      "expected_text": "训",
+      "runs": [
+        "训"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 7486650,
+        "y": 3524250,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1013",
+      "object_name": "!!number-4",
+      "expected_text": "05",
+      "runs": [
+        "05"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 6705600,
+        "y": 238125,
+        "cx": 533400,
+        "cy": 523875
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1031",
+      "object_name": "!!label-4-char-0",
+      "expected_text": "企",
+      "runs": [
+        "企"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 6819900,
+        "y": 2266950,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1032",
+      "object_name": "!!label-4-char-1",
+      "expected_text": "业",
+      "runs": [
+        "业"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 6819900,
+        "y": 2686050,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1033",
+      "object_name": "!!label-4-char-2",
+      "expected_text": "文",
+      "runs": [
+        "文"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 6819900,
+        "y": 3105150,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1034",
+      "object_name": "!!label-4-char-3",
+      "expected_text": "化",
+      "runs": [
+        "化"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 6819900,
+        "y": 3524250,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1001",
+      "object_name": "!!number-0",
+      "expected_text": "01",
+      "runs": [
+        "01"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 11563350,
+        "y": 238125,
+        "cx": 533400,
+        "cy": 523875
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1015",
+      "object_name": "!!label-0-char-0",
+      "expected_text": "战",
+      "runs": [
+        "战"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 11677650,
+        "y": 2266950,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1016",
+      "object_name": "!!label-0-char-1",
+      "expected_text": "略",
+      "runs": [
+        "略"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 11677650,
+        "y": 2686050,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1017",
+      "object_name": "!!label-0-char-2",
+      "expected_text": "规",
+      "runs": [
+        "规"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 11677650,
+        "y": 3105150,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1018",
+      "object_name": "!!label-0-char-3",
+      "expected_text": "划",
+      "runs": [
+        "划"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 11677650,
+        "y": 3524250,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1004",
+      "object_name": "!!number-1",
+      "expected_text": "02",
+      "runs": [
+        "02"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 10896600,
+        "y": 238125,
+        "cx": 533400,
+        "cy": 523875
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1019",
+      "object_name": "!!label-1-char-0",
+      "expected_text": "招",
+      "runs": [
+        "招"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 11010900,
+        "y": 2266950,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1020",
+      "object_name": "!!label-1-char-1",
+      "expected_text": "聘",
+      "runs": [
+        "聘"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 11010900,
+        "y": 2686050,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1021",
+      "object_name": "!!label-1-char-2",
+      "expected_text": "入",
+      "runs": [
+        "入"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 11010900,
+        "y": 3105150,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1022",
+      "object_name": "!!label-1-char-3",
+      "expected_text": "职",
+      "runs": [
+        "职"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 11010900,
+        "y": 3524250,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1007",
+      "object_name": "!!number-2",
+      "expected_text": "03",
+      "runs": [
+        "03"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 10229850,
+        "y": 238125,
+        "cx": 533400,
+        "cy": 523875
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1023",
+      "object_name": "!!label-2-char-0",
+      "expected_text": "绩",
+      "runs": [
+        "绩"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 10344150,
+        "y": 2266950,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1024",
+      "object_name": "!!label-2-char-1",
+      "expected_text": "效",
+      "runs": [
+        "效"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 10344150,
+        "y": 2686050,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1025",
+      "object_name": "!!label-2-char-2",
+      "expected_text": "激",
+      "runs": [
+        "激"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 10344150,
+        "y": 3105150,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1026",
+      "object_name": "!!label-2-char-3",
+      "expected_text": "励",
+      "runs": [
+        "励"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 10344150,
+        "y": 3524250,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1010",
+      "object_name": "!!number-3",
+      "expected_text": "04",
+      "runs": [
+        "04"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 9563100,
+        "y": 238125,
+        "cx": 533400,
+        "cy": 523875
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1027",
+      "object_name": "!!label-3-char-0",
+      "expected_text": "员",
+      "runs": [
+        "员"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 7562850,
+        "y": 1990725,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1028",
+      "object_name": "!!label-3-char-1",
+      "expected_text": "工",
+      "runs": [
+        "工"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 7886700,
+        "y": 1990725,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1029",
+      "object_name": "!!label-3-char-2",
+      "expected_text": "培",
+      "runs": [
+        "培"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 8210550,
+        "y": 1990725,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1030",
+      "object_name": "!!label-3-char-3",
+      "expected_text": "训",
+      "runs": [
+        "训"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 8534400,
+        "y": 1990725,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1038",
+      "object_name": "!!body-3-text",
+      "expected_text": "提炼本项的结论保留事实与依据说明后续的行动",
+      "runs": [
+        "提炼本项的结论",
+        "保留事实与依据",
+        "说明后续的行动"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 7562850,
+        "y": 3133725,
+        "cx": 2400300,
+        "cy": 2276475
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1013",
+      "object_name": "!!number-4",
+      "expected_text": "05",
+      "runs": [
+        "05"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 6705600,
+        "y": 238125,
+        "cx": 533400,
+        "cy": 523875
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1031",
+      "object_name": "!!label-4-char-0",
+      "expected_text": "企",
+      "runs": [
+        "企"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 6819900,
+        "y": 2266950,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1032",
+      "object_name": "!!label-4-char-1",
+      "expected_text": "业",
+      "runs": [
+        "业"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 6819900,
+        "y": 2686050,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1033",
+      "object_name": "!!label-4-char-2",
+      "expected_text": "文",
+      "runs": [
+        "文"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 6819900,
+        "y": 3105150,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1034",
+      "object_name": "!!label-4-char-3",
+      "expected_text": "化",
+      "runs": [
+        "化"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 6819900,
+        "y": 3524250,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1001",
+      "object_name": "!!number-0",
+      "expected_text": "01",
+      "runs": [
+        "01"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 11563350,
+        "y": 238125,
+        "cx": 533400,
+        "cy": 523875
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1015",
+      "object_name": "!!label-0-char-0",
+      "expected_text": "战",
+      "runs": [
+        "战"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 11677650,
+        "y": 2266950,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1016",
+      "object_name": "!!label-0-char-1",
+      "expected_text": "略",
+      "runs": [
+        "略"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 11677650,
+        "y": 2686050,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1017",
+      "object_name": "!!label-0-char-2",
+      "expected_text": "规",
+      "runs": [
+        "规"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 11677650,
+        "y": 3105150,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1018",
+      "object_name": "!!label-0-char-3",
+      "expected_text": "划",
+      "runs": [
+        "划"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 11677650,
+        "y": 3524250,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1004",
+      "object_name": "!!number-1",
+      "expected_text": "02",
+      "runs": [
+        "02"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 10896600,
+        "y": 238125,
+        "cx": 533400,
+        "cy": 523875
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1019",
+      "object_name": "!!label-1-char-0",
+      "expected_text": "招",
+      "runs": [
+        "招"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 11010900,
+        "y": 2266950,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1020",
+      "object_name": "!!label-1-char-1",
+      "expected_text": "聘",
+      "runs": [
+        "聘"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 11010900,
+        "y": 2686050,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1021",
+      "object_name": "!!label-1-char-2",
+      "expected_text": "入",
+      "runs": [
+        "入"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 11010900,
+        "y": 3105150,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1022",
+      "object_name": "!!label-1-char-3",
+      "expected_text": "职",
+      "runs": [
+        "职"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 11010900,
+        "y": 3524250,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1007",
+      "object_name": "!!number-2",
+      "expected_text": "03",
+      "runs": [
+        "03"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 10229850,
+        "y": 238125,
+        "cx": 533400,
+        "cy": 523875
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1023",
+      "object_name": "!!label-2-char-0",
+      "expected_text": "绩",
+      "runs": [
+        "绩"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 10344150,
+        "y": 2266950,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1024",
+      "object_name": "!!label-2-char-1",
+      "expected_text": "效",
+      "runs": [
+        "效"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 10344150,
+        "y": 2686050,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1025",
+      "object_name": "!!label-2-char-2",
+      "expected_text": "激",
+      "runs": [
+        "激"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 10344150,
+        "y": 3105150,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1026",
+      "object_name": "!!label-2-char-3",
+      "expected_text": "励",
+      "runs": [
+        "励"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 10344150,
+        "y": 3524250,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1010",
+      "object_name": "!!number-3",
+      "expected_text": "04",
+      "runs": [
+        "04"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 9563100,
+        "y": 238125,
+        "cx": 533400,
+        "cy": 523875
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1027",
+      "object_name": "!!label-3-char-0",
+      "expected_text": "员",
+      "runs": [
+        "员"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 9677400,
+        "y": 2266950,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1028",
+      "object_name": "!!label-3-char-1",
+      "expected_text": "工",
+      "runs": [
+        "工"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 9677400,
+        "y": 2686050,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1029",
+      "object_name": "!!label-3-char-2",
+      "expected_text": "培",
+      "runs": [
+        "培"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 9677400,
+        "y": 3105150,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1030",
+      "object_name": "!!label-3-char-3",
+      "expected_text": "训",
+      "runs": [
+        "训"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 9677400,
+        "y": 3524250,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1013",
+      "object_name": "!!number-4",
+      "expected_text": "05",
+      "runs": [
+        "05"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 8896350,
+        "y": 238125,
+        "cx": 533400,
+        "cy": 523875
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1031",
+      "object_name": "!!label-4-char-0",
+      "expected_text": "企",
+      "runs": [
+        "企"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 228600,
+        "y": 1990725,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1032",
+      "object_name": "!!label-4-char-1",
+      "expected_text": "业",
+      "runs": [
+        "业"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 552450,
+        "y": 1990725,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1033",
+      "object_name": "!!label-4-char-2",
+      "expected_text": "文",
+      "runs": [
+        "文"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 876300,
+        "y": 1990725,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1034",
+      "object_name": "!!label-4-char-3",
+      "expected_text": "化",
+      "runs": [
+        "化"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 1200150,
+        "y": 1990725,
+        "cx": 361950,
+        "cy": 495300
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1039",
+      "object_name": "!!body-4-text",
+      "expected_text": "提炼本项的结论保留事实与依据说明后续的行动",
+      "runs": [
+        "提炼本项的结论",
+        "保留事实与依据",
+        "说明后续的行动"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 228600,
+        "y": 3133725,
+        "cx": 8096250,
+        "cy": 2276475
+      },
+      "fully_off_canvas": false
+    }
+  ],
+  "table_cell_slots": [],
+  "media_parts": [],
+  "image_usage": [],
+  "repeat_bindings": [
+    {
+      "entity_name": "!!number-0",
+      "table_cell": null,
+      "expected_text": "01",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1001",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1001",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1001",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1001",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 5,
+          "object_id": "1001",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 6,
+          "object_id": "1001",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!label-0-char-0",
+      "table_cell": null,
+      "expected_text": "战",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1015",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1015",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1015",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1015",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 5,
+          "object_id": "1015",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 6,
+          "object_id": "1015",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!label-0-char-1",
+      "table_cell": null,
+      "expected_text": "略",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1016",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1016",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1016",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1016",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 5,
+          "object_id": "1016",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 6,
+          "object_id": "1016",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!label-0-char-2",
+      "table_cell": null,
+      "expected_text": "规",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1017",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1017",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1017",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1017",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 5,
+          "object_id": "1017",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 6,
+          "object_id": "1017",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!label-0-char-3",
+      "table_cell": null,
+      "expected_text": "划",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1018",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1018",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1018",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1018",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 5,
+          "object_id": "1018",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 6,
+          "object_id": "1018",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!number-1",
+      "table_cell": null,
+      "expected_text": "02",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1004",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1004",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1004",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1004",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 5,
+          "object_id": "1004",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 6,
+          "object_id": "1004",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!label-1-char-0",
+      "table_cell": null,
+      "expected_text": "招",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1019",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1019",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1019",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1019",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 5,
+          "object_id": "1019",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 6,
+          "object_id": "1019",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!label-1-char-1",
+      "table_cell": null,
+      "expected_text": "聘",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1020",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1020",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1020",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1020",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 5,
+          "object_id": "1020",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 6,
+          "object_id": "1020",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!label-1-char-2",
+      "table_cell": null,
+      "expected_text": "入",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1021",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1021",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1021",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1021",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 5,
+          "object_id": "1021",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 6,
+          "object_id": "1021",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!label-1-char-3",
+      "table_cell": null,
+      "expected_text": "职",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1022",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1022",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1022",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1022",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 5,
+          "object_id": "1022",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 6,
+          "object_id": "1022",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!number-2",
+      "table_cell": null,
+      "expected_text": "03",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1007",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1007",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1007",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1007",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 5,
+          "object_id": "1007",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 6,
+          "object_id": "1007",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!label-2-char-0",
+      "table_cell": null,
+      "expected_text": "绩",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1023",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1023",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1023",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1023",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 5,
+          "object_id": "1023",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 6,
+          "object_id": "1023",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!label-2-char-1",
+      "table_cell": null,
+      "expected_text": "效",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1024",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1024",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1024",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1024",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 5,
+          "object_id": "1024",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 6,
+          "object_id": "1024",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!label-2-char-2",
+      "table_cell": null,
+      "expected_text": "激",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1025",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1025",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1025",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1025",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 5,
+          "object_id": "1025",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 6,
+          "object_id": "1025",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!label-2-char-3",
+      "table_cell": null,
+      "expected_text": "励",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1026",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1026",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1026",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1026",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 5,
+          "object_id": "1026",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 6,
+          "object_id": "1026",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!number-3",
+      "table_cell": null,
+      "expected_text": "04",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1010",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1010",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1010",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1010",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 5,
+          "object_id": "1010",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 6,
+          "object_id": "1010",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!label-3-char-0",
+      "table_cell": null,
+      "expected_text": "员",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1027",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1027",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1027",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1027",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 5,
+          "object_id": "1027",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 6,
+          "object_id": "1027",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!label-3-char-1",
+      "table_cell": null,
+      "expected_text": "工",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1028",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1028",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1028",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1028",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 5,
+          "object_id": "1028",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 6,
+          "object_id": "1028",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!label-3-char-2",
+      "table_cell": null,
+      "expected_text": "培",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1029",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1029",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1029",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1029",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 5,
+          "object_id": "1029",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 6,
+          "object_id": "1029",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!label-3-char-3",
+      "table_cell": null,
+      "expected_text": "训",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1030",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1030",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1030",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1030",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 5,
+          "object_id": "1030",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 6,
+          "object_id": "1030",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!number-4",
+      "table_cell": null,
+      "expected_text": "05",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1013",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1013",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1013",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1013",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 5,
+          "object_id": "1013",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 6,
+          "object_id": "1013",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!label-4-char-0",
+      "table_cell": null,
+      "expected_text": "企",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1031",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1031",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1031",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1031",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 5,
+          "object_id": "1031",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 6,
+          "object_id": "1031",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!label-4-char-1",
+      "table_cell": null,
+      "expected_text": "业",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1032",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1032",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1032",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1032",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 5,
+          "object_id": "1032",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 6,
+          "object_id": "1032",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!label-4-char-2",
+      "table_cell": null,
+      "expected_text": "文",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1033",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1033",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1033",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1033",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 5,
+          "object_id": "1033",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 6,
+          "object_id": "1033",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!label-4-char-3",
+      "table_cell": null,
+      "expected_text": "化",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1034",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1034",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1034",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1034",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 5,
+          "object_id": "1034",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 6,
+          "object_id": "1034",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    }
+  ],
+  "state_contracts": [
+    {
+      "page": 1,
+      "state_index": 1,
+      "name": "五彩叠卡逐项向右抽拉：状态1",
+      "requires_previous_state": false,
+      "state_sequence_locked": true
+    },
+    {
+      "page": 2,
+      "state_index": 2,
+      "name": "五彩叠卡逐项向右抽拉：状态2",
+      "requires_previous_state": true,
+      "state_sequence_locked": true
+    },
+    {
+      "page": 3,
+      "state_index": 3,
+      "name": "五彩叠卡逐项向右抽拉：状态3",
+      "requires_previous_state": true,
+      "state_sequence_locked": true
+    },
+    {
+      "page": 4,
+      "state_index": 4,
+      "name": "五彩叠卡逐项向右抽拉：状态4",
+      "requires_previous_state": true,
+      "state_sequence_locked": true
+    },
+    {
+      "page": 5,
+      "state_index": 5,
+      "name": "五彩叠卡逐项向右抽拉：状态5",
+      "requires_previous_state": true,
+      "state_sequence_locked": true
+    },
+    {
+      "page": 6,
+      "state_index": 6,
+      "name": "五彩叠卡逐项向右抽拉：状态6",
+      "requires_previous_state": true,
+      "state_sequence_locked": true
+    }
+  ],
+  "native_timing_fingerprints": [
+    {
+      "part": "ppt/slides/slide1.xml",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "part": "ppt/slides/slide2.xml",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "part": "ppt/slides/slide3.xml",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "part": "ppt/slides/slide4.xml",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "part": "ppt/slides/slide5.xml",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "part": "ppt/slides/slide6.xml",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  ],
+  "binding_rule": "Keep object identity, run count and complete ordered state chain; table_cell uses zero-based [row,column]. Result labels and native spin angles must be changed together through a geometry-aware recipe, not by text-only replacement."
+}

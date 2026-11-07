@@ -1,0 +1,63 @@
+{
+  "module_id": "tpl-81c0a22de0d9-p001-002",
+  "native_package_sha256": "946c34cd8289521067f1eb714000985efbc1c3999708ff5759df284b80347ece",
+  "software": "WPS Presentation",
+  "source_verification": {
+    "native_package_extracted": true,
+    "source_first_pass_reviewed": true,
+    "content_bindings_extracted": true,
+    "source_timing_preserved": true,
+    "package_integrity_checked": true,
+    "whole_composition_playback_verified": false,
+    "new_content_playback_verified": true,
+    "user_accepted_revision": false,
+    "scope": "Original animation and content slots physically extracted. Source study previews and prior compiled-source static renders are separate from new-content application verification.",
+    "font_and_content_bindings_checked": true,
+    "validation_status": "passed",
+    "validation_receipt": "[local evidence path omitted]",
+    "source_study_preview_available": true,
+    "native_component_playback_verified": true,
+    "new_content_playback_evidence": "[local evidence path omitted]",
+    "new_content_scope": "19处源对象文本绑定，全部2页和相邻边；原几何、切换和计时逐项一致。"
+  },
+  "new_content_call": {
+    "index": 229,
+    "file": "[local evidence path omitted]",
+    "pptx_sha256": "fbe7161f51c03c4e482009c8db48e202a1aa18d12a4e96f55e5c27990d81a2d0",
+    "recording": "[local evidence path omitted]",
+    "recording_sha256": "2c6a28e0b9e2b406246156a7716a65e9ce364937cbfdb21de78c65ef6228bf49",
+    "page_order": [
+      1,
+      2
+    ],
+    "all_encoded_frames_decoded": true,
+    "encoded_frames": 493,
+    "duration_s": 8.216667,
+    "events_s": [
+      0.08421993255615234,
+      4.146947860717773
+    ],
+    "viewport_crop": [
+      0,
+      40,
+      1280,
+      720
+    ],
+    "capture_scope": "WindowsGraphicsCapture_exact_verified_owned_HWND_client",
+    "native_visual_metrics": {},
+    "manual_visual_review_complete": false,
+    "user_accepted": false,
+    "review_method": "All stable states and dense temporal sheets of every boundary; complete file decoded. These artifacts are not an independent full real-time human watch.",
+    "core_mechanism_visual_reviewed": true,
+    "core_mechanism_visual_passed": true,
+    "content_bindings_visually_reviewed": true,
+    "review_scope": "当前完整源模块的全部稳定状态与每条相邻边中段均已对照实际录像；逐字、段落和双语副本已按实体同步。不是整套成稿或任意外部接口验收。",
+    "compatibility_notes": [
+      "WPS实际启动相对事件时间可能有等待；录像编码帧率不等同独立原生帧率。",
+      "模板原始字号、照片与密度保留；新主题美化与事实仍须整稿复核。"
+    ]
+  },
+  "source_receipt_sha256": "1e9146cd79fcb66521477550b5791188e234c5ee93819eaa70212b11d54d74e9",
+  "scope": "历史实播记录摘要；不包含原录像或截图。新稿须另行实播。",
+  "user_acceptance_inherited": false
+}

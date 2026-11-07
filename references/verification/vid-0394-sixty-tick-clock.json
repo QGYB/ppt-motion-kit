@@ -1,0 +1,65 @@
+{
+  "module_id": "vid-0394-sixty-tick-clock",
+  "native_package_sha256": "209f31af3312e003e3d613b9e787e5eb17055ed14324964515fa39445da15081",
+  "software": "WPS Presentation",
+  "source_verification": {
+    "native_package_extracted": false,
+    "native_component_constructed": true,
+    "source_full_reviewed": true,
+    "package_integrity_checked": true,
+    "font_and_content_bindings_checked": true,
+    "native_component_playback_verified": true,
+    "whole_composition_playback_verified": false,
+    "new_content_playback_verified": true,
+    "user_accepted_revision": false,
+    "scope": "60径向刻度及6年份顺时针钟盘、固定左白针蓝心、6组图文上下画外预放与当前点标记; new-content invocation preserves native mechanism; cross-module interfaces not accepted",
+    "target_software": "WPS Presentation",
+    "playback_evidence": "[local evidence path omitted]",
+    "boundaries_captured": 5,
+    "static_visual_review": "All source states inspected through rendered views and stable-state contact sheets; original video assets and unknown fields are not asserted as reconstructed.",
+    "source_timing_unknowns_retained": true,
+    "source_full_video_reproduced": false,
+    "new_content_call_evidence": "[local evidence path omitted]",
+    "new_content_playback_evidence": "[local evidence path omitted]"
+  },
+  "new_content_call": {
+    "index": 394,
+    "file": "[local evidence path omitted]",
+    "pptx_sha256": "5339d3db4531559bc84e5bddf405f9010248b710e285d36c1f1a1063a213cdcb",
+    "recording": "[local evidence path omitted]",
+    "recording_sha256": "59ce86f25c72400ede27c80136ca8d4169dfc9962c016d55b8bb1027c801b0c9",
+    "page_order": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "all_encoded_frames_decoded": true,
+    "encoded_frames": 1278,
+    "duration_s": 21.3,
+    "events_s": [
+      0.1056680679321289,
+      3.6396119594573975,
+      7.157758951187134,
+      10.691343069076538,
+      14.250792980194092,
+      17.773846864700317
+    ],
+    "viewport_crop": [
+      0,
+      40,
+      1280,
+      720
+    ],
+    "capture_scope": "WindowsGraphicsCapture_exact_verified_owned_HWND_client",
+    "native_visual_metrics": {},
+    "manual_visual_review_complete": false,
+    "user_accepted": false,
+    "review_method": "All stable states and dense temporal sheets of every boundary; complete file decoded. These artifacts are not an independent full real-time human watch."
+  },
+  "source_receipt_sha256": "9a9a08d3f6aec7d3636fb12fa9c0fa05d1513f4b82105e02f52f4695ea5ae3c1",
+  "scope": "历史实播记录摘要；不包含原录像或截图。新稿须另行实播。",
+  "user_acceptance_inherited": false
+}

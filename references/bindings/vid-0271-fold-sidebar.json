@@ -1,0 +1,3231 @@
+{
+  "module_id": "vid-0271-fold-sidebar",
+  "slide_size_emu": [
+    12192000,
+    6858000
+  ],
+  "text_slots": [
+    {
+      "page": 1,
+      "object_id": "1003",
+      "object_name": "!!small-title",
+      "expected_text": "挑战与机遇",
+      "runs": [
+        "挑战与机遇"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 304800,
+        "y": 257175,
+        "cx": 2419350,
+        "cy": 561975
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1004",
+      "object_name": "!!part-0",
+      "expected_text": "PART 01",
+      "runs": [
+        "PART 01"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 285750,
+        "y": 1219200,
+        "cx": 2543175,
+        "cy": 323850
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1005",
+      "object_name": "!!chapter-0",
+      "expected_text": "职业转型",
+      "runs": [
+        "职业转型"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 285750,
+        "y": 1504950,
+        "cx": 2543175,
+        "cy": 466725
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1006",
+      "object_name": "!!part-1",
+      "expected_text": "PART 02",
+      "runs": [
+        "PART 02"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 285750,
+        "y": 2476500,
+        "cx": 2543175,
+        "cy": 323850
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1007",
+      "object_name": "!!chapter-1",
+      "expected_text": "创业选择",
+      "runs": [
+        "创业选择"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 285750,
+        "y": 2762250,
+        "cx": 2543175,
+        "cy": 466725
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1008",
+      "object_name": "!!part-2",
+      "expected_text": "PART 03",
+      "runs": [
+        "PART 03"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 285750,
+        "y": 3733800,
+        "cx": 2543175,
+        "cy": 323850
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1009",
+      "object_name": "!!chapter-2",
+      "expected_text": "资源整合",
+      "runs": [
+        "资源整合"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 285750,
+        "y": 4019550,
+        "cx": 2543175,
+        "cy": 466725
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1010",
+      "object_name": "!!part-3",
+      "expected_text": "PART 04",
+      "runs": [
+        "PART 04"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 285750,
+        "y": 4991100,
+        "cx": 2543175,
+        "cy": 323850
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1011",
+      "object_name": "!!chapter-3",
+      "expected_text": "持续学习",
+      "runs": [
+        "持续学习"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 285750,
+        "y": 5276850,
+        "cx": 2543175,
+        "cy": 466725
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1012",
+      "object_name": "!!body-0-number",
+      "expected_text": "第一点",
+      "runs": [
+        "第一点"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4495800,
+        "y": 1771650,
+        "cx": 6667500,
+        "cy": 514350
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1013",
+      "object_name": "!!body-0-heading",
+      "expected_text": "重新认识已有经验",
+      "runs": [
+        "重新认识已有经验"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4495800,
+        "y": 2324100,
+        "cx": 7096125,
+        "cy": 685800
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1017",
+      "object_name": "!!body-0-point-0",
+      "expected_text": "填写本章需要解决的具体问题",
+      "runs": [
+        "填写本章需要解决的具体问题"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": 3448050,
+        "cx": 5905500,
+        "cy": 457200
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1018",
+      "object_name": "!!body-0-detail-0",
+      "expected_text": "替换为讲稿原文提炼出的要点与依据",
+      "runs": [
+        "替换为讲稿原文提炼出的要点与依据"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": 3933825,
+        "cx": 5905500,
+        "cy": 314325
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1021",
+      "object_name": "!!body-0-point-1",
+      "expected_text": "用材料中的证据说明行动和结果",
+      "runs": [
+        "用材料中的证据说明行动和结果"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": 4810125,
+        "cx": 5905500,
+        "cy": 457200
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1022",
+      "object_name": "!!body-0-detail-1",
+      "expected_text": "替换为讲稿原文提炼出的要点与依据",
+      "runs": [
+        "替换为讲稿原文提炼出的要点与依据"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": 5295900,
+        "cx": 5905500,
+        "cy": 314325
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1023",
+      "object_name": "!!body-1-number",
+      "expected_text": "第二点",
+      "runs": [
+        "第二点"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4495800,
+        "y": 9867900,
+        "cx": 6667500,
+        "cy": 514350
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 1,
+      "object_id": "1024",
+      "object_name": "!!body-1-heading",
+      "expected_text": "把想法变成可验证的行动",
+      "runs": [
+        "把想法变成可验证的行动"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4495800,
+        "y": 10420350,
+        "cx": 7096125,
+        "cy": 685800
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 1,
+      "object_id": "1028",
+      "object_name": "!!body-1-point-0",
+      "expected_text": "填写本章需要解决的具体问题",
+      "runs": [
+        "填写本章需要解决的具体问题"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": 11544300,
+        "cx": 5905500,
+        "cy": 457200
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 1,
+      "object_id": "1029",
+      "object_name": "!!body-1-detail-0",
+      "expected_text": "替换为讲稿原文提炼出的要点与依据",
+      "runs": [
+        "替换为讲稿原文提炼出的要点与依据"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": 12030075,
+        "cx": 5905500,
+        "cy": 314325
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 1,
+      "object_id": "1032",
+      "object_name": "!!body-1-point-1",
+      "expected_text": "用材料中的证据说明行动和结果",
+      "runs": [
+        "用材料中的证据说明行动和结果"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": 12906375,
+        "cx": 5905500,
+        "cy": 457200
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 1,
+      "object_id": "1033",
+      "object_name": "!!body-1-detail-1",
+      "expected_text": "替换为讲稿原文提炼出的要点与依据",
+      "runs": [
+        "替换为讲稿原文提炼出的要点与依据"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": 13392150,
+        "cx": 5905500,
+        "cy": 314325
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 1,
+      "object_id": "1034",
+      "object_name": "!!body-2-number",
+      "expected_text": "第三点",
+      "runs": [
+        "第三点"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4495800,
+        "y": 17964150,
+        "cx": 6667500,
+        "cy": 514350
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 1,
+      "object_id": "1035",
+      "object_name": "!!body-2-heading",
+      "expected_text": "让资源围绕目标协同",
+      "runs": [
+        "让资源围绕目标协同"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4495800,
+        "y": 18516600,
+        "cx": 7096125,
+        "cy": 685800
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 1,
+      "object_id": "1039",
+      "object_name": "!!body-2-point-0",
+      "expected_text": "填写本章需要解决的具体问题",
+      "runs": [
+        "填写本章需要解决的具体问题"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": 19640550,
+        "cx": 5905500,
+        "cy": 457200
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 1,
+      "object_id": "1040",
+      "object_name": "!!body-2-detail-0",
+      "expected_text": "替换为讲稿原文提炼出的要点与依据",
+      "runs": [
+        "替换为讲稿原文提炼出的要点与依据"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": 20126325,
+        "cx": 5905500,
+        "cy": 314325
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 1,
+      "object_id": "1043",
+      "object_name": "!!body-2-point-1",
+      "expected_text": "用材料中的证据说明行动和结果",
+      "runs": [
+        "用材料中的证据说明行动和结果"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": 21002625,
+        "cx": 5905500,
+        "cy": 457200
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 1,
+      "object_id": "1044",
+      "object_name": "!!body-2-detail-1",
+      "expected_text": "替换为讲稿原文提炼出的要点与依据",
+      "runs": [
+        "替换为讲稿原文提炼出的要点与依据"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": 21488400,
+        "cx": 5905500,
+        "cy": 314325
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 1,
+      "object_id": "1045",
+      "object_name": "!!body-3-number",
+      "expected_text": "第四点",
+      "runs": [
+        "第四点"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4495800,
+        "y": 26060400,
+        "cx": 6667500,
+        "cy": 514350
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 1,
+      "object_id": "1046",
+      "object_name": "!!body-3-heading",
+      "expected_text": "在实践中持续学习",
+      "runs": [
+        "在实践中持续学习"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4495800,
+        "y": 26612850,
+        "cx": 7096125,
+        "cy": 685800
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 1,
+      "object_id": "1050",
+      "object_name": "!!body-3-point-0",
+      "expected_text": "填写本章需要解决的具体问题",
+      "runs": [
+        "填写本章需要解决的具体问题"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": 27736800,
+        "cx": 5905500,
+        "cy": 457200
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 1,
+      "object_id": "1051",
+      "object_name": "!!body-3-detail-0",
+      "expected_text": "替换为讲稿原文提炼出的要点与依据",
+      "runs": [
+        "替换为讲稿原文提炼出的要点与依据"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": 28222575,
+        "cx": 5905500,
+        "cy": 314325
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 1,
+      "object_id": "1054",
+      "object_name": "!!body-3-point-1",
+      "expected_text": "用材料中的证据说明行动和结果",
+      "runs": [
+        "用材料中的证据说明行动和结果"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": 29098875,
+        "cx": 5905500,
+        "cy": 457200
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 1,
+      "object_id": "1055",
+      "object_name": "!!body-3-detail-1",
+      "expected_text": "替换为讲稿原文提炼出的要点与依据",
+      "runs": [
+        "替换为讲稿原文提炼出的要点与依据"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": 29584650,
+        "cx": 5905500,
+        "cy": 314325
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 2,
+      "object_id": "1003",
+      "object_name": "!!small-title",
+      "expected_text": "挑战与机遇",
+      "runs": [
+        "挑战与机遇"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 304800,
+        "y": 257175,
+        "cx": 2419350,
+        "cy": 561975
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1004",
+      "object_name": "!!part-0",
+      "expected_text": "PART 01",
+      "runs": [
+        "PART 01"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 285750,
+        "y": 1219200,
+        "cx": 2543175,
+        "cy": 323850
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1005",
+      "object_name": "!!chapter-0",
+      "expected_text": "职业转型",
+      "runs": [
+        "职业转型"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 285750,
+        "y": 1504950,
+        "cx": 2543175,
+        "cy": 466725
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1006",
+      "object_name": "!!part-1",
+      "expected_text": "PART 02",
+      "runs": [
+        "PART 02"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 285750,
+        "y": 2476500,
+        "cx": 2543175,
+        "cy": 323850
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1007",
+      "object_name": "!!chapter-1",
+      "expected_text": "创业选择",
+      "runs": [
+        "创业选择"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 285750,
+        "y": 2762250,
+        "cx": 2543175,
+        "cy": 466725
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1008",
+      "object_name": "!!part-2",
+      "expected_text": "PART 03",
+      "runs": [
+        "PART 03"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 285750,
+        "y": 3733800,
+        "cx": 2543175,
+        "cy": 323850
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1009",
+      "object_name": "!!chapter-2",
+      "expected_text": "资源整合",
+      "runs": [
+        "资源整合"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 285750,
+        "y": 4019550,
+        "cx": 2543175,
+        "cy": 466725
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1010",
+      "object_name": "!!part-3",
+      "expected_text": "PART 04",
+      "runs": [
+        "PART 04"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 285750,
+        "y": 4991100,
+        "cx": 2543175,
+        "cy": 323850
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1011",
+      "object_name": "!!chapter-3",
+      "expected_text": "持续学习",
+      "runs": [
+        "持续学习"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 285750,
+        "y": 5276850,
+        "cx": 2543175,
+        "cy": 466725
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1012",
+      "object_name": "!!body-0-number",
+      "expected_text": "第一点",
+      "runs": [
+        "第一点"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4495800,
+        "y": -6324600,
+        "cx": 6667500,
+        "cy": 514350
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 2,
+      "object_id": "1013",
+      "object_name": "!!body-0-heading",
+      "expected_text": "重新认识已有经验",
+      "runs": [
+        "重新认识已有经验"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4495800,
+        "y": -5772150,
+        "cx": 7096125,
+        "cy": 685800
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 2,
+      "object_id": "1017",
+      "object_name": "!!body-0-point-0",
+      "expected_text": "填写本章需要解决的具体问题",
+      "runs": [
+        "填写本章需要解决的具体问题"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": -4648200,
+        "cx": 5905500,
+        "cy": 457200
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 2,
+      "object_id": "1018",
+      "object_name": "!!body-0-detail-0",
+      "expected_text": "替换为讲稿原文提炼出的要点与依据",
+      "runs": [
+        "替换为讲稿原文提炼出的要点与依据"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": -4162425,
+        "cx": 5905500,
+        "cy": 314325
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 2,
+      "object_id": "1021",
+      "object_name": "!!body-0-point-1",
+      "expected_text": "用材料中的证据说明行动和结果",
+      "runs": [
+        "用材料中的证据说明行动和结果"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": -3286125,
+        "cx": 5905500,
+        "cy": 457200
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 2,
+      "object_id": "1022",
+      "object_name": "!!body-0-detail-1",
+      "expected_text": "替换为讲稿原文提炼出的要点与依据",
+      "runs": [
+        "替换为讲稿原文提炼出的要点与依据"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": -2800350,
+        "cx": 5905500,
+        "cy": 314325
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 2,
+      "object_id": "1023",
+      "object_name": "!!body-1-number",
+      "expected_text": "第二点",
+      "runs": [
+        "第二点"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4495800,
+        "y": 1771650,
+        "cx": 6667500,
+        "cy": 514350
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1024",
+      "object_name": "!!body-1-heading",
+      "expected_text": "把想法变成可验证的行动",
+      "runs": [
+        "把想法变成可验证的行动"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4495800,
+        "y": 2324100,
+        "cx": 7096125,
+        "cy": 685800
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1028",
+      "object_name": "!!body-1-point-0",
+      "expected_text": "填写本章需要解决的具体问题",
+      "runs": [
+        "填写本章需要解决的具体问题"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": 3448050,
+        "cx": 5905500,
+        "cy": 457200
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1029",
+      "object_name": "!!body-1-detail-0",
+      "expected_text": "替换为讲稿原文提炼出的要点与依据",
+      "runs": [
+        "替换为讲稿原文提炼出的要点与依据"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": 3933825,
+        "cx": 5905500,
+        "cy": 314325
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1032",
+      "object_name": "!!body-1-point-1",
+      "expected_text": "用材料中的证据说明行动和结果",
+      "runs": [
+        "用材料中的证据说明行动和结果"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": 4810125,
+        "cx": 5905500,
+        "cy": 457200
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1033",
+      "object_name": "!!body-1-detail-1",
+      "expected_text": "替换为讲稿原文提炼出的要点与依据",
+      "runs": [
+        "替换为讲稿原文提炼出的要点与依据"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": 5295900,
+        "cx": 5905500,
+        "cy": 314325
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1034",
+      "object_name": "!!body-2-number",
+      "expected_text": "第三点",
+      "runs": [
+        "第三点"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4495800,
+        "y": 9867900,
+        "cx": 6667500,
+        "cy": 514350
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 2,
+      "object_id": "1035",
+      "object_name": "!!body-2-heading",
+      "expected_text": "让资源围绕目标协同",
+      "runs": [
+        "让资源围绕目标协同"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4495800,
+        "y": 10420350,
+        "cx": 7096125,
+        "cy": 685800
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 2,
+      "object_id": "1039",
+      "object_name": "!!body-2-point-0",
+      "expected_text": "填写本章需要解决的具体问题",
+      "runs": [
+        "填写本章需要解决的具体问题"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": 11544300,
+        "cx": 5905500,
+        "cy": 457200
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 2,
+      "object_id": "1040",
+      "object_name": "!!body-2-detail-0",
+      "expected_text": "替换为讲稿原文提炼出的要点与依据",
+      "runs": [
+        "替换为讲稿原文提炼出的要点与依据"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": 12030075,
+        "cx": 5905500,
+        "cy": 314325
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 2,
+      "object_id": "1043",
+      "object_name": "!!body-2-point-1",
+      "expected_text": "用材料中的证据说明行动和结果",
+      "runs": [
+        "用材料中的证据说明行动和结果"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": 12906375,
+        "cx": 5905500,
+        "cy": 457200
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 2,
+      "object_id": "1044",
+      "object_name": "!!body-2-detail-1",
+      "expected_text": "替换为讲稿原文提炼出的要点与依据",
+      "runs": [
+        "替换为讲稿原文提炼出的要点与依据"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": 13392150,
+        "cx": 5905500,
+        "cy": 314325
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 2,
+      "object_id": "1045",
+      "object_name": "!!body-3-number",
+      "expected_text": "第四点",
+      "runs": [
+        "第四点"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4495800,
+        "y": 17964150,
+        "cx": 6667500,
+        "cy": 514350
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 2,
+      "object_id": "1046",
+      "object_name": "!!body-3-heading",
+      "expected_text": "在实践中持续学习",
+      "runs": [
+        "在实践中持续学习"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4495800,
+        "y": 18516600,
+        "cx": 7096125,
+        "cy": 685800
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 2,
+      "object_id": "1050",
+      "object_name": "!!body-3-point-0",
+      "expected_text": "填写本章需要解决的具体问题",
+      "runs": [
+        "填写本章需要解决的具体问题"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": 19640550,
+        "cx": 5905500,
+        "cy": 457200
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 2,
+      "object_id": "1051",
+      "object_name": "!!body-3-detail-0",
+      "expected_text": "替换为讲稿原文提炼出的要点与依据",
+      "runs": [
+        "替换为讲稿原文提炼出的要点与依据"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": 20126325,
+        "cx": 5905500,
+        "cy": 314325
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 2,
+      "object_id": "1054",
+      "object_name": "!!body-3-point-1",
+      "expected_text": "用材料中的证据说明行动和结果",
+      "runs": [
+        "用材料中的证据说明行动和结果"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": 21002625,
+        "cx": 5905500,
+        "cy": 457200
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 2,
+      "object_id": "1055",
+      "object_name": "!!body-3-detail-1",
+      "expected_text": "替换为讲稿原文提炼出的要点与依据",
+      "runs": [
+        "替换为讲稿原文提炼出的要点与依据"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": 21488400,
+        "cx": 5905500,
+        "cy": 314325
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 3,
+      "object_id": "1003",
+      "object_name": "!!small-title",
+      "expected_text": "挑战与机遇",
+      "runs": [
+        "挑战与机遇"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 304800,
+        "y": 257175,
+        "cx": 2419350,
+        "cy": 561975
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1004",
+      "object_name": "!!part-0",
+      "expected_text": "PART 01",
+      "runs": [
+        "PART 01"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 285750,
+        "y": 1219200,
+        "cx": 2543175,
+        "cy": 323850
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1005",
+      "object_name": "!!chapter-0",
+      "expected_text": "职业转型",
+      "runs": [
+        "职业转型"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 285750,
+        "y": 1504950,
+        "cx": 2543175,
+        "cy": 466725
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1006",
+      "object_name": "!!part-1",
+      "expected_text": "PART 02",
+      "runs": [
+        "PART 02"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 285750,
+        "y": 2476500,
+        "cx": 2543175,
+        "cy": 323850
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1007",
+      "object_name": "!!chapter-1",
+      "expected_text": "创业选择",
+      "runs": [
+        "创业选择"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 285750,
+        "y": 2762250,
+        "cx": 2543175,
+        "cy": 466725
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1008",
+      "object_name": "!!part-2",
+      "expected_text": "PART 03",
+      "runs": [
+        "PART 03"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 285750,
+        "y": 3733800,
+        "cx": 2543175,
+        "cy": 323850
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1009",
+      "object_name": "!!chapter-2",
+      "expected_text": "资源整合",
+      "runs": [
+        "资源整合"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 285750,
+        "y": 4019550,
+        "cx": 2543175,
+        "cy": 466725
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1010",
+      "object_name": "!!part-3",
+      "expected_text": "PART 04",
+      "runs": [
+        "PART 04"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 285750,
+        "y": 4991100,
+        "cx": 2543175,
+        "cy": 323850
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1011",
+      "object_name": "!!chapter-3",
+      "expected_text": "持续学习",
+      "runs": [
+        "持续学习"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 285750,
+        "y": 5276850,
+        "cx": 2543175,
+        "cy": 466725
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1012",
+      "object_name": "!!body-0-number",
+      "expected_text": "第一点",
+      "runs": [
+        "第一点"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4495800,
+        "y": -14420850,
+        "cx": 6667500,
+        "cy": 514350
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 3,
+      "object_id": "1013",
+      "object_name": "!!body-0-heading",
+      "expected_text": "重新认识已有经验",
+      "runs": [
+        "重新认识已有经验"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4495800,
+        "y": -13868400,
+        "cx": 7096125,
+        "cy": 685800
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 3,
+      "object_id": "1017",
+      "object_name": "!!body-0-point-0",
+      "expected_text": "填写本章需要解决的具体问题",
+      "runs": [
+        "填写本章需要解决的具体问题"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": -12744450,
+        "cx": 5905500,
+        "cy": 457200
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 3,
+      "object_id": "1018",
+      "object_name": "!!body-0-detail-0",
+      "expected_text": "替换为讲稿原文提炼出的要点与依据",
+      "runs": [
+        "替换为讲稿原文提炼出的要点与依据"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": -12258675,
+        "cx": 5905500,
+        "cy": 314325
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 3,
+      "object_id": "1021",
+      "object_name": "!!body-0-point-1",
+      "expected_text": "用材料中的证据说明行动和结果",
+      "runs": [
+        "用材料中的证据说明行动和结果"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": -11382375,
+        "cx": 5905500,
+        "cy": 457200
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 3,
+      "object_id": "1022",
+      "object_name": "!!body-0-detail-1",
+      "expected_text": "替换为讲稿原文提炼出的要点与依据",
+      "runs": [
+        "替换为讲稿原文提炼出的要点与依据"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": -10896600,
+        "cx": 5905500,
+        "cy": 314325
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 3,
+      "object_id": "1023",
+      "object_name": "!!body-1-number",
+      "expected_text": "第二点",
+      "runs": [
+        "第二点"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4495800,
+        "y": -6324600,
+        "cx": 6667500,
+        "cy": 514350
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 3,
+      "object_id": "1024",
+      "object_name": "!!body-1-heading",
+      "expected_text": "把想法变成可验证的行动",
+      "runs": [
+        "把想法变成可验证的行动"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4495800,
+        "y": -5772150,
+        "cx": 7096125,
+        "cy": 685800
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 3,
+      "object_id": "1028",
+      "object_name": "!!body-1-point-0",
+      "expected_text": "填写本章需要解决的具体问题",
+      "runs": [
+        "填写本章需要解决的具体问题"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": -4648200,
+        "cx": 5905500,
+        "cy": 457200
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 3,
+      "object_id": "1029",
+      "object_name": "!!body-1-detail-0",
+      "expected_text": "替换为讲稿原文提炼出的要点与依据",
+      "runs": [
+        "替换为讲稿原文提炼出的要点与依据"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": -4162425,
+        "cx": 5905500,
+        "cy": 314325
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 3,
+      "object_id": "1032",
+      "object_name": "!!body-1-point-1",
+      "expected_text": "用材料中的证据说明行动和结果",
+      "runs": [
+        "用材料中的证据说明行动和结果"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": -3286125,
+        "cx": 5905500,
+        "cy": 457200
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 3,
+      "object_id": "1033",
+      "object_name": "!!body-1-detail-1",
+      "expected_text": "替换为讲稿原文提炼出的要点与依据",
+      "runs": [
+        "替换为讲稿原文提炼出的要点与依据"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": -2800350,
+        "cx": 5905500,
+        "cy": 314325
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 3,
+      "object_id": "1034",
+      "object_name": "!!body-2-number",
+      "expected_text": "第三点",
+      "runs": [
+        "第三点"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4495800,
+        "y": 1771650,
+        "cx": 6667500,
+        "cy": 514350
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1035",
+      "object_name": "!!body-2-heading",
+      "expected_text": "让资源围绕目标协同",
+      "runs": [
+        "让资源围绕目标协同"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4495800,
+        "y": 2324100,
+        "cx": 7096125,
+        "cy": 685800
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1039",
+      "object_name": "!!body-2-point-0",
+      "expected_text": "填写本章需要解决的具体问题",
+      "runs": [
+        "填写本章需要解决的具体问题"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": 3448050,
+        "cx": 5905500,
+        "cy": 457200
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1040",
+      "object_name": "!!body-2-detail-0",
+      "expected_text": "替换为讲稿原文提炼出的要点与依据",
+      "runs": [
+        "替换为讲稿原文提炼出的要点与依据"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": 3933825,
+        "cx": 5905500,
+        "cy": 314325
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1043",
+      "object_name": "!!body-2-point-1",
+      "expected_text": "用材料中的证据说明行动和结果",
+      "runs": [
+        "用材料中的证据说明行动和结果"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": 4810125,
+        "cx": 5905500,
+        "cy": 457200
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1044",
+      "object_name": "!!body-2-detail-1",
+      "expected_text": "替换为讲稿原文提炼出的要点与依据",
+      "runs": [
+        "替换为讲稿原文提炼出的要点与依据"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": 5295900,
+        "cx": 5905500,
+        "cy": 314325
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1045",
+      "object_name": "!!body-3-number",
+      "expected_text": "第四点",
+      "runs": [
+        "第四点"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4495800,
+        "y": 9867900,
+        "cx": 6667500,
+        "cy": 514350
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 3,
+      "object_id": "1046",
+      "object_name": "!!body-3-heading",
+      "expected_text": "在实践中持续学习",
+      "runs": [
+        "在实践中持续学习"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4495800,
+        "y": 10420350,
+        "cx": 7096125,
+        "cy": 685800
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 3,
+      "object_id": "1050",
+      "object_name": "!!body-3-point-0",
+      "expected_text": "填写本章需要解决的具体问题",
+      "runs": [
+        "填写本章需要解决的具体问题"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": 11544300,
+        "cx": 5905500,
+        "cy": 457200
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 3,
+      "object_id": "1051",
+      "object_name": "!!body-3-detail-0",
+      "expected_text": "替换为讲稿原文提炼出的要点与依据",
+      "runs": [
+        "替换为讲稿原文提炼出的要点与依据"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": 12030075,
+        "cx": 5905500,
+        "cy": 314325
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 3,
+      "object_id": "1054",
+      "object_name": "!!body-3-point-1",
+      "expected_text": "用材料中的证据说明行动和结果",
+      "runs": [
+        "用材料中的证据说明行动和结果"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": 12906375,
+        "cx": 5905500,
+        "cy": 457200
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 3,
+      "object_id": "1055",
+      "object_name": "!!body-3-detail-1",
+      "expected_text": "替换为讲稿原文提炼出的要点与依据",
+      "runs": [
+        "替换为讲稿原文提炼出的要点与依据"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": 13392150,
+        "cx": 5905500,
+        "cy": 314325
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 4,
+      "object_id": "1003",
+      "object_name": "!!small-title",
+      "expected_text": "挑战与机遇",
+      "runs": [
+        "挑战与机遇"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 304800,
+        "y": 257175,
+        "cx": 2419350,
+        "cy": 561975
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1004",
+      "object_name": "!!part-0",
+      "expected_text": "PART 01",
+      "runs": [
+        "PART 01"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 285750,
+        "y": 1219200,
+        "cx": 2543175,
+        "cy": 323850
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1005",
+      "object_name": "!!chapter-0",
+      "expected_text": "职业转型",
+      "runs": [
+        "职业转型"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 285750,
+        "y": 1504950,
+        "cx": 2543175,
+        "cy": 466725
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1006",
+      "object_name": "!!part-1",
+      "expected_text": "PART 02",
+      "runs": [
+        "PART 02"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 285750,
+        "y": 2476500,
+        "cx": 2543175,
+        "cy": 323850
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1007",
+      "object_name": "!!chapter-1",
+      "expected_text": "创业选择",
+      "runs": [
+        "创业选择"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 285750,
+        "y": 2762250,
+        "cx": 2543175,
+        "cy": 466725
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1008",
+      "object_name": "!!part-2",
+      "expected_text": "PART 03",
+      "runs": [
+        "PART 03"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 285750,
+        "y": 3733800,
+        "cx": 2543175,
+        "cy": 323850
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1009",
+      "object_name": "!!chapter-2",
+      "expected_text": "资源整合",
+      "runs": [
+        "资源整合"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 285750,
+        "y": 4019550,
+        "cx": 2543175,
+        "cy": 466725
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1010",
+      "object_name": "!!part-3",
+      "expected_text": "PART 04",
+      "runs": [
+        "PART 04"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 285750,
+        "y": 4991100,
+        "cx": 2543175,
+        "cy": 323850
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1011",
+      "object_name": "!!chapter-3",
+      "expected_text": "持续学习",
+      "runs": [
+        "持续学习"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 285750,
+        "y": 5276850,
+        "cx": 2543175,
+        "cy": 466725
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1012",
+      "object_name": "!!body-0-number",
+      "expected_text": "第一点",
+      "runs": [
+        "第一点"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4495800,
+        "y": -22517100,
+        "cx": 6667500,
+        "cy": 514350
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 4,
+      "object_id": "1013",
+      "object_name": "!!body-0-heading",
+      "expected_text": "重新认识已有经验",
+      "runs": [
+        "重新认识已有经验"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4495800,
+        "y": -21964650,
+        "cx": 7096125,
+        "cy": 685800
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 4,
+      "object_id": "1017",
+      "object_name": "!!body-0-point-0",
+      "expected_text": "填写本章需要解决的具体问题",
+      "runs": [
+        "填写本章需要解决的具体问题"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": -20840700,
+        "cx": 5905500,
+        "cy": 457200
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 4,
+      "object_id": "1018",
+      "object_name": "!!body-0-detail-0",
+      "expected_text": "替换为讲稿原文提炼出的要点与依据",
+      "runs": [
+        "替换为讲稿原文提炼出的要点与依据"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": -20354925,
+        "cx": 5905500,
+        "cy": 314325
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 4,
+      "object_id": "1021",
+      "object_name": "!!body-0-point-1",
+      "expected_text": "用材料中的证据说明行动和结果",
+      "runs": [
+        "用材料中的证据说明行动和结果"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": -19478625,
+        "cx": 5905500,
+        "cy": 457200
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 4,
+      "object_id": "1022",
+      "object_name": "!!body-0-detail-1",
+      "expected_text": "替换为讲稿原文提炼出的要点与依据",
+      "runs": [
+        "替换为讲稿原文提炼出的要点与依据"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": -18992850,
+        "cx": 5905500,
+        "cy": 314325
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 4,
+      "object_id": "1023",
+      "object_name": "!!body-1-number",
+      "expected_text": "第二点",
+      "runs": [
+        "第二点"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4495800,
+        "y": -14420850,
+        "cx": 6667500,
+        "cy": 514350
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 4,
+      "object_id": "1024",
+      "object_name": "!!body-1-heading",
+      "expected_text": "把想法变成可验证的行动",
+      "runs": [
+        "把想法变成可验证的行动"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4495800,
+        "y": -13868400,
+        "cx": 7096125,
+        "cy": 685800
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 4,
+      "object_id": "1028",
+      "object_name": "!!body-1-point-0",
+      "expected_text": "填写本章需要解决的具体问题",
+      "runs": [
+        "填写本章需要解决的具体问题"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": -12744450,
+        "cx": 5905500,
+        "cy": 457200
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 4,
+      "object_id": "1029",
+      "object_name": "!!body-1-detail-0",
+      "expected_text": "替换为讲稿原文提炼出的要点与依据",
+      "runs": [
+        "替换为讲稿原文提炼出的要点与依据"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": -12258675,
+        "cx": 5905500,
+        "cy": 314325
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 4,
+      "object_id": "1032",
+      "object_name": "!!body-1-point-1",
+      "expected_text": "用材料中的证据说明行动和结果",
+      "runs": [
+        "用材料中的证据说明行动和结果"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": -11382375,
+        "cx": 5905500,
+        "cy": 457200
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 4,
+      "object_id": "1033",
+      "object_name": "!!body-1-detail-1",
+      "expected_text": "替换为讲稿原文提炼出的要点与依据",
+      "runs": [
+        "替换为讲稿原文提炼出的要点与依据"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": -10896600,
+        "cx": 5905500,
+        "cy": 314325
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 4,
+      "object_id": "1034",
+      "object_name": "!!body-2-number",
+      "expected_text": "第三点",
+      "runs": [
+        "第三点"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4495800,
+        "y": -6324600,
+        "cx": 6667500,
+        "cy": 514350
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 4,
+      "object_id": "1035",
+      "object_name": "!!body-2-heading",
+      "expected_text": "让资源围绕目标协同",
+      "runs": [
+        "让资源围绕目标协同"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4495800,
+        "y": -5772150,
+        "cx": 7096125,
+        "cy": 685800
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 4,
+      "object_id": "1039",
+      "object_name": "!!body-2-point-0",
+      "expected_text": "填写本章需要解决的具体问题",
+      "runs": [
+        "填写本章需要解决的具体问题"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": -4648200,
+        "cx": 5905500,
+        "cy": 457200
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 4,
+      "object_id": "1040",
+      "object_name": "!!body-2-detail-0",
+      "expected_text": "替换为讲稿原文提炼出的要点与依据",
+      "runs": [
+        "替换为讲稿原文提炼出的要点与依据"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": -4162425,
+        "cx": 5905500,
+        "cy": 314325
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 4,
+      "object_id": "1043",
+      "object_name": "!!body-2-point-1",
+      "expected_text": "用材料中的证据说明行动和结果",
+      "runs": [
+        "用材料中的证据说明行动和结果"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": -3286125,
+        "cx": 5905500,
+        "cy": 457200
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 4,
+      "object_id": "1044",
+      "object_name": "!!body-2-detail-1",
+      "expected_text": "替换为讲稿原文提炼出的要点与依据",
+      "runs": [
+        "替换为讲稿原文提炼出的要点与依据"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": -2800350,
+        "cx": 5905500,
+        "cy": 314325
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 4,
+      "object_id": "1045",
+      "object_name": "!!body-3-number",
+      "expected_text": "第四点",
+      "runs": [
+        "第四点"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4495800,
+        "y": 1771650,
+        "cx": 6667500,
+        "cy": 514350
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1046",
+      "object_name": "!!body-3-heading",
+      "expected_text": "在实践中持续学习",
+      "runs": [
+        "在实践中持续学习"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4495800,
+        "y": 2324100,
+        "cx": 7096125,
+        "cy": 685800
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1050",
+      "object_name": "!!body-3-point-0",
+      "expected_text": "填写本章需要解决的具体问题",
+      "runs": [
+        "填写本章需要解决的具体问题"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": 3448050,
+        "cx": 5905500,
+        "cy": 457200
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1051",
+      "object_name": "!!body-3-detail-0",
+      "expected_text": "替换为讲稿原文提炼出的要点与依据",
+      "runs": [
+        "替换为讲稿原文提炼出的要点与依据"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": 3933825,
+        "cx": 5905500,
+        "cy": 314325
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1054",
+      "object_name": "!!body-3-point-1",
+      "expected_text": "用材料中的证据说明行动和结果",
+      "runs": [
+        "用材料中的证据说明行动和结果"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": 4810125,
+        "cx": 5905500,
+        "cy": 457200
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1055",
+      "object_name": "!!body-3-detail-1",
+      "expected_text": "替换为讲稿原文提炼出的要点与依据",
+      "runs": [
+        "替换为讲稿原文提炼出的要点与依据"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5238750,
+        "y": 5295900,
+        "cx": 5905500,
+        "cy": 314325
+      },
+      "fully_off_canvas": false
+    }
+  ],
+  "table_cell_slots": [],
+  "media_parts": [],
+  "image_usage": [],
+  "repeat_bindings": [
+    {
+      "entity_name": "!!small-title",
+      "table_cell": null,
+      "expected_text": "挑战与机遇",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1003",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1003",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1003",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1003",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!part-0",
+      "table_cell": null,
+      "expected_text": "PART 01",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1004",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1004",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1004",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1004",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!chapter-0",
+      "table_cell": null,
+      "expected_text": "职业转型",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1005",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1005",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1005",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1005",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!part-1",
+      "table_cell": null,
+      "expected_text": "PART 02",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1006",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1006",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1006",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1006",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!chapter-1",
+      "table_cell": null,
+      "expected_text": "创业选择",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1007",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1007",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1007",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1007",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!part-2",
+      "table_cell": null,
+      "expected_text": "PART 03",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1008",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1008",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1008",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1008",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!chapter-2",
+      "table_cell": null,
+      "expected_text": "资源整合",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1009",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1009",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1009",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1009",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!part-3",
+      "table_cell": null,
+      "expected_text": "PART 04",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1010",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1010",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1010",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1010",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!chapter-3",
+      "table_cell": null,
+      "expected_text": "持续学习",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1011",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1011",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1011",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1011",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!body-0-number",
+      "table_cell": null,
+      "expected_text": "第一点",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1012",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1012",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 3,
+          "object_id": "1012",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 4,
+          "object_id": "1012",
+          "fully_off_canvas": true
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!body-0-heading",
+      "table_cell": null,
+      "expected_text": "重新认识已有经验",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1013",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1013",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 3,
+          "object_id": "1013",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 4,
+          "object_id": "1013",
+          "fully_off_canvas": true
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!body-0-point-0",
+      "table_cell": null,
+      "expected_text": "填写本章需要解决的具体问题",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1017",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1017",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 3,
+          "object_id": "1017",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 4,
+          "object_id": "1017",
+          "fully_off_canvas": true
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!body-0-detail-0",
+      "table_cell": null,
+      "expected_text": "替换为讲稿原文提炼出的要点与依据",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1018",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1018",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 3,
+          "object_id": "1018",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 4,
+          "object_id": "1018",
+          "fully_off_canvas": true
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!body-0-point-1",
+      "table_cell": null,
+      "expected_text": "用材料中的证据说明行动和结果",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1021",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1021",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 3,
+          "object_id": "1021",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 4,
+          "object_id": "1021",
+          "fully_off_canvas": true
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!body-0-detail-1",
+      "table_cell": null,
+      "expected_text": "替换为讲稿原文提炼出的要点与依据",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1022",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1022",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 3,
+          "object_id": "1022",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 4,
+          "object_id": "1022",
+          "fully_off_canvas": true
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!body-1-number",
+      "table_cell": null,
+      "expected_text": "第二点",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1023",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 2,
+          "object_id": "1023",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1023",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 4,
+          "object_id": "1023",
+          "fully_off_canvas": true
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!body-1-heading",
+      "table_cell": null,
+      "expected_text": "把想法变成可验证的行动",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1024",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 2,
+          "object_id": "1024",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1024",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 4,
+          "object_id": "1024",
+          "fully_off_canvas": true
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!body-1-point-0",
+      "table_cell": null,
+      "expected_text": "填写本章需要解决的具体问题",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1028",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 2,
+          "object_id": "1028",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1028",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 4,
+          "object_id": "1028",
+          "fully_off_canvas": true
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!body-1-detail-0",
+      "table_cell": null,
+      "expected_text": "替换为讲稿原文提炼出的要点与依据",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1029",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 2,
+          "object_id": "1029",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1029",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 4,
+          "object_id": "1029",
+          "fully_off_canvas": true
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!body-1-point-1",
+      "table_cell": null,
+      "expected_text": "用材料中的证据说明行动和结果",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1032",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 2,
+          "object_id": "1032",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1032",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 4,
+          "object_id": "1032",
+          "fully_off_canvas": true
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!body-1-detail-1",
+      "table_cell": null,
+      "expected_text": "替换为讲稿原文提炼出的要点与依据",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1033",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 2,
+          "object_id": "1033",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1033",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 4,
+          "object_id": "1033",
+          "fully_off_canvas": true
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!body-2-number",
+      "table_cell": null,
+      "expected_text": "第三点",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1034",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 2,
+          "object_id": "1034",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 3,
+          "object_id": "1034",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1034",
+          "fully_off_canvas": true
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!body-2-heading",
+      "table_cell": null,
+      "expected_text": "让资源围绕目标协同",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1035",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 2,
+          "object_id": "1035",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 3,
+          "object_id": "1035",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1035",
+          "fully_off_canvas": true
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!body-2-point-0",
+      "table_cell": null,
+      "expected_text": "填写本章需要解决的具体问题",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1039",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 2,
+          "object_id": "1039",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 3,
+          "object_id": "1039",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1039",
+          "fully_off_canvas": true
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!body-2-detail-0",
+      "table_cell": null,
+      "expected_text": "替换为讲稿原文提炼出的要点与依据",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1040",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 2,
+          "object_id": "1040",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 3,
+          "object_id": "1040",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1040",
+          "fully_off_canvas": true
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!body-2-point-1",
+      "table_cell": null,
+      "expected_text": "用材料中的证据说明行动和结果",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1043",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 2,
+          "object_id": "1043",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 3,
+          "object_id": "1043",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1043",
+          "fully_off_canvas": true
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!body-2-detail-1",
+      "table_cell": null,
+      "expected_text": "替换为讲稿原文提炼出的要点与依据",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1044",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 2,
+          "object_id": "1044",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 3,
+          "object_id": "1044",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1044",
+          "fully_off_canvas": true
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!body-3-number",
+      "table_cell": null,
+      "expected_text": "第四点",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1045",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 2,
+          "object_id": "1045",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 3,
+          "object_id": "1045",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 4,
+          "object_id": "1045",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!body-3-heading",
+      "table_cell": null,
+      "expected_text": "在实践中持续学习",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1046",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 2,
+          "object_id": "1046",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 3,
+          "object_id": "1046",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 4,
+          "object_id": "1046",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!body-3-point-0",
+      "table_cell": null,
+      "expected_text": "填写本章需要解决的具体问题",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1050",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 2,
+          "object_id": "1050",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 3,
+          "object_id": "1050",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 4,
+          "object_id": "1050",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!body-3-detail-0",
+      "table_cell": null,
+      "expected_text": "替换为讲稿原文提炼出的要点与依据",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1051",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 2,
+          "object_id": "1051",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 3,
+          "object_id": "1051",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 4,
+          "object_id": "1051",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!body-3-point-1",
+      "table_cell": null,
+      "expected_text": "用材料中的证据说明行动和结果",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1054",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 2,
+          "object_id": "1054",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 3,
+          "object_id": "1054",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 4,
+          "object_id": "1054",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!body-3-detail-1",
+      "table_cell": null,
+      "expected_text": "替换为讲稿原文提炼出的要点与依据",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1055",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 2,
+          "object_id": "1055",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 3,
+          "object_id": "1055",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 4,
+          "object_id": "1055",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    }
+  ],
+  "state_contracts": [
+    {
+      "page": 1,
+      "state_index": 1,
+      "name": "折角侧栏与正文连续上推：状态1",
+      "requires_previous_state": false,
+      "state_sequence_locked": true
+    },
+    {
+      "page": 2,
+      "state_index": 2,
+      "name": "折角侧栏与正文连续上推：状态2",
+      "requires_previous_state": true,
+      "state_sequence_locked": true
+    },
+    {
+      "page": 3,
+      "state_index": 3,
+      "name": "折角侧栏与正文连续上推：状态3",
+      "requires_previous_state": true,
+      "state_sequence_locked": true
+    },
+    {
+      "page": 4,
+      "state_index": 4,
+      "name": "折角侧栏与正文连续上推：状态4",
+      "requires_previous_state": true,
+      "state_sequence_locked": true
+    }
+  ],
+  "native_timing_fingerprints": [
+    {
+      "part": "ppt/slides/slide1.xml",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "part": "ppt/slides/slide2.xml",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "part": "ppt/slides/slide3.xml",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "part": "ppt/slides/slide4.xml",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  ],
+  "binding_rule": "Keep object identity, run count and complete ordered state chain; table_cell uses zero-based [row,column]. Result labels and native spin angles must be changed together through a geometry-aware recipe, not by text-only replacement."
+}

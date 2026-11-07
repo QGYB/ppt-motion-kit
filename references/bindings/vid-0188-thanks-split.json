@@ -1,0 +1,155 @@
+{
+  "module_id": "vid-0188-thanks-split",
+  "slide_size_emu": [
+    12192000,
+    6858000
+  ],
+  "text_slots": [
+    {
+      "page": 1,
+      "object_id": "1004",
+      "object_name": "!!outline-source",
+      "expected_text": "THANKS",
+      "runs": [
+        "THANKS"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 0,
+        "y": 14287500,
+        "cx": 12192000,
+        "cy": 2381250
+      },
+      "fully_off_canvas": true
+    },
+    {
+      "page": 2,
+      "object_id": "1005",
+      "object_name": "!!closing-line",
+      "expected_text": "每一次相遇，都值得感恩",
+      "runs": [
+        "每一次相遇，都值得感恩"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 1333500,
+        "y": 1304925,
+        "cx": 9525000,
+        "cy": 904875
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1006",
+      "object_name": "!!closing-subline",
+      "expected_text": "感谢一路同行",
+      "runs": [
+        "感谢一路同行"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 2286000,
+        "y": 2324100,
+        "cx": 7620000,
+        "cy": 514350
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1004",
+      "object_name": "!!outline-source",
+      "expected_text": "THANKS",
+      "runs": [
+        "THANKS"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 0,
+        "y": 14287500,
+        "cx": 12192000,
+        "cy": 2381250
+      },
+      "fully_off_canvas": true
+    }
+  ],
+  "table_cell_slots": [],
+  "media_parts": [
+    {
+      "part": "ppt/media/image.png",
+      "bytes": 4665727,
+      "sha256": "b7f727b2c99f8723a136f0a61f3a3477bf3beda812c8b662eae46d65121a42c8",
+      "use": "background or photo, replace all same-entity states together"
+    },
+    {
+      "part": "ppt/media/image2.png",
+      "bytes": 4665727,
+      "sha256": "b7f727b2c99f8723a136f0a61f3a3477bf3beda812c8b662eae46d65121a42c8",
+      "use": "background or photo, replace all same-entity states together"
+    }
+  ],
+  "image_usage": [
+    {
+      "page": 1,
+      "object_id": "1000",
+      "object_name": "!!closing-photo",
+      "scope": "native_object",
+      "media_part": "ppt/media/image.png"
+    },
+    {
+      "page": 2,
+      "object_id": "1000",
+      "object_name": "!!closing-photo",
+      "scope": "native_object",
+      "media_part": "ppt/media/image2.png"
+    }
+  ],
+  "repeat_bindings": [
+    {
+      "entity_name": "!!outline-source",
+      "table_cell": null,
+      "expected_text": "THANKS",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1004",
+          "fully_off_canvas": true
+        },
+        {
+          "page": 2,
+          "object_id": "1004",
+          "fully_off_canvas": true
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    }
+  ],
+  "state_contracts": [
+    {
+      "page": 1,
+      "state_index": 1,
+      "name": "双半THANKS字孔揭幕结尾：状态1",
+      "requires_previous_state": false,
+      "state_sequence_locked": true
+    },
+    {
+      "page": 2,
+      "state_index": 2,
+      "name": "双半THANKS字孔揭幕结尾：状态2",
+      "requires_previous_state": true,
+      "state_sequence_locked": true
+    }
+  ],
+  "native_timing_fingerprints": [
+    {
+      "part": "ppt/slides/slide1.xml",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "part": "ppt/slides/slide2.xml",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  ],
+  "binding_rule": "Keep object identity, run count and complete ordered state chain; table_cell uses zero-based [row,column]. Result labels and native spin angles must be changed together through a geometry-aware recipe, not by text-only replacement."
+}

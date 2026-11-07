@@ -1,0 +1,6 @@
+interface:
+  display_name: "映序 PPT"
+  short_description: "从资料建立大纲，调用已验证原生动画组件制作可编辑演示并复核衔接"
+  default_prompt: "使用 $ppt-motion-kit 读取我的资料，先给出大纲和视觉样图，再选择已验证组件制作动画PPT。"
+policy:
+  allow_implicit_invocation: true

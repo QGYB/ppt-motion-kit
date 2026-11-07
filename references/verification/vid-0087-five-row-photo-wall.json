@@ -1,0 +1,61 @@
+{
+  "module_id": "vid-0087-five-row-photo-wall",
+  "native_package_sha256": "bf8856716fe190b3342c87445765a0d7c8e54be06740af7c15435a063d3fe464",
+  "software": "WPS Presentation",
+  "source_verification": {
+    "native_package_extracted": false,
+    "native_component_constructed": true,
+    "source_full_reviewed": true,
+    "package_integrity_checked": true,
+    "font_and_content_bindings_checked": true,
+    "native_component_playback_verified": true,
+    "whole_composition_playback_verified": false,
+    "new_content_playback_verified": true,
+    "user_accepted_revision": false,
+    "scope": "40图槽5行倾斜分组，奇偶反向直线路径10秒自动翻转并重复，5色标褐色蒙版和固定文案/KPI; new-content invocation preserves native mechanism; cross-module interfaces not accepted",
+    "target_software": "WPS Presentation",
+    "playback_evidence": "[local evidence path omitted]",
+    "boundaries_captured": 0,
+    "static_visual_review": "All source states inspected through rendered views and stable-state contact sheets; original video assets and unknown fields are not asserted as reconstructed.",
+    "source_timing_unknowns_retained": true,
+    "source_full_video_reproduced": false,
+    "new_content_call_evidence": "[local evidence path omitted]",
+    "new_content_playback_evidence": "[local evidence path omitted]"
+  },
+  "new_content_call": {
+    "index": 87,
+    "file": "[local evidence path omitted]",
+    "pptx_sha256": "d476175ad7ba023af7dcd67b54c7c9c6eb7093dbc3b980f1ab45c3fb656564f9",
+    "recording": "[local evidence path omitted]",
+    "recording_sha256": "bd3b7a878b3809dc9a66a165418326119bdabf092f8e1acbae1fd15c8ff2ded9",
+    "page_order": [
+      1
+    ],
+    "all_encoded_frames_decoded": true,
+    "encoded_frames": 1722,
+    "duration_s": 28.7,
+    "events_s": [
+      0.14914798736572266
+    ],
+    "viewport_crop": [
+      0,
+      40,
+      1280,
+      720
+    ],
+    "capture_scope": "WindowsGraphicsCapture_exact_verified_owned_HWND_client",
+    "native_visual_metrics": {
+      "duration_field_s": 10,
+      "outbound_vs_endpoint_mae": 53.580414312617705,
+      "nominal_return_mae": 39.443627118644066,
+      "nominal_next_cycle_mae": 33.177634651600755,
+      "cycle_scope": "The XML duration is a source field; MAE at nominal times is diagnostic only. Use observed flow reversals to confirm the actual target-software return and next-cycle start. Arbitrary leave/reentry and endless runtime are unverified."
+    },
+    "manual_visual_review_complete": false,
+    "user_accepted": false,
+    "review_method": "All stable states and dense temporal sheets of every boundary; complete file decoded. These artifacts are not an independent full real-time human watch."
+  },
+  "source_receipt_sha256": "d526f9f5298fa86ca6be7cdc6f8169323d8496a65c6235eb5bc86ed3ffe65137",
+  "scope": "历史实播记录摘要；不包含原录像或截图。新稿须另行实播。",
+  "user_acceptance_inherited": false
+}

@@ -1,0 +1,2238 @@
+{
+  "module_id": "vid-0369-five-step-cards",
+  "slide_size_emu": [
+    12192000,
+    6858000
+  ],
+  "text_slots": [
+    {
+      "page": 1,
+      "object_id": "1000",
+      "object_name": "!!intro-title",
+      "expected_text": "人才培养五个步骤",
+      "runs": [
+        "人才培养",
+        "五个步骤"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 742950,
+        "y": 1504950,
+        "cx": 6477000,
+        "cy": 1905000
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1001",
+      "object_name": "!!intro-copy",
+      "expected_text": "先说明步骤和目标，再按次序展开每一步只呈现当前主题的关键内容",
+      "runs": [
+        "先说明步骤和目标，再按次序展开",
+        "每一步只呈现当前主题的关键内容"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 781050,
+        "y": 4010025,
+        "cx": 6381750,
+        "cy": 1266825
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1005",
+      "object_name": "!!card-0-number",
+      "expected_text": "01",
+      "runs": [
+        "01"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 8610600,
+        "y": 590550,
+        "cx": 323850,
+        "cy": 361950
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1006",
+      "object_name": "!!card-0-label",
+      "expected_text": "识别和吸纳人才",
+      "runs": [
+        "识",
+        "别",
+        "和",
+        "吸",
+        "纳",
+        "人",
+        "才"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 8629650,
+        "y": 1219200,
+        "cx": 285750,
+        "cy": 4476750
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1010",
+      "object_name": "!!card-1-number",
+      "expected_text": "02",
+      "runs": [
+        "02"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 9372600,
+        "y": 590550,
+        "cx": 323850,
+        "cy": 361950
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1011",
+      "object_name": "!!card-1-label",
+      "expected_text": "建立培训计划",
+      "runs": [
+        "建",
+        "立",
+        "培",
+        "训",
+        "计",
+        "划"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 9391650,
+        "y": 1219200,
+        "cx": 285750,
+        "cy": 4476750
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1015",
+      "object_name": "!!card-2-number",
+      "expected_text": "03",
+      "runs": [
+        "03"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 10134600,
+        "y": 590550,
+        "cx": 323850,
+        "cy": 361950
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1016",
+      "object_name": "!!card-2-label",
+      "expected_text": "导师与跨部门交流",
+      "runs": [
+        "导",
+        "师",
+        "与",
+        "跨",
+        "部",
+        "门",
+        "交",
+        "流"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 10153650,
+        "y": 1219200,
+        "cx": 285750,
+        "cy": 4476750
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1020",
+      "object_name": "!!card-3-number",
+      "expected_text": "04",
+      "runs": [
+        "04"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 10896600,
+        "y": 590550,
+        "cx": 323850,
+        "cy": 361950
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1021",
+      "object_name": "!!card-3-label",
+      "expected_text": "创新思维与解题",
+      "runs": [
+        "创",
+        "新",
+        "思",
+        "维",
+        "与",
+        "解",
+        "题"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 10915650,
+        "y": 1219200,
+        "cx": 285750,
+        "cy": 4476750
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1025",
+      "object_name": "!!card-4-number",
+      "expected_text": "05",
+      "runs": [
+        "05"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 11658600,
+        "y": 590550,
+        "cx": 323850,
+        "cy": 361950
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1026",
+      "object_name": "!!card-4-label",
+      "expected_text": "职业规划与激励",
+      "runs": [
+        "职",
+        "业",
+        "规",
+        "划",
+        "与",
+        "激",
+        "励"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 11677650,
+        "y": 1219200,
+        "cx": 285750,
+        "cy": 4476750
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1005",
+      "object_name": "!!card-0-number",
+      "expected_text": "01",
+      "runs": [
+        "01"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 228600,
+        "y": 590550,
+        "cx": 323850,
+        "cy": 361950
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1006",
+      "object_name": "!!card-0-label",
+      "expected_text": "识别和吸纳人才",
+      "runs": [
+        "识",
+        "别",
+        "和",
+        "吸",
+        "纳",
+        "人",
+        "才"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 247650,
+        "y": 1219200,
+        "cx": 285750,
+        "cy": 4476750
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1032",
+      "object_name": "!!body-0-title",
+      "expected_text": "识别和吸纳人才",
+      "runs": [
+        "识别和吸纳人才"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 1381125,
+        "y": 1238250,
+        "cx": 6905625,
+        "cy": 904875
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1033",
+      "object_name": "!!body-0-copy",
+      "expected_text": "在此填写这一阶段的核心任务用讲稿中的材料解释具体做法保留对应的依据、结果与行动",
+      "runs": [
+        "在此填写这一阶段的核心任务",
+        "用讲稿中的材料解释具体做法",
+        "保留对应的依据、结果与行动"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 1400175,
+        "y": 2657475,
+        "cx": 6905625,
+        "cy": 1676400
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1035",
+      "object_name": "!!body-0-capsule-label-0",
+      "expected_text": "明确目标",
+      "runs": [
+        "明确目标"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 1543050,
+        "y": 4705350,
+        "cx": 2647950,
+        "cy": 381000
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1037",
+      "object_name": "!!body-0-capsule-label-1",
+      "expected_text": "制定计划",
+      "runs": [
+        "制定计划"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4876800,
+        "y": 4705350,
+        "cx": 2647950,
+        "cy": 381000
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1039",
+      "object_name": "!!body-0-capsule-label-2",
+      "expected_text": "分配资源",
+      "runs": [
+        "分配资源"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 1543050,
+        "y": 5353050,
+        "cx": 2647950,
+        "cy": 381000
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1041",
+      "object_name": "!!body-0-capsule-label-3",
+      "expected_text": "评估反馈",
+      "runs": [
+        "评估反馈"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4876800,
+        "y": 5353050,
+        "cx": 2647950,
+        "cy": 381000
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1010",
+      "object_name": "!!card-1-number",
+      "expected_text": "02",
+      "runs": [
+        "02"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 9372600,
+        "y": 590550,
+        "cx": 323850,
+        "cy": 361950
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1011",
+      "object_name": "!!card-1-label",
+      "expected_text": "建立培训计划",
+      "runs": [
+        "建",
+        "立",
+        "培",
+        "训",
+        "计",
+        "划"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 9391650,
+        "y": 1219200,
+        "cx": 285750,
+        "cy": 4476750
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1015",
+      "object_name": "!!card-2-number",
+      "expected_text": "03",
+      "runs": [
+        "03"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 10134600,
+        "y": 590550,
+        "cx": 323850,
+        "cy": 361950
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1016",
+      "object_name": "!!card-2-label",
+      "expected_text": "导师与跨部门交流",
+      "runs": [
+        "导",
+        "师",
+        "与",
+        "跨",
+        "部",
+        "门",
+        "交",
+        "流"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 10153650,
+        "y": 1219200,
+        "cx": 285750,
+        "cy": 4476750
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1020",
+      "object_name": "!!card-3-number",
+      "expected_text": "04",
+      "runs": [
+        "04"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 10896600,
+        "y": 590550,
+        "cx": 323850,
+        "cy": 361950
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1021",
+      "object_name": "!!card-3-label",
+      "expected_text": "创新思维与解题",
+      "runs": [
+        "创",
+        "新",
+        "思",
+        "维",
+        "与",
+        "解",
+        "题"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 10915650,
+        "y": 1219200,
+        "cx": 285750,
+        "cy": 4476750
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1025",
+      "object_name": "!!card-4-number",
+      "expected_text": "05",
+      "runs": [
+        "05"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 11658600,
+        "y": 590550,
+        "cx": 323850,
+        "cy": 361950
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "1026",
+      "object_name": "!!card-4-label",
+      "expected_text": "职业规划与激励",
+      "runs": [
+        "职",
+        "业",
+        "规",
+        "划",
+        "与",
+        "激",
+        "励"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 11677650,
+        "y": 1219200,
+        "cx": 285750,
+        "cy": 4476750
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1005",
+      "object_name": "!!card-0-number",
+      "expected_text": "01",
+      "runs": [
+        "01"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 228600,
+        "y": 590550,
+        "cx": 323850,
+        "cy": 361950
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1006",
+      "object_name": "!!card-0-label",
+      "expected_text": "识别和吸纳人才",
+      "runs": [
+        "识",
+        "别",
+        "和",
+        "吸",
+        "纳",
+        "人",
+        "才"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 247650,
+        "y": 1219200,
+        "cx": 285750,
+        "cy": 4476750
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1010",
+      "object_name": "!!card-1-number",
+      "expected_text": "02",
+      "runs": [
+        "02"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 228600,
+        "y": 590550,
+        "cx": 323850,
+        "cy": 361950
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1011",
+      "object_name": "!!card-1-label",
+      "expected_text": "建立培训计划",
+      "runs": [
+        "建",
+        "立",
+        "培",
+        "训",
+        "计",
+        "划"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 247650,
+        "y": 1219200,
+        "cx": 285750,
+        "cy": 4476750
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1042",
+      "object_name": "!!body-1-title",
+      "expected_text": "建立培训计划",
+      "runs": [
+        "建立培训计划"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 1381125,
+        "y": 1238250,
+        "cx": 6905625,
+        "cy": 904875
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1043",
+      "object_name": "!!body-1-copy",
+      "expected_text": "在此填写这一阶段的核心任务用讲稿中的材料解释具体做法保留对应的依据、结果与行动",
+      "runs": [
+        "在此填写这一阶段的核心任务",
+        "用讲稿中的材料解释具体做法",
+        "保留对应的依据、结果与行动"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 1400175,
+        "y": 2657475,
+        "cx": 6905625,
+        "cy": 1676400
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1045",
+      "object_name": "!!body-1-capsule-label-0",
+      "expected_text": "明确目标",
+      "runs": [
+        "明确目标"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 1543050,
+        "y": 4705350,
+        "cx": 2647950,
+        "cy": 381000
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1047",
+      "object_name": "!!body-1-capsule-label-1",
+      "expected_text": "制定计划",
+      "runs": [
+        "制定计划"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4876800,
+        "y": 4705350,
+        "cx": 2647950,
+        "cy": 381000
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1049",
+      "object_name": "!!body-1-capsule-label-2",
+      "expected_text": "分配资源",
+      "runs": [
+        "分配资源"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 1543050,
+        "y": 5353050,
+        "cx": 2647950,
+        "cy": 381000
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1051",
+      "object_name": "!!body-1-capsule-label-3",
+      "expected_text": "评估反馈",
+      "runs": [
+        "评估反馈"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4876800,
+        "y": 5353050,
+        "cx": 2647950,
+        "cy": 381000
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1015",
+      "object_name": "!!card-2-number",
+      "expected_text": "03",
+      "runs": [
+        "03"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 10134600,
+        "y": 590550,
+        "cx": 323850,
+        "cy": 361950
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1016",
+      "object_name": "!!card-2-label",
+      "expected_text": "导师与跨部门交流",
+      "runs": [
+        "导",
+        "师",
+        "与",
+        "跨",
+        "部",
+        "门",
+        "交",
+        "流"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 10153650,
+        "y": 1219200,
+        "cx": 285750,
+        "cy": 4476750
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1020",
+      "object_name": "!!card-3-number",
+      "expected_text": "04",
+      "runs": [
+        "04"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 10896600,
+        "y": 590550,
+        "cx": 323850,
+        "cy": 361950
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1021",
+      "object_name": "!!card-3-label",
+      "expected_text": "创新思维与解题",
+      "runs": [
+        "创",
+        "新",
+        "思",
+        "维",
+        "与",
+        "解",
+        "题"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 10915650,
+        "y": 1219200,
+        "cx": 285750,
+        "cy": 4476750
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1025",
+      "object_name": "!!card-4-number",
+      "expected_text": "05",
+      "runs": [
+        "05"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 11658600,
+        "y": 590550,
+        "cx": 323850,
+        "cy": 361950
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "1026",
+      "object_name": "!!card-4-label",
+      "expected_text": "职业规划与激励",
+      "runs": [
+        "职",
+        "业",
+        "规",
+        "划",
+        "与",
+        "激",
+        "励"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 11677650,
+        "y": 1219200,
+        "cx": 285750,
+        "cy": 4476750
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1005",
+      "object_name": "!!card-0-number",
+      "expected_text": "01",
+      "runs": [
+        "01"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 228600,
+        "y": 590550,
+        "cx": 323850,
+        "cy": 361950
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1006",
+      "object_name": "!!card-0-label",
+      "expected_text": "识别和吸纳人才",
+      "runs": [
+        "识",
+        "别",
+        "和",
+        "吸",
+        "纳",
+        "人",
+        "才"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 247650,
+        "y": 1219200,
+        "cx": 285750,
+        "cy": 4476750
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1010",
+      "object_name": "!!card-1-number",
+      "expected_text": "02",
+      "runs": [
+        "02"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 228600,
+        "y": 590550,
+        "cx": 323850,
+        "cy": 361950
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1011",
+      "object_name": "!!card-1-label",
+      "expected_text": "建立培训计划",
+      "runs": [
+        "建",
+        "立",
+        "培",
+        "训",
+        "计",
+        "划"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 247650,
+        "y": 1219200,
+        "cx": 285750,
+        "cy": 4476750
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1015",
+      "object_name": "!!card-2-number",
+      "expected_text": "03",
+      "runs": [
+        "03"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 228600,
+        "y": 590550,
+        "cx": 323850,
+        "cy": 361950
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1016",
+      "object_name": "!!card-2-label",
+      "expected_text": "导师与跨部门交流",
+      "runs": [
+        "导",
+        "师",
+        "与",
+        "跨",
+        "部",
+        "门",
+        "交",
+        "流"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 247650,
+        "y": 1219200,
+        "cx": 285750,
+        "cy": 4476750
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1052",
+      "object_name": "!!body-2-title",
+      "expected_text": "导师与跨部门交流",
+      "runs": [
+        "导师与跨部门交流"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 1381125,
+        "y": 1238250,
+        "cx": 6905625,
+        "cy": 904875
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1053",
+      "object_name": "!!body-2-copy",
+      "expected_text": "在此填写这一阶段的核心任务用讲稿中的材料解释具体做法保留对应的依据、结果与行动",
+      "runs": [
+        "在此填写这一阶段的核心任务",
+        "用讲稿中的材料解释具体做法",
+        "保留对应的依据、结果与行动"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 1400175,
+        "y": 2657475,
+        "cx": 6905625,
+        "cy": 1676400
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1055",
+      "object_name": "!!body-2-capsule-label-0",
+      "expected_text": "明确目标",
+      "runs": [
+        "明确目标"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 1543050,
+        "y": 4705350,
+        "cx": 2647950,
+        "cy": 381000
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1057",
+      "object_name": "!!body-2-capsule-label-1",
+      "expected_text": "制定计划",
+      "runs": [
+        "制定计划"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4876800,
+        "y": 4705350,
+        "cx": 2647950,
+        "cy": 381000
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1059",
+      "object_name": "!!body-2-capsule-label-2",
+      "expected_text": "分配资源",
+      "runs": [
+        "分配资源"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 1543050,
+        "y": 5353050,
+        "cx": 2647950,
+        "cy": 381000
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1061",
+      "object_name": "!!body-2-capsule-label-3",
+      "expected_text": "评估反馈",
+      "runs": [
+        "评估反馈"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4876800,
+        "y": 5353050,
+        "cx": 2647950,
+        "cy": 381000
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1020",
+      "object_name": "!!card-3-number",
+      "expected_text": "04",
+      "runs": [
+        "04"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 10896600,
+        "y": 590550,
+        "cx": 323850,
+        "cy": 361950
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1021",
+      "object_name": "!!card-3-label",
+      "expected_text": "创新思维与解题",
+      "runs": [
+        "创",
+        "新",
+        "思",
+        "维",
+        "与",
+        "解",
+        "题"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 10915650,
+        "y": 1219200,
+        "cx": 285750,
+        "cy": 4476750
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1025",
+      "object_name": "!!card-4-number",
+      "expected_text": "05",
+      "runs": [
+        "05"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 11658600,
+        "y": 590550,
+        "cx": 323850,
+        "cy": 361950
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "1026",
+      "object_name": "!!card-4-label",
+      "expected_text": "职业规划与激励",
+      "runs": [
+        "职",
+        "业",
+        "规",
+        "划",
+        "与",
+        "激",
+        "励"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 11677650,
+        "y": 1219200,
+        "cx": 285750,
+        "cy": 4476750
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1005",
+      "object_name": "!!card-0-number",
+      "expected_text": "01",
+      "runs": [
+        "01"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 228600,
+        "y": 590550,
+        "cx": 323850,
+        "cy": 361950
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1006",
+      "object_name": "!!card-0-label",
+      "expected_text": "识别和吸纳人才",
+      "runs": [
+        "识",
+        "别",
+        "和",
+        "吸",
+        "纳",
+        "人",
+        "才"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 247650,
+        "y": 1219200,
+        "cx": 285750,
+        "cy": 4476750
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1010",
+      "object_name": "!!card-1-number",
+      "expected_text": "02",
+      "runs": [
+        "02"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 228600,
+        "y": 590550,
+        "cx": 323850,
+        "cy": 361950
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1011",
+      "object_name": "!!card-1-label",
+      "expected_text": "建立培训计划",
+      "runs": [
+        "建",
+        "立",
+        "培",
+        "训",
+        "计",
+        "划"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 247650,
+        "y": 1219200,
+        "cx": 285750,
+        "cy": 4476750
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1015",
+      "object_name": "!!card-2-number",
+      "expected_text": "03",
+      "runs": [
+        "03"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 228600,
+        "y": 590550,
+        "cx": 323850,
+        "cy": 361950
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1016",
+      "object_name": "!!card-2-label",
+      "expected_text": "导师与跨部门交流",
+      "runs": [
+        "导",
+        "师",
+        "与",
+        "跨",
+        "部",
+        "门",
+        "交",
+        "流"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 247650,
+        "y": 1219200,
+        "cx": 285750,
+        "cy": 4476750
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1020",
+      "object_name": "!!card-3-number",
+      "expected_text": "04",
+      "runs": [
+        "04"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 228600,
+        "y": 590550,
+        "cx": 323850,
+        "cy": 361950
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1021",
+      "object_name": "!!card-3-label",
+      "expected_text": "创新思维与解题",
+      "runs": [
+        "创",
+        "新",
+        "思",
+        "维",
+        "与",
+        "解",
+        "题"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 247650,
+        "y": 1219200,
+        "cx": 285750,
+        "cy": 4476750
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1062",
+      "object_name": "!!body-3-title",
+      "expected_text": "创新思维与解题",
+      "runs": [
+        "创新思维与解题"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 1381125,
+        "y": 1238250,
+        "cx": 6905625,
+        "cy": 904875
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1063",
+      "object_name": "!!body-3-copy",
+      "expected_text": "在此填写这一阶段的核心任务用讲稿中的材料解释具体做法保留对应的依据、结果与行动",
+      "runs": [
+        "在此填写这一阶段的核心任务",
+        "用讲稿中的材料解释具体做法",
+        "保留对应的依据、结果与行动"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 1400175,
+        "y": 2657475,
+        "cx": 6905625,
+        "cy": 1676400
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1065",
+      "object_name": "!!body-3-capsule-label-0",
+      "expected_text": "明确目标",
+      "runs": [
+        "明确目标"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 1543050,
+        "y": 4705350,
+        "cx": 2647950,
+        "cy": 381000
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1067",
+      "object_name": "!!body-3-capsule-label-1",
+      "expected_text": "制定计划",
+      "runs": [
+        "制定计划"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4876800,
+        "y": 4705350,
+        "cx": 2647950,
+        "cy": 381000
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1069",
+      "object_name": "!!body-3-capsule-label-2",
+      "expected_text": "分配资源",
+      "runs": [
+        "分配资源"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 1543050,
+        "y": 5353050,
+        "cx": 2647950,
+        "cy": 381000
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1071",
+      "object_name": "!!body-3-capsule-label-3",
+      "expected_text": "评估反馈",
+      "runs": [
+        "评估反馈"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4876800,
+        "y": 5353050,
+        "cx": 2647950,
+        "cy": 381000
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1025",
+      "object_name": "!!card-4-number",
+      "expected_text": "05",
+      "runs": [
+        "05"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 11658600,
+        "y": 590550,
+        "cx": 323850,
+        "cy": 361950
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "1026",
+      "object_name": "!!card-4-label",
+      "expected_text": "职业规划与激励",
+      "runs": [
+        "职",
+        "业",
+        "规",
+        "划",
+        "与",
+        "激",
+        "励"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 11677650,
+        "y": 1219200,
+        "cx": 285750,
+        "cy": 4476750
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1005",
+      "object_name": "!!card-0-number",
+      "expected_text": "01",
+      "runs": [
+        "01"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 228600,
+        "y": 590550,
+        "cx": 323850,
+        "cy": 361950
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1006",
+      "object_name": "!!card-0-label",
+      "expected_text": "识别和吸纳人才",
+      "runs": [
+        "识",
+        "别",
+        "和",
+        "吸",
+        "纳",
+        "人",
+        "才"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 247650,
+        "y": 1219200,
+        "cx": 285750,
+        "cy": 4476750
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1010",
+      "object_name": "!!card-1-number",
+      "expected_text": "02",
+      "runs": [
+        "02"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 228600,
+        "y": 590550,
+        "cx": 323850,
+        "cy": 361950
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1011",
+      "object_name": "!!card-1-label",
+      "expected_text": "建立培训计划",
+      "runs": [
+        "建",
+        "立",
+        "培",
+        "训",
+        "计",
+        "划"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 247650,
+        "y": 1219200,
+        "cx": 285750,
+        "cy": 4476750
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1015",
+      "object_name": "!!card-2-number",
+      "expected_text": "03",
+      "runs": [
+        "03"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 228600,
+        "y": 590550,
+        "cx": 323850,
+        "cy": 361950
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1016",
+      "object_name": "!!card-2-label",
+      "expected_text": "导师与跨部门交流",
+      "runs": [
+        "导",
+        "师",
+        "与",
+        "跨",
+        "部",
+        "门",
+        "交",
+        "流"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 247650,
+        "y": 1219200,
+        "cx": 285750,
+        "cy": 4476750
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1020",
+      "object_name": "!!card-3-number",
+      "expected_text": "04",
+      "runs": [
+        "04"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 228600,
+        "y": 590550,
+        "cx": 323850,
+        "cy": 361950
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1021",
+      "object_name": "!!card-3-label",
+      "expected_text": "创新思维与解题",
+      "runs": [
+        "创",
+        "新",
+        "思",
+        "维",
+        "与",
+        "解",
+        "题"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 247650,
+        "y": 1219200,
+        "cx": 285750,
+        "cy": 4476750
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1025",
+      "object_name": "!!card-4-number",
+      "expected_text": "05",
+      "runs": [
+        "05"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 228600,
+        "y": 590550,
+        "cx": 323850,
+        "cy": 361950
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1026",
+      "object_name": "!!card-4-label",
+      "expected_text": "职业规划与激励",
+      "runs": [
+        "职",
+        "业",
+        "规",
+        "划",
+        "与",
+        "激",
+        "励"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 247650,
+        "y": 1219200,
+        "cx": 285750,
+        "cy": 4476750
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1072",
+      "object_name": "!!body-4-title",
+      "expected_text": "职业规划与激励",
+      "runs": [
+        "职业规划与激励"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 1381125,
+        "y": 1238250,
+        "cx": 6905625,
+        "cy": 904875
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1073",
+      "object_name": "!!body-4-copy",
+      "expected_text": "在此填写这一阶段的核心任务用讲稿中的材料解释具体做法保留对应的依据、结果与行动",
+      "runs": [
+        "在此填写这一阶段的核心任务",
+        "用讲稿中的材料解释具体做法",
+        "保留对应的依据、结果与行动"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 1400175,
+        "y": 2657475,
+        "cx": 6905625,
+        "cy": 1676400
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1075",
+      "object_name": "!!body-4-capsule-label-0",
+      "expected_text": "明确目标",
+      "runs": [
+        "明确目标"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 1543050,
+        "y": 4705350,
+        "cx": 2647950,
+        "cy": 381000
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1077",
+      "object_name": "!!body-4-capsule-label-1",
+      "expected_text": "制定计划",
+      "runs": [
+        "制定计划"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4876800,
+        "y": 4705350,
+        "cx": 2647950,
+        "cy": 381000
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1079",
+      "object_name": "!!body-4-capsule-label-2",
+      "expected_text": "分配资源",
+      "runs": [
+        "分配资源"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 1543050,
+        "y": 5353050,
+        "cx": 2647950,
+        "cy": 381000
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1081",
+      "object_name": "!!body-4-capsule-label-3",
+      "expected_text": "评估反馈",
+      "runs": [
+        "评估反馈"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4876800,
+        "y": 5353050,
+        "cx": 2647950,
+        "cy": 381000
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "1083",
+      "object_name": "!!body-4-capsule-label-4",
+      "expected_text": "提供发展机会",
+      "runs": [
+        "提供发展机会"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 1543050,
+        "y": 6000750,
+        "cx": 2647950,
+        "cy": 381000
+      },
+      "fully_off_canvas": false
+    }
+  ],
+  "table_cell_slots": [],
+  "media_parts": [],
+  "image_usage": [],
+  "repeat_bindings": [
+    {
+      "entity_name": "!!card-0-number",
+      "table_cell": null,
+      "expected_text": "01",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1005",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1005",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1005",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1005",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 5,
+          "object_id": "1005",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 6,
+          "object_id": "1005",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!card-0-label",
+      "table_cell": null,
+      "expected_text": "识别和吸纳人才",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1006",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1006",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1006",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1006",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 5,
+          "object_id": "1006",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 6,
+          "object_id": "1006",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!card-1-number",
+      "table_cell": null,
+      "expected_text": "02",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1010",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1010",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1010",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1010",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 5,
+          "object_id": "1010",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 6,
+          "object_id": "1010",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!card-1-label",
+      "table_cell": null,
+      "expected_text": "建立培训计划",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1011",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1011",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1011",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1011",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 5,
+          "object_id": "1011",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 6,
+          "object_id": "1011",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!card-2-number",
+      "table_cell": null,
+      "expected_text": "03",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1015",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1015",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1015",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1015",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 5,
+          "object_id": "1015",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 6,
+          "object_id": "1015",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!card-2-label",
+      "table_cell": null,
+      "expected_text": "导师与跨部门交流",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1016",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1016",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1016",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1016",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 5,
+          "object_id": "1016",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 6,
+          "object_id": "1016",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!card-3-number",
+      "table_cell": null,
+      "expected_text": "04",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1020",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1020",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1020",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1020",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 5,
+          "object_id": "1020",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 6,
+          "object_id": "1020",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!card-3-label",
+      "table_cell": null,
+      "expected_text": "创新思维与解题",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1021",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1021",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1021",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1021",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 5,
+          "object_id": "1021",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 6,
+          "object_id": "1021",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!card-4-number",
+      "table_cell": null,
+      "expected_text": "05",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1025",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1025",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1025",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1025",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 5,
+          "object_id": "1025",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 6,
+          "object_id": "1025",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    },
+    {
+      "entity_name": "!!card-4-label",
+      "table_cell": null,
+      "expected_text": "职业规划与激励",
+      "slots": [
+        {
+          "page": 1,
+          "object_id": "1026",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 2,
+          "object_id": "1026",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 3,
+          "object_id": "1026",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 4,
+          "object_id": "1026",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 5,
+          "object_id": "1026",
+          "fully_off_canvas": false
+        },
+        {
+          "page": 6,
+          "object_id": "1026",
+          "fully_off_canvas": false
+        }
+      ],
+      "rule": "Synchronize this named entity across states; identical placeholder wording in other named entities is not proof they share content."
+    }
+  ],
+  "state_contracts": [
+    {
+      "page": 1,
+      "state_index": 1,
+      "name": "五步骤圆角卡从右候场逐页左抽：状态1",
+      "requires_previous_state": false,
+      "state_sequence_locked": true
+    },
+    {
+      "page": 2,
+      "state_index": 2,
+      "name": "五步骤圆角卡从右候场逐页左抽：状态2",
+      "requires_previous_state": true,
+      "state_sequence_locked": true
+    },
+    {
+      "page": 3,
+      "state_index": 3,
+      "name": "五步骤圆角卡从右候场逐页左抽：状态3",
+      "requires_previous_state": true,
+      "state_sequence_locked": true
+    },
+    {
+      "page": 4,
+      "state_index": 4,
+      "name": "五步骤圆角卡从右候场逐页左抽：状态4",
+      "requires_previous_state": true,
+      "state_sequence_locked": true
+    },
+    {
+      "page": 5,
+      "state_index": 5,
+      "name": "五步骤圆角卡从右候场逐页左抽：状态5",
+      "requires_previous_state": true,
+      "state_sequence_locked": true
+    },
+    {
+      "page": 6,
+      "state_index": 6,
+      "name": "五步骤圆角卡从右候场逐页左抽：状态6",
+      "requires_previous_state": true,
+      "state_sequence_locked": true
+    }
+  ],
+  "native_timing_fingerprints": [
+    {
+      "part": "ppt/slides/slide1.xml",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "part": "ppt/slides/slide2.xml",
+      "sha256": "41ce7d7eae4233712f835e7d24b782ac1bffe3974e1b7c6617cbb468059b508c"
+    },
+    {
+      "part": "ppt/slides/slide3.xml",
+      "sha256": "ce5a7ba33db9928077f9773d7d17c917b7bb07828da3349b3ccc0589d8b71547"
+    },
+    {
+      "part": "ppt/slides/slide4.xml",
+      "sha256": "efcd568c83c14eaae23bed5e7e4b7e92b66fde8f0f5ce39e709820fefef7560a"
+    },
+    {
+      "part": "ppt/slides/slide5.xml",
+      "sha256": "e52014c4b0106bd941b50fc7aeeb6fba2fc4f2403af44de8b215086604fef7ab"
+    },
+    {
+      "part": "ppt/slides/slide6.xml",
+      "sha256": "d927de094b83ed90c5badd68850eb75fb80e3d558d791578565540dbcc203923"
+    }
+  ],
+  "binding_rule": "Keep object identity, run count and complete ordered state chain; table_cell uses zero-based [row,column]. Result labels and native spin angles must be changed together through a geometry-aware recipe, not by text-only replacement."
+}

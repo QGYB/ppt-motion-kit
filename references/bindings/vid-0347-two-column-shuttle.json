@@ -1,0 +1,184 @@
+{
+  "module_id": "vid-0347-two-column-shuttle",
+  "slide_size_emu": [
+    12192000,
+    6858000
+  ],
+  "text_slots": [
+    {
+      "page": 1,
+      "object_id": "1010",
+      "object_name": "!!chapter",
+      "expected_text": "PART ONE  /  图文展示",
+      "runs": [
+        "PART ONE  /  图文展示"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 619125,
+        "y": 685800,
+        "cx": 4762500,
+        "cy": 438150
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1011",
+      "object_name": "!!title",
+      "expected_text": "多图片排版",
+      "runs": [
+        "多图片排版"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 619125,
+        "y": 2124075,
+        "cx": 4762500,
+        "cy": 800100
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 1,
+      "object_id": "1012",
+      "object_name": "!!explanation",
+      "expected_text": "图片按两列分别往返说明文字保持在固定读区可按资料替换十个图片槽位",
+      "runs": [
+        "图片按两列分别往返",
+        "说明文字保持在固定读区",
+        "可按资料替换十个图片槽位"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 647700,
+        "y": 3248025,
+        "cx": 4286250,
+        "cy": 1428750
+      },
+      "fully_off_canvas": false
+    }
+  ],
+  "table_cell_slots": [],
+  "media_parts": [
+    {
+      "part": "ppt/media/image.jpeg",
+      "bytes": 2576183,
+      "sha256": "1447abc0c1ba1f7390a26523f3a268ba71d1f92b2118b5e40b563f9704502cfc",
+      "use": "background or photo, replace all same-entity states together"
+    },
+    {
+      "part": "ppt/media/image2.jpeg",
+      "bytes": 121310,
+      "sha256": "57d55010e7f7d3854cbea74731a042de393d4610c8878488aacaf2652cbe83f2",
+      "use": "background or photo, replace all same-entity states together"
+    },
+    {
+      "part": "ppt/media/image3.jpeg",
+      "bytes": 3060376,
+      "sha256": "1a20bde815d17845ed23d66731d85a0978938ec5b9085ca61276fb76d54f0a30",
+      "use": "background or photo, replace all same-entity states together"
+    },
+    {
+      "part": "ppt/media/image4.jpeg",
+      "bytes": 4529707,
+      "sha256": "d85e7ba1afb069b8579f17a9a020aeb1cc9a589f9da0d5b8d82b64fd6d9867d3",
+      "use": "background or photo, replace all same-entity states together"
+    },
+    {
+      "part": "ppt/media/image5.jpeg",
+      "bytes": 880578,
+      "sha256": "6f5452ee1cb4dd00bc575288639a77c8fb49267da5f9af0f1fecd65125dc8c70",
+      "use": "background or photo, replace all same-entity states together"
+    }
+  ],
+  "image_usage": [
+    {
+      "page": 1,
+      "object_id": "1000",
+      "object_name": "!!column-0-photo-0",
+      "scope": "native_object",
+      "media_part": "ppt/media/image.jpeg"
+    },
+    {
+      "page": 1,
+      "object_id": "1001",
+      "object_name": "!!column-0-photo-1",
+      "scope": "native_object",
+      "media_part": "ppt/media/image2.jpeg"
+    },
+    {
+      "page": 1,
+      "object_id": "1002",
+      "object_name": "!!column-0-photo-2",
+      "scope": "native_object",
+      "media_part": "ppt/media/image3.jpeg"
+    },
+    {
+      "page": 1,
+      "object_id": "1003",
+      "object_name": "!!column-0-photo-3",
+      "scope": "native_object",
+      "media_part": "ppt/media/image4.jpeg"
+    },
+    {
+      "page": 1,
+      "object_id": "1004",
+      "object_name": "!!column-0-photo-4",
+      "scope": "native_object",
+      "media_part": "ppt/media/image5.jpeg"
+    },
+    {
+      "page": 1,
+      "object_id": "1005",
+      "object_name": "!!column-1-photo-0",
+      "scope": "native_object",
+      "media_part": "ppt/media/image.jpeg"
+    },
+    {
+      "page": 1,
+      "object_id": "1006",
+      "object_name": "!!column-1-photo-1",
+      "scope": "native_object",
+      "media_part": "ppt/media/image2.jpeg"
+    },
+    {
+      "page": 1,
+      "object_id": "1007",
+      "object_name": "!!column-1-photo-2",
+      "scope": "native_object",
+      "media_part": "ppt/media/image3.jpeg"
+    },
+    {
+      "page": 1,
+      "object_id": "1008",
+      "object_name": "!!column-1-photo-3",
+      "scope": "native_object",
+      "media_part": "ppt/media/image4.jpeg"
+    },
+    {
+      "page": 1,
+      "object_id": "1009",
+      "object_name": "!!column-1-photo-4",
+      "scope": "native_object",
+      "media_part": "ppt/media/image5.jpeg"
+    }
+  ],
+  "repeat_bindings": [],
+  "state_contracts": [
+    {
+      "page": 1,
+      "state_index": 1,
+      "name": "双斜列照片反向往返：状态1",
+      "requires_previous_state": false,
+      "state_sequence_locked": false
+    }
+  ],
+  "native_timing_fingerprints": [
+    {
+      "part": "ppt/slides/slide1.xml",
+      "sha256": "9d1690cbdddd2ad0c51950d4bb575925f5684666aea972878358fad94f2427e2"
+    }
+  ],
+  "binding_rule": "Keep object identity, run count and complete ordered state chain; table_cell uses zero-based [row,column]. Result labels and native spin angles must be changed together through a geometry-aware recipe, not by text-only replacement."
+}

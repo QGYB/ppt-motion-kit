@@ -1,0 +1,300 @@
+{
+  "routes": [
+    {
+      "index": 41,
+      "title": "丝滑抽拉多图文轮播PPT",
+      "source_url": "[local evidence path omitted]",
+      "preferred_module_ids": [],
+      "alternative_module_ids": [
+        "vid-0041-pullout-chapters"
+      ],
+      "covered_scope": "四编号横条轮流展开与正文上下交接已有完整原生状态链。",
+      "pending_scope": [
+        "纸条背景填充、固定竖条阴影和照片纵向接力仍需对应；已保留此前41原生组件作为可用替代。"
+      ],
+      "source_template_differences": [
+        "模板横条并非视频的五个真背景填充纸条；图文编组与准备页不同，不能把现有模块声称为整条同款。"
+      ],
+      "source_full_video_reproduced": false
+    },
+    {
+      "index": 83,
+      "title": "导航栏，让你PPT逻辑更清晰！",
+      "source_url": "[local evidence path omitted]",
+      "preferred_module_ids": [],
+      "alternative_module_ids": [
+        "vid-0083-curved-topbar"
+      ],
+      "covered_scope": null,
+      "pending_scope": [],
+      "source_template_differences": [],
+      "source_full_video_reproduced": false
+    },
+    {
+      "index": 87,
+      "title": "超多图片如何排版才高级？",
+      "source_url": "[local evidence path omitted]",
+      "preferred_module_ids": [],
+      "alternative_module_ids": [
+        "vid-0087-five-row-photo-wall"
+      ],
+      "covered_scope": null,
+      "pending_scope": [],
+      "source_template_differences": [],
+      "source_full_video_reproduced": false
+    },
+    {
+      "index": 115,
+      "title": "媲美网页一样丝滑的多图文展示PPT",
+      "source_url": "[local evidence path omitted]",
+      "preferred_module_ids": [],
+      "alternative_module_ids": [
+        "vid-0115-poster-focus"
+      ],
+      "covered_scope": null,
+      "pending_scope": [],
+      "source_template_differences": [],
+      "source_full_video_reproduced": false
+    },
+    {
+      "index": 134,
+      "title": "一分钟用PPT做高端动态企业发展PPT时间轴",
+      "source_url": "[local evidence path omitted]",
+      "preferred_module_ids": [],
+      "alternative_module_ids": [
+        "vid-0134-clock-panorama"
+      ],
+      "covered_scope": null,
+      "pending_scope": [],
+      "source_template_differences": [],
+      "source_full_video_reproduced": false
+    },
+    {
+      "index": 151,
+      "title": "PPT高级的图片抽拉轮播效果",
+      "source_url": "[local evidence path omitted]",
+      "preferred_module_ids": [
+        "tpl-3aa8b6a56a39-p001-006"
+      ],
+      "alternative_module_ids": [],
+      "covered_scope": "五张普通图片保持顺序，当前裁切窗加宽、其他窗收窄，六页含总览及五个焦点。",
+      "pending_scope": [],
+      "source_template_differences": [
+        "原例初始50mm/非焦点30mm等尺寸与模板不同，沿用模板实值，不冒充原例数字完全一致。"
+      ],
+      "source_full_video_reproduced": false
+    },
+    {
+      "index": 182,
+      "title": "PPT文字太多都用这样的丝滑卡片抽拉效果",
+      "source_url": "[local evidence path omitted]",
+      "preferred_module_ids": [],
+      "alternative_module_ids": [
+        "vid-0182-colored-card-pull"
+      ],
+      "covered_scope": null,
+      "pending_scope": [],
+      "source_template_differences": [],
+      "source_full_video_reproduced": false
+    },
+    {
+      "index": 188,
+      "title": "30秒制作发布会级的PPT感谢结尾页",
+      "source_url": "[local evidence path omitted]",
+      "preferred_module_ids": [],
+      "alternative_module_ids": [
+        "vid-0188-thanks-split"
+      ],
+      "covered_scope": null,
+      "pending_scope": [],
+      "source_template_differences": [],
+      "source_full_video_reproduced": false
+    },
+    {
+      "index": 229,
+      "title": "这样的创意花朵绽放PPT目录过渡，我1分钟教会你",
+      "source_url": "[local evidence path omitted]",
+      "preferred_module_ids": [
+        "tpl-81c0a22de0d9-p001-002"
+      ],
+      "alternative_module_ids": [],
+      "covered_scope": "五瓣由重合态展开为同级五项目录，标题由纵向首态接到底部散字终态。",
+      "pending_scope": [],
+      "source_template_differences": [
+        "视频展开角为±20°/±50°；模板为±30°/±60°，本次保留模板原角度和配色。"
+      ],
+      "source_full_video_reproduced": false
+    },
+    {
+      "index": 259,
+      "title": "学会这几招PPT表格再也不怕做得太丑了！",
+      "source_url": "[local evidence path omitted]",
+      "preferred_module_ids": [],
+      "alternative_module_ids": [
+        "vid-0259-row-focus"
+      ],
+      "covered_scope": null,
+      "pending_scope": [],
+      "source_template_differences": [],
+      "source_full_video_reproduced": false
+    },
+    {
+      "index": 271,
+      "title": "工作总结PPT必备的PPT多文字排版模板",
+      "source_url": "[local evidence path omitted]",
+      "preferred_module_ids": [],
+      "alternative_module_ids": [
+        "vid-0271-fold-sidebar"
+      ],
+      "covered_scope": null,
+      "pending_scope": [],
+      "source_template_differences": [],
+      "source_full_video_reproduced": false
+    },
+    {
+      "index": 299,
+      "title": "这样的律动创意PPT时间轴，竟难倒诸多英雄豪杰！",
+      "source_url": "[local evidence path omitted]",
+      "preferred_module_ids": [],
+      "alternative_module_ids": [
+        "vid-0299-rhythmic-timeline"
+      ],
+      "covered_scope": null,
+      "pending_scope": [],
+      "source_template_differences": [],
+      "source_full_video_reproduced": false
+    },
+    {
+      "index": 314,
+      "title": "1分钟教你用PPT做动态加载圆环图表",
+      "source_url": "[local evidence path omitted]",
+      "preferred_module_ids": [],
+      "alternative_module_ids": [
+        "vid-0314-semicircle-spin"
+      ],
+      "covered_scope": null,
+      "pending_scope": [],
+      "source_template_differences": [],
+      "source_full_video_reproduced": false
+    },
+    {
+      "index": 347,
+      "title": "当我拿出这样的PPT多图片循环轮播模板，阁下该如何应对？！",
+      "source_url": "[local evidence path omitted]",
+      "preferred_module_ids": [
+        "tpl-108615410217-p001"
+      ],
+      "alternative_module_ids": [
+        "vid-0347-two-column-shuttle"
+      ],
+      "covered_scope": "两列各5张图片，倾斜排列、相反直线路径、5秒单程、同时开始、自动翻转且重复至页末；固定左侧读区。",
+      "pending_scope": [],
+      "source_template_differences": [
+        "源视频未给精确倾角和行程坐标，使用模板实值并保留来源未知。"
+      ],
+      "source_full_video_reproduced": false
+    },
+    {
+      "index": 354,
+      "title": "PPT文字太多，用上这个分点旋转展示模板，实在太绝了！",
+      "source_url": "[local evidence path omitted]",
+      "preferred_module_ids": [
+        "tpl-b536fd39b8bf-p001-006"
+      ],
+      "alternative_module_ids": [],
+      "covered_scope": "右缘超大背景填充流程图Or形状依次转角；六组正文旧上出、新下入，后5页原生Morph。",
+      "pending_scope": [],
+      "source_template_differences": [
+        "模板字号、署名及照片可能不同；按绑定同步替换，源地点/照片错配不作用户事实。"
+      ],
+      "source_full_video_reproduced": false
+    },
+    {
+      "index": 369,
+      "title": "PPT多文字排版用这个卡片抽拉动画也太酷了！",
+      "source_url": "[local evidence path omitted]",
+      "preferred_module_ids": [],
+      "alternative_module_ids": [
+        "vid-0369-five-step-cards"
+      ],
+      "covered_scope": null,
+      "pending_scope": [],
+      "source_template_differences": [],
+      "source_full_video_reproduced": false
+    },
+    {
+      "index": 388,
+      "title": "1分钟不到，带你用PPT做出创意旋转目录页",
+      "source_url": "[local evidence path omitted]",
+      "preferred_module_ids": [
+        "tpl-82ba298a698f-p001-004"
+      ],
+      "alternative_module_ids": [],
+      "covered_scope": "四页累计目录，带尖角的圆形指示主体转动，文字保持正立，后续三组由右侧画外移入；后3页原生Morph。",
+      "pending_scope": [],
+      "source_template_differences": [
+        "视频持续时长和最终角度数组未知，沿用模板实值。"
+      ],
+      "source_full_video_reproduced": false
+    },
+    {
+      "index": 394,
+      "title": "用PPT做钟表丝滑旋转时间轴/发展历程介绍",
+      "source_url": "[local evidence path omitted]",
+      "preferred_module_ids": [],
+      "alternative_module_ids": [
+        "vid-0394-sixty-tick-clock"
+      ],
+      "covered_scope": null,
+      "pending_scope": [],
+      "source_template_differences": [],
+      "source_full_video_reproduced": false
+    },
+    {
+      "index": 400,
+      "title": "这样的创意旋转时间轴，也太适合做PPT历程发展介绍了！",
+      "source_url": "[local evidence path omitted]",
+      "preferred_module_ids": [
+        "tpl-b1c103bde32f-p001-005"
+      ],
+      "alternative_module_ids": [],
+      "covered_scope": "五节点圆弧组跨页转动，日期对象独立正立移动，旧正文留作灰色参照，新正文从右入位。",
+      "pending_scope": [],
+      "source_template_differences": [
+        "模板提供实际角度和时长；这些不反写成视频已明示参数。"
+      ],
+      "source_full_video_reproduced": false
+    },
+    {
+      "index": 405,
+      "title": "这样做PPT封面，肯定让领导眼前一亮！",
+      "source_url": "[local evidence path omitted]",
+      "preferred_module_ids": [
+        "tpl-b834efe53d2b-p001-brush-eight-glyphs"
+      ],
+      "alternative_module_ids": [],
+      "covered_scope": "六层真背景填充斜片分向滑开、背景独立缩放、八字标题随后淡入；已用原动画粗书体变体换字实播。",
+      "pending_scope": [],
+      "source_template_differences": [
+        "模板标题淡化/影子与源局部数值不同，使用模板原时序；字体替换为用户已选粗书体，几何不动。"
+      ],
+      "source_full_video_reproduced": false
+    },
+    {
+      "index": 411,
+      "title": "这样的PPT图文排版也太有创意了吧！",
+      "source_url": "[local evidence path omitted]",
+      "preferred_module_ids": [
+        "tpl-c8d8436f2f39-p001-005"
+      ],
+      "alternative_module_ids": [],
+      "covered_scope": "五个真背景填充胶囊上下换位，五景跨页Morph并对应固定正文区，保留源第4页额外文字动作。",
+      "pending_scope": [],
+      "source_template_differences": [
+        "源称黑罩T44与阴影61/107/7；模板为渐变暗罩及其他阴影数值，未标作同参数复现。"
+      ],
+      "source_full_video_reproduced": false
+    }
+  ],
+  "whole_418_complete": false
+}

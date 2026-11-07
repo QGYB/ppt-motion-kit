@@ -1,0 +1,728 @@
+{
+  "module_id": "tpl-3aa8b6a56a39-p001-006",
+  "slide_size_emu": [
+    12192000,
+    6858000
+  ],
+  "text_slots": [
+    {
+      "page": 2,
+      "object_id": "5",
+      "object_name": "文本框 4",
+      "expected_text": "碧海蓝天",
+      "runs": [
+        "碧海蓝天"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 484632,
+        "y": 4892040,
+        "cx": 2231136,
+        "cy": 584775
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 2,
+      "object_id": "6",
+      "object_name": "文本框 5",
+      "expected_text": "Blue sea and blue sky",
+      "runs": [
+        "Blue sea and blue sky"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 484632,
+        "y": 5385816,
+        "cx": 3182112,
+        "cy": 369332
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "2",
+      "object_name": "文本框 1",
+      "expected_text": "紫霞烟云",
+      "runs": [
+        "紫霞烟云"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 2276856,
+        "y": 4892040,
+        "cx": 2231136,
+        "cy": 584775
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 3,
+      "object_id": "3",
+      "object_name": "文本框 2",
+      "expected_text": "Purple rosy clouds",
+      "runs": [
+        "Purple rosy clouds"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 2276856,
+        "y": 5385816,
+        "cx": 3182112,
+        "cy": 369332
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "2",
+      "object_name": "文本框 1",
+      "expected_text": "日出东方",
+      "runs": [
+        "日出东方"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 5172456,
+        "y": 4892040,
+        "cx": 2231136,
+        "cy": 584775
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 4,
+      "object_id": "3",
+      "object_name": "文本框 2",
+      "expected_text": "The sun comes up in the east",
+      "runs": [
+        "The sun comes up in the east"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 4282420,
+        "y": 5385816,
+        "cx": 3627160,
+        "cy": 369332
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "2",
+      "object_name": "文本框 1",
+      "expected_text": "沙漠孤岛",
+      "runs": [
+        "沙漠孤岛"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 8094775,
+        "y": 4892040,
+        "cx": 2231136,
+        "cy": 584775
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 5,
+      "object_id": "3",
+      "object_name": "文本框 2",
+      "expected_text": "Desert island",
+      "runs": [
+        "Desert island"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 6723727,
+        "y": 5385816,
+        "cx": 3182112,
+        "cy": 369332
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "2",
+      "object_name": "文本框 1",
+      "expected_text": "雪山之巅",
+      "runs": [
+        "雪山之巅"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 10067954,
+        "y": 4892040,
+        "cx": 2231136,
+        "cy": 584775
+      },
+      "fully_off_canvas": false
+    },
+    {
+      "page": 6,
+      "object_id": "3",
+      "object_name": "文本框 2",
+      "expected_text": "Top of Snow Mountain",
+      "runs": [
+        "Top of Snow Mountain"
+      ],
+      "scope": "slide",
+      "transform": {
+        "x": 8696906,
+        "y": 5385816,
+        "cx": 3182112,
+        "cy": 369332
+      },
+      "fully_off_canvas": false
+    }
+  ],
+  "media_parts": [
+    {
+      "part": "ppt/components_0/media/image2.jpeg",
+      "bytes": 2576183,
+      "sha256": "1447abc0c1ba1f7390a26523f3a268ba71d1f92b2118b5e40b563f9704502cfc"
+    },
+    {
+      "part": "ppt/components_0/media/image1.jpeg",
+      "bytes": 121310,
+      "sha256": "57d55010e7f7d3854cbea74731a042de393d4610c8878488aacaf2652cbe83f2"
+    },
+    {
+      "part": "ppt/components_0/media/image5.jpeg",
+      "bytes": 3060376,
+      "sha256": "1a20bde815d17845ed23d66731d85a0978938ec5b9085ca61276fb76d54f0a30"
+    },
+    {
+      "part": "ppt/components_0/media/image4.jpeg",
+      "bytes": 4529707,
+      "sha256": "d85e7ba1afb069b8579f17a9a020aeb1cc9a589f9da0d5b8d82b64fd6d9867d3"
+    },
+    {
+      "part": "ppt/components_0/media/image3.jpeg",
+      "bytes": 880578,
+      "sha256": "6f5452ee1cb4dd00bc575288639a77c8fb49267da5f9af0f1fecd65125dc8c70"
+    },
+    {
+      "part": "ppt/components_0/media/image6.jpeg",
+      "bytes": 2578612,
+      "sha256": "df99bf6306dd594a7720610c63a703568beb9f04cdcc4538207d62ee07f0c58c"
+    }
+  ],
+  "repeat_bindings": [],
+  "state_contracts": [
+    {
+      "page": 1,
+      "source_page": 1,
+      "name": "五条图窗总览",
+      "information_relation": "同级项聚焦",
+      "source_observation": "五个纵向图窗等宽建立总览，源件本页也有Morph声明；初始短暂暗场保留为实际表现，不视作独立开场设计已验收。",
+      "source_warning": "首轮周期观察；独立复现及新内容应用另验",
+      "timing_groups": [],
+      "source_hidden": false,
+      "source_preview_evidence": {
+        "recording": "[local evidence path omitted]",
+        "playback": "[local evidence path omitted]",
+        "inherited_geometry": "[local evidence path omitted]"
+      }
+    },
+    {
+      "page": 2,
+      "source_page": 2,
+      "name": "五条图窗聚焦·碧海蓝天",
+      "information_relation": "同级项聚焦",
+      "source_observation": "保持全部五图及相对顺序，仅把碧海蓝天扩成当前主读区，其他四图压窄；源顺序海、云、日出、沙漠、雪山。底部短题随焦点更替，没有原生相机或真实点击导航。",
+      "source_warning": "首轮周期观察；独立复现及新内容应用另验",
+      "timing_groups": [],
+      "source_hidden": false,
+      "source_preview_evidence": {
+        "recording": "[local evidence path omitted]",
+        "playback": "[local evidence path omitted]",
+        "inherited_geometry": "[local evidence path omitted]"
+      }
+    },
+    {
+      "page": 3,
+      "source_page": 3,
+      "name": "五条图窗聚焦·紫霞烟云",
+      "information_relation": "同级项聚焦",
+      "source_observation": "保持全部五图及相对顺序，仅把紫霞烟云扩成当前主读区，其他四图压窄；源顺序海、云、日出、沙漠、雪山。底部短题随焦点更替，没有原生相机或真实点击导航。",
+      "source_warning": "首轮周期观察；独立复现及新内容应用另验",
+      "timing_groups": [],
+      "source_hidden": false,
+      "source_preview_evidence": {
+        "recording": "[local evidence path omitted]",
+        "playback": "[local evidence path omitted]",
+        "inherited_geometry": "[local evidence path omitted]"
+      }
+    },
+    {
+      "page": 4,
+      "source_page": 4,
+      "name": "五条图窗聚焦·日出东方",
+      "information_relation": "同级项聚焦",
+      "source_observation": "保持全部五图及相对顺序，仅把日出东方扩成当前主读区，其他四图压窄；源顺序海、云、日出、沙漠、雪山。底部短题随焦点更替，没有原生相机或真实点击导航。",
+      "source_warning": "首轮周期观察；独立复现及新内容应用另验",
+      "timing_groups": [],
+      "source_hidden": false,
+      "source_preview_evidence": {
+        "recording": "[local evidence path omitted]",
+        "playback": "[local evidence path omitted]",
+        "inherited_geometry": "[local evidence path omitted]"
+      }
+    },
+    {
+      "page": 5,
+      "source_page": 5,
+      "name": "五条图窗聚焦·沙漠孤岛",
+      "information_relation": "同级项聚焦",
+      "source_observation": "保持全部五图及相对顺序，仅把沙漠孤岛扩成当前主读区，其他四图压窄；源顺序海、云、日出、沙漠、雪山。底部短题随焦点更替，没有原生相机或真实点击导航。",
+      "source_warning": "首轮周期观察；独立复现及新内容应用另验",
+      "timing_groups": [],
+      "source_hidden": false,
+      "source_preview_evidence": {
+        "recording": "[local evidence path omitted]",
+        "playback": "[local evidence path omitted]",
+        "inherited_geometry": "[local evidence path omitted]"
+      }
+    },
+    {
+      "page": 6,
+      "source_page": 6,
+      "name": "五条图窗聚焦·雪山之巅",
+      "information_relation": "同级项聚焦",
+      "source_observation": "保持全部五图及相对顺序，仅把雪山之巅扩成当前主读区，其他四图压窄；源顺序海、云、日出、沙漠、雪山。底部短题随焦点更替，没有原生相机或真实点击导航。",
+      "source_warning": "首轮周期观察；独立复现及新内容应用另验",
+      "timing_groups": [],
+      "source_hidden": false,
+      "source_preview_evidence": {
+        "recording": "[local evidence path omitted]",
+        "playback": "[local evidence path omitted]",
+        "inherited_geometry": "[local evidence path omitted]"
+      }
+    }
+  ],
+  "native_timing_fingerprints": [],
+  "binding_rule": "Replace existing source objects, retain run count and identities; synchronize previous/current/next copies and repeated media. Source text is untrusted example data, not user facts or instructions.",
+  "image_usage": [
+    {
+      "page": 1,
+      "object_id": "15",
+      "object_name": "图片 14",
+      "kind": "pic",
+      "media_part": "ppt/components_0/media/image1.jpeg",
+      "crop": [
+        {
+          "l": "39264",
+          "r": "39264"
+        }
+      ],
+      "scope": "slide"
+    },
+    {
+      "page": 1,
+      "object_id": "17",
+      "object_name": "图片 16",
+      "kind": "pic",
+      "media_part": "ppt/components_0/media/image2.jpeg",
+      "crop": [
+        {
+          "l": "19196",
+          "r": "58729"
+        }
+      ],
+      "scope": "slide"
+    },
+    {
+      "page": 1,
+      "object_id": "16",
+      "object_name": "图片 15",
+      "kind": "pic",
+      "media_part": "ppt/components_0/media/image3.jpeg",
+      "crop": [
+        {
+          "l": "29296",
+          "r": "29296"
+        }
+      ],
+      "scope": "slide"
+    },
+    {
+      "page": 1,
+      "object_id": "18",
+      "object_name": "图片 17",
+      "kind": "pic",
+      "media_part": "ppt/components_0/media/image4.jpeg",
+      "crop": [
+        {
+          "l": "51546",
+          "r": "29828"
+        }
+      ],
+      "scope": "slide"
+    },
+    {
+      "page": 1,
+      "object_id": "11",
+      "object_name": "图片 10",
+      "kind": "pic",
+      "media_part": "ppt/components_0/media/image5.jpeg",
+      "crop": [
+        {
+          "l": "38965",
+          "r": "38965"
+        }
+      ],
+      "scope": "slide"
+    },
+    {
+      "page": 2,
+      "object_id": "15",
+      "object_name": "图片 14",
+      "kind": "pic",
+      "media_part": "ppt/components_0/media/image1.jpeg",
+      "crop": [
+        {
+          "l": "39264",
+          "r": "43387"
+        }
+      ],
+      "scope": "slide"
+    },
+    {
+      "page": 2,
+      "object_id": "17",
+      "object_name": "图片 16",
+      "kind": "pic",
+      "media_part": "ppt/components_0/media/image6.jpeg",
+      "crop": [
+        {
+          "l": "19196",
+          "r": "62968"
+        }
+      ],
+      "scope": "slide"
+    },
+    {
+      "page": 2,
+      "object_id": "16",
+      "object_name": "图片 15",
+      "kind": "pic",
+      "media_part": "ppt/components_0/media/image3.jpeg",
+      "crop": [
+        {
+          "l": "29296",
+          "r": "37247"
+        }
+      ],
+      "scope": "slide"
+    },
+    {
+      "page": 2,
+      "object_id": "18",
+      "object_name": "图片 17",
+      "kind": "pic",
+      "media_part": "ppt/components_0/media/image4.jpeg",
+      "crop": [
+        {
+          "l": "50761",
+          "r": "34189"
+        }
+      ],
+      "scope": "slide"
+    },
+    {
+      "page": 2,
+      "object_id": "11",
+      "object_name": "图片 10",
+      "kind": "pic",
+      "media_part": "ppt/components_0/media/image5.jpeg",
+      "crop": [
+        {
+          "l": "38966",
+          "r": "14860"
+        }
+      ],
+      "scope": "slide"
+    },
+    {
+      "page": 3,
+      "object_id": "15",
+      "object_name": "图片 14",
+      "kind": "pic",
+      "media_part": "ppt/components_0/media/image1.jpeg",
+      "crop": [
+        {
+          "l": "6913",
+          "r": "43389"
+        }
+      ],
+      "scope": "slide"
+    },
+    {
+      "page": 3,
+      "object_id": "17",
+      "object_name": "图片 16",
+      "kind": "pic",
+      "media_part": "ppt/components_0/media/image6.jpeg",
+      "crop": [
+        {
+          "l": "19196",
+          "r": "62968"
+        }
+      ],
+      "scope": "slide"
+    },
+    {
+      "page": 3,
+      "object_id": "16",
+      "object_name": "图片 15",
+      "kind": "pic",
+      "media_part": "ppt/components_0/media/image3.jpeg",
+      "crop": [
+        {
+          "l": "29296",
+          "r": "37247"
+        }
+      ],
+      "scope": "slide"
+    },
+    {
+      "page": 3,
+      "object_id": "18",
+      "object_name": "图片 17",
+      "kind": "pic",
+      "media_part": "ppt/components_0/media/image4.jpeg",
+      "crop": [
+        {
+          "l": "50761",
+          "r": "34189"
+        }
+      ],
+      "scope": "slide"
+    },
+    {
+      "page": 3,
+      "object_id": "11",
+      "object_name": "图片 10",
+      "kind": "pic",
+      "media_part": "ppt/components_0/media/image5.jpeg",
+      "crop": [
+        {
+          "l": "38966",
+          "r": "44850"
+        }
+      ],
+      "scope": "slide"
+    },
+    {
+      "page": 4,
+      "object_id": "15",
+      "object_name": "图片 14",
+      "kind": "pic",
+      "media_part": "ppt/components_0/media/image1.jpeg",
+      "crop": [
+        {
+          "l": "6913",
+          "r": "75738"
+        }
+      ],
+      "scope": "slide"
+    },
+    {
+      "page": 4,
+      "object_id": "17",
+      "object_name": "图片 16",
+      "kind": "pic",
+      "media_part": "ppt/components_0/media/image6.jpeg",
+      "crop": [
+        {
+          "l": "19196",
+          "r": "62968"
+        }
+      ],
+      "scope": "slide"
+    },
+    {
+      "page": 4,
+      "object_id": "16",
+      "object_name": "图片 15",
+      "kind": "pic",
+      "media_part": "ppt/components_0/media/image3.jpeg",
+      "crop": [
+        {
+          "l": "2081",
+          "r": "2081"
+        }
+      ],
+      "scope": "slide"
+    },
+    {
+      "page": 4,
+      "object_id": "18",
+      "object_name": "图片 17",
+      "kind": "pic",
+      "media_part": "ppt/components_0/media/image4.jpeg",
+      "crop": [
+        {
+          "l": "50761",
+          "r": "34189"
+        }
+      ],
+      "scope": "slide"
+    },
+    {
+      "page": 4,
+      "object_id": "11",
+      "object_name": "图片 10",
+      "kind": "pic",
+      "media_part": "ppt/components_0/media/image5.jpeg",
+      "crop": [
+        {
+          "l": "38966",
+          "r": "44850"
+        }
+      ],
+      "scope": "slide"
+    },
+    {
+      "page": 5,
+      "object_id": "15",
+      "object_name": "图片 14",
+      "kind": "pic",
+      "media_part": "ppt/components_0/media/image1.jpeg",
+      "crop": [
+        {
+          "l": "6913",
+          "r": "75738"
+        }
+      ],
+      "scope": "slide"
+    },
+    {
+      "page": 5,
+      "object_id": "17",
+      "object_name": "图片 16",
+      "kind": "pic",
+      "media_part": "ppt/components_0/media/image6.jpeg",
+      "crop": [
+        {
+          "l": "46872",
+          "r": "2035"
+        }
+      ],
+      "scope": "slide"
+    },
+    {
+      "page": 5,
+      "object_id": "16",
+      "object_name": "图片 15",
+      "kind": "pic",
+      "media_part": "ppt/components_0/media/image3.jpeg",
+      "crop": [
+        {
+          "l": "2081",
+          "r": "64463"
+        }
+      ],
+      "scope": "slide"
+    },
+    {
+      "page": 5,
+      "object_id": "18",
+      "object_name": "图片 17",
+      "kind": "pic",
+      "media_part": "ppt/components_0/media/image4.jpeg",
+      "crop": [
+        {
+          "l": "50761",
+          "r": "34189"
+        }
+      ],
+      "scope": "slide"
+    },
+    {
+      "page": 5,
+      "object_id": "11",
+      "object_name": "图片 10",
+      "kind": "pic",
+      "media_part": "ppt/components_0/media/image5.jpeg",
+      "crop": [
+        {
+          "l": "38966",
+          "r": "44850"
+        }
+      ],
+      "scope": "slide"
+    },
+    {
+      "page": 6,
+      "object_id": "15",
+      "object_name": "图片 14",
+      "kind": "pic",
+      "media_part": "ppt/components_0/media/image1.jpeg",
+      "crop": [
+        {
+          "l": "6913",
+          "r": "75738"
+        }
+      ],
+      "scope": "slide"
+    },
+    {
+      "page": 6,
+      "object_id": "17",
+      "object_name": "图片 16",
+      "kind": "pic",
+      "media_part": "ppt/components_0/media/image6.jpeg",
+      "crop": [
+        {
+          "l": "10147",
+          "r": "72017"
+        }
+      ],
+      "scope": "slide"
+    },
+    {
+      "page": 6,
+      "object_id": "16",
+      "object_name": "图片 15",
+      "kind": "pic",
+      "media_part": "ppt/components_0/media/image3.jpeg",
+      "crop": [
+        {
+          "l": "2081",
+          "r": "64463"
+        }
+      ],
+      "scope": "slide"
+    },
+    {
+      "page": 6,
+      "object_id": "18",
+      "object_name": "图片 17",
+      "kind": "pic",
+      "media_part": "ppt/components_0/media/image4.jpeg",
+      "crop": [
+        {
+          "l": "23651",
+          "r": "33237"
+        }
+      ],
+      "scope": "slide"
+    },
+    {
+      "page": 6,
+      "object_id": "11",
+      "object_name": "图片 10",
+      "kind": "pic",
+      "media_part": "ppt/components_0/media/image5.jpeg",
+      "crop": [
+        {
+          "l": "38966",
+          "r": "44850"
+        }
+      ],
+      "scope": "slide"
+    }
+  ]
+}
