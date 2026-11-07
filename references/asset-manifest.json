@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1",
   "files": [
     {
       "path": "assets/modules/tpl-b834efe53d2b-p001.pptx",
@@ -141,5 +141,5 @@
     }
   ],
   "total_bytes": 218570467,
-  "asset_distribution": "Private release for the material owner; source rights retained."
+  "asset_distribution": "Public release; the contributing owner explicitly authorizes distribution under AGPL-3.0-only."
 }

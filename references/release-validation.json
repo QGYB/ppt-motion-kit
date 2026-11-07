@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1",
   "validated_utc": "2026-11-07T10:42:21.173069+00:00",
   "doctor": {
     "success": true,
@@ -36,5 +36,6 @@
   "relative_runtime_paths": true,
   "source_routes": 21,
   "new_composition_playback_verified": false,
-  "historical_checks": "Imported summaries of scoped WPS runs; not newly re-recorded during packaging."
+  "historical_checks": "Imported summaries of scoped WPS runs; not newly re-recorded during packaging.",
+  "public_distribution_authorized_by_owner": true
 }

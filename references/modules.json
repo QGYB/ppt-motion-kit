@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1",
   "modules": [
     {
       "module_id": "tpl-b834efe53d2b-p001",
@@ -37,7 +37,7 @@
         "user_accepted": false,
         "evidence": "references/verification/tpl-b834efe53d2b-p001.json"
       },
-      "asset_license": "Third-party/source rights retained; not relicensed under AGPL-3.0-only."
+      "asset_license": "AGPL-3.0-only; public distribution expressly authorized by the contributing owner."
     },
     {
       "module_id": "tpl-82ba298a698f-p001-004",
@@ -94,7 +94,7 @@
         "user_accepted": false,
         "evidence": "references/verification/tpl-82ba298a698f-p001-004.json"
       },
-      "asset_license": "Third-party/source rights retained; not relicensed under AGPL-3.0-only."
+      "asset_license": "AGPL-3.0-only; public distribution expressly authorized by the contributing owner."
     },
     {
       "module_id": "tpl-b1c103bde32f-p001-005",
@@ -157,7 +157,7 @@
         "user_accepted": false,
         "evidence": "references/verification/tpl-b1c103bde32f-p001-005.json"
       },
-      "asset_license": "Third-party/source rights retained; not relicensed under AGPL-3.0-only."
+      "asset_license": "AGPL-3.0-only; public distribution expressly authorized by the contributing owner."
     },
     {
       "module_id": "tpl-3aa8b6a56a39-p001-006",
@@ -226,7 +226,7 @@
         "user_accepted": false,
         "evidence": "references/verification/tpl-3aa8b6a56a39-p001-006.json"
       },
-      "asset_license": "Third-party/source rights retained; not relicensed under AGPL-3.0-only."
+      "asset_license": "AGPL-3.0-only; public distribution expressly authorized by the contributing owner."
     },
     {
       "module_id": "tpl-81c0a22de0d9-p001-002",
@@ -271,7 +271,7 @@
         "user_accepted": false,
         "evidence": "references/verification/tpl-81c0a22de0d9-p001-002.json"
       },
-      "asset_license": "Third-party/source rights retained; not relicensed under AGPL-3.0-only."
+      "asset_license": "AGPL-3.0-only; public distribution expressly authorized by the contributing owner."
     },
     {
       "module_id": "tpl-b536fd39b8bf-p001-006",
@@ -345,7 +345,7 @@
         "user_accepted": false,
         "evidence": "references/verification/tpl-b536fd39b8bf-p001-006.json"
       },
-      "asset_license": "Third-party/source rights retained; not relicensed under AGPL-3.0-only."
+      "asset_license": "AGPL-3.0-only; public distribution expressly authorized by the contributing owner."
     },
     {
       "module_id": "tpl-c8d8436f2f39-p001-005",
@@ -408,7 +408,7 @@
         "user_accepted": false,
         "evidence": "references/verification/tpl-c8d8436f2f39-p001-005.json"
       },
-      "asset_license": "Third-party/source rights retained; not relicensed under AGPL-3.0-only."
+      "asset_license": "AGPL-3.0-only; public distribution expressly authorized by the contributing owner."
     },
     {
       "module_id": "tpl-108615410217-p001",
@@ -446,7 +446,7 @@
         "user_accepted": false,
         "evidence": "references/verification/tpl-108615410217-p001.json"
       },
-      "asset_license": "Third-party/source rights retained; not relicensed under AGPL-3.0-only."
+      "asset_license": "AGPL-3.0-only; public distribution expressly authorized by the contributing owner."
     },
     {
       "module_id": "vid-0083-curved-topbar",
@@ -488,7 +488,7 @@
         "user_accepted": false,
         "evidence": "references/verification/vid-0083-curved-topbar.json"
       },
-      "asset_license": "Third-party/source rights retained; not relicensed under AGPL-3.0-only."
+      "asset_license": "AGPL-3.0-only; public distribution expressly authorized by the contributing owner."
     },
     {
       "module_id": "vid-0271-fold-sidebar",
@@ -531,7 +531,7 @@
         "user_accepted": false,
         "evidence": "references/verification/vid-0271-fold-sidebar.json"
       },
-      "asset_license": "Third-party/source rights retained; not relicensed under AGPL-3.0-only."
+      "asset_license": "AGPL-3.0-only; public distribution expressly authorized by the contributing owner."
     },
     {
       "module_id": "vid-0259-row-focus",
@@ -577,7 +577,7 @@
         "user_accepted": false,
         "evidence": "references/verification/vid-0259-row-focus.json"
       },
-      "asset_license": "Third-party/source rights retained; not relicensed under AGPL-3.0-only."
+      "asset_license": "AGPL-3.0-only; public distribution expressly authorized by the contributing owner."
     },
     {
       "module_id": "vid-0299-rhythmic-timeline",
@@ -623,7 +623,7 @@
         "user_accepted": false,
         "evidence": "references/verification/vid-0299-rhythmic-timeline.json"
       },
-      "asset_license": "Third-party/source rights retained; not relicensed under AGPL-3.0-only."
+      "asset_license": "AGPL-3.0-only; public distribution expressly authorized by the contributing owner."
     },
     {
       "module_id": "vid-0314-semicircle-spin",
@@ -678,7 +678,7 @@
         "user_accepted": false,
         "evidence": "references/verification/vid-0314-semicircle-spin.json"
       },
-      "asset_license": "Third-party/source rights retained; not relicensed under AGPL-3.0-only."
+      "asset_license": "AGPL-3.0-only; public distribution expressly authorized by the contributing owner."
     },
     {
       "module_id": "vid-0188-thanks-split",
@@ -727,7 +727,7 @@
         "user_accepted": false,
         "evidence": "references/verification/vid-0188-thanks-split.json"
       },
-      "asset_license": "Third-party/source rights retained; not relicensed under AGPL-3.0-only."
+      "asset_license": "AGPL-3.0-only; public distribution expressly authorized by the contributing owner."
     },
     {
       "module_id": "vid-0041-pullout-chapters",
@@ -769,7 +769,7 @@
         "user_accepted": false,
         "evidence": "references/verification/vid-0041-pullout-chapters.json"
       },
-      "asset_license": "Third-party/source rights retained; not relicensed under AGPL-3.0-only."
+      "asset_license": "AGPL-3.0-only; public distribution expressly authorized by the contributing owner."
     },
     {
       "module_id": "vid-0115-poster-focus",
@@ -809,7 +809,7 @@
         "user_accepted": false,
         "evidence": "references/verification/vid-0115-poster-focus.json"
       },
-      "asset_license": "Third-party/source rights retained; not relicensed under AGPL-3.0-only."
+      "asset_license": "AGPL-3.0-only; public distribution expressly authorized by the contributing owner."
     },
     {
       "module_id": "vid-0182-colored-card-pull",
@@ -854,7 +854,7 @@
         "user_accepted": false,
         "evidence": "references/verification/vid-0182-colored-card-pull.json"
       },
-      "asset_license": "Third-party/source rights retained; not relicensed under AGPL-3.0-only."
+      "asset_license": "AGPL-3.0-only; public distribution expressly authorized by the contributing owner."
     },
     {
       "module_id": "vid-0369-five-step-cards",
@@ -899,7 +899,7 @@
         "user_accepted": false,
         "evidence": "references/verification/vid-0369-five-step-cards.json"
       },
-      "asset_license": "Third-party/source rights retained; not relicensed under AGPL-3.0-only."
+      "asset_license": "AGPL-3.0-only; public distribution expressly authorized by the contributing owner."
     },
     {
       "module_id": "vid-0134-clock-panorama",
@@ -943,7 +943,7 @@
         "user_accepted": false,
         "evidence": "references/verification/vid-0134-clock-panorama.json"
       },
-      "asset_license": "Third-party/source rights retained; not relicensed under AGPL-3.0-only."
+      "asset_license": "AGPL-3.0-only; public distribution expressly authorized by the contributing owner."
     },
     {
       "module_id": "vid-0394-sixty-tick-clock",
@@ -988,7 +988,7 @@
         "user_accepted": false,
         "evidence": "references/verification/vid-0394-sixty-tick-clock.json"
       },
-      "asset_license": "Third-party/source rights retained; not relicensed under AGPL-3.0-only."
+      "asset_license": "AGPL-3.0-only; public distribution expressly authorized by the contributing owner."
     },
     {
       "module_id": "vid-0087-five-row-photo-wall",
@@ -1027,7 +1027,7 @@
         "user_accepted": false,
         "evidence": "references/verification/vid-0087-five-row-photo-wall.json"
       },
-      "asset_license": "Third-party/source rights retained; not relicensed under AGPL-3.0-only."
+      "asset_license": "AGPL-3.0-only; public distribution expressly authorized by the contributing owner."
     },
     {
       "module_id": "vid-0347-two-column-shuttle",
@@ -1066,7 +1066,7 @@
         "user_accepted": false,
         "evidence": "references/verification/vid-0347-two-column-shuttle.json"
       },
-      "asset_license": "Third-party/source rights retained; not relicensed under AGPL-3.0-only."
+      "asset_license": "AGPL-3.0-only; public distribution expressly authorized by the contributing owner."
     },
     {
       "module_id": "tpl-b834efe53d2b-p001-brush-eight-glyphs",
@@ -1112,7 +1112,7 @@
         "user_accepted": false,
         "evidence": "references/verification/tpl-b834efe53d2b-p001-brush-eight-glyphs.json"
       },
-      "asset_license": "Third-party/source rights retained; not relicensed under AGPL-3.0-only."
+      "asset_license": "AGPL-3.0-only; public distribution expressly authorized by the contributing owner."
     }
   ],
   "selection_rule": "new_content_playback_verified and no quarantined/reference/prototype status",
@@ -1120,5 +1120,6 @@
     "modules": 23,
     "pages": 86
   },
-  "verification_scope": "指定核心机制和换内容实播通过；不代表418条全量复现、任意素材替换、任意跨模块连接或新稿用户验收。"
+  "verification_scope": "指定核心机制和换内容实播通过；不代表418条全量复现、任意素材替换、任意跨模块连接或新稿用户验收。",
+  "distribution_authorization": "提供者明确确认这些组件为其自制，并要求包括完整组件包在内全部公开，采用AGPL-3.0。"
 }

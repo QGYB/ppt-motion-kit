@@ -52,4 +52,4 @@ python <skill目录>/scripts/library.py resolve --video-index 405
 
 Python 3.10以上；安装`requirements.txt`。PPTX结构组装可跨平台运行，动画外观仍须目标演示软件实播。先安装批准字体；本包不会下载模型、请求付费API或自动启动桌面录屏。
 
-仓库源码与Skill指引使用AGPL-3.0-only；`assets/modules`内的模板、照片及视频保持其原有权利与授权，详见[素材说明](THIRD_PARTY_NOTICES.md)。源文件和素材只读，生成稿写入独立位置。
+提供者已确认组件为其自制并授权全部公开；仓库源码、Skill指引和完整组件包采用AGPL-3.0-only。字体及软件依赖遵循各自许可证，见[依赖与授权说明](THIRD_PARTY_NOTICES.md)。源文件和素材只读，生成稿写入独立位置。
